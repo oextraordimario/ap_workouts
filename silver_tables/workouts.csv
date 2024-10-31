@@ -1,4 +1,27 @@
 id;day_name;day_number;week_number;plan_name;plan_function;start_time;duration
+202410281642;CosBi;Day 1;Week 5;Verão;Deload;2024-10-28 16:42 h;1:05 hr
+202410251349;PerGlu;Day 3;Week 4;Verão;Deload;2024-10-25 13:49 h;1:05 hr
+202410241617;PeiTriOm;Day 2;Week 4;Verão;Deload;2024-10-24 16:17 h;57 min
+202410211612;CosBi;Day 1;Week 4;Verão;Deload;2024-10-21 16:12 h;27 min
+202410161553;PerGlu;Day 3;Week 3;Verão;Deload;2024-10-16 15:53 h;1:24 hr
+202410151525;PeiTriOm;Day 2;Week 3;Verão;Deload;2024-10-15 15:25 h;1:05 hr
+202410141642;CosBi;Day 1;Week 3;Verão;Deload;2024-10-14 16:42 h;1:11 hr
+202410121000;PerGlu;Day 3;Week 2;Verão;Deload;2024-10-12 10:00 h;1:11 hr
+202410111615;PeiTriOm;Day 2;Week 2;Verão;Deload;2024-10-11 16:15 h;59 min
+202410101639;CosBi;Day 1;Week 2;Verão;Deload;2024-10-10 16:39 h;1:05 hr
+202410091604;PerGlu;Day 3;Week 1;Verão;Deload;2024-10-09 16:04 h;46 min
+202410081525;PeiTriOm;Day 2;Week 1;Verão;Deload;2024-10-08 15:25 h;51 min
+202410071747;CosBi;Day 1;Week 1;Verão;Deload;2024-10-07 17:47 h;50 min
+202409261619;PerGlu;Day 3;Week 2;Jampa;Deload;2024-09-26 16:19 h;1 hr
+202409241724;PeiTriOm;Day 2;Week 2;Jampa;Deload;2024-09-24 17:24 h;50 min
+202409231705;CosBi;Day 1;Week 2;Jampa;Deload;2024-09-23 17:05 h;49 min
+202409201802;PerGlu;Day 3;Week 1;Jampa;Deload;2024-09-20 18:02 h;1:01 hr
+202409181600;PeiTriOm;Day 2;Week 1;Jampa;Deload;2024-09-18 16:00 h;53 min
+202409161558;CosBi;Day 1;Week 1;Jampa;Deload;2024-09-16 15:58 h;51 min
+202409121515;PerGlu;Standalone workout;0;Standalone;Deload;2024-09-12 15:15 h;59 min
+202409091627;Standalone workout;Standalone workout;0;Standalone;Deload;2024-09-09 16:27 h;41 min
+202409031652;Day 1;Day 1;Week 1;Pique 1-2-3;Deload;2024-09-03 16:52 h;21 min
+20240829924;PerGlu;Day 3;Week 2;Transição;Deload;2024-08-29 9:24 h;49 min
 202408231913;PerGlu;Day 3;Week 1;Transição;Deload;2024-08-23 19:13 h;1:03 hr
 202408221648;PeiTriOm;Day 2;Week 1;Transição;Deload;2024-08-22 16:48 h;1:09 hr
 202408201621;CosBi;Day 1;Week 1;Transição;Deload;2024-08-20 16:21 h;57 min

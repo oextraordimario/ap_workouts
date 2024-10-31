@@ -1,4 +1,368 @@
 workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;quantity;measure;comments
+202410281642;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;1;57;12;reps;[]
+202410281642;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;2;57;12;reps;[]
+202410281642;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;3;57;11;reps;[]
+202410281642;2;Incline Rows;Dumbbells;12 reps;1;16;12;reps;[]
+202410281642;2;Incline Rows;Dumbbells;12 reps;2;16;12;reps;[]
+202410281642;2;Incline Rows;Dumbbells;12 reps;3;16;13;reps;[]
+202410281642;3;Reverse Butterfly with Wide Grip;Machine;12 reps;1;30;10;reps;[]
+202410281642;3;Reverse Butterfly with Wide Grip;Machine;12 reps;2;30;10;reps;[]
+202410281642;3;Reverse Butterfly with Wide Grip;Machine;12 reps;3;30;10;reps;[]
+202410281642;4;Rows with Reverse Grip;Cable;12 reps;1;40;15;reps;[]
+202410281642;4;Rows with Reverse Grip;Cable;12 reps;2;40;15;reps;[]
+202410281642;4;Rows with Reverse Grip;Cable;12 reps;3;40;12;reps;[]
+202410281642;5;Pullovers;Cable;12 reps;1;45;12;reps;[]
+202410281642;5;Pullovers;Cable;12 reps;2;45;12;reps;[]
+202410281642;5;Pullovers;Cable;12 reps;3;45;14;reps;[]
+202410281642;6;Seated Curls;Dumbbells;12 reps;1;12;10;reps;[]
+202410281642;6;Seated Curls;Dumbbells;12 reps;2;12;10;reps;[]
+202410281642;6;Seated Curls;Dumbbells;12 reps;3;12;9;reps;[]
+202410281642;7;Plank;Bodyweight;;1;;1:10;mins;[]
+202410281642;7;Plank;Bodyweight;;2;;1;mins;[]
+202410281642;7;Plank;Bodyweight;;3;;0:40;mins;[]
+202410251349;1;Leg Press;Machine;12 reps;1;220;10;reps;[]
+202410251349;1;Leg Press;Machine;12 reps;2;220;12;reps;[]
+202410251349;1;Leg Press;Machine;12 reps;3;220;10;reps;[]
+202410251349;2;Leg Curls on Leg Extension Machine;Machine;12 reps;1;24;12;reps;[]
+202410251349;2;Leg Curls on Leg Extension Machine;Machine;12 reps;2;24;12;reps;[]
+202410251349;2;Leg Curls on Leg Extension Machine;Machine;12 reps;3;24;15;reps;[]
+202410251349;3;Panturrilha bilateral - Leg horizontal;Machine;10 reps;1;105;12;reps;[]
+202410251349;3;Panturrilha bilateral - Leg horizontal;Machine;10 reps;2;105;12;reps;[]
+202410251349;3;Panturrilha bilateral - Leg horizontal;Machine;10 reps;3;105;12;reps;[]
+202410251349;4;Abdução diagonal;Machine;10 reps;1;30;10;reps;[]
+202410251349;4;Abdução diagonal;Machine;10 reps;2;30;12;reps;[]
+202410251349;4;Abdução diagonal;Machine;10 reps;3;30;12;reps;[]
+202410251349;5;Leg Extensions;Machine;12 reps;1;73;12;reps;[]
+202410251349;5;Leg Extensions;Machine;12 reps;2;73;12;reps;[]
+202410251349;5;Leg Extensions;Machine;12 reps;3;73;12;reps;[]
+202410251349;6;Seated Leg Curls;Machine;12 reps;1;63;12;reps;[]
+202410251349;6;Seated Leg Curls;Machine;12 reps;2;63;12;reps;[]
+202410251349;6;Seated Leg Curls;Machine;12 reps;3;63;10;reps;[]
+202410241617;1;Chest Press;Machine;12 reps;1;34;12;reps;[]
+202410241617;1;Chest Press;Machine;12 reps;2;34;12;reps;[]
+202410241617;1;Chest Press;Machine;12 reps;3;34;15;reps;[]
+202410241617;2;Incline Bench Press;Barbell;12 reps;1;30;12;reps;[]
+202410241617;2;Incline Bench Press;Barbell;12 reps;2;30;12;reps;[]
+202410241617;2;Incline Bench Press;Barbell;12 reps;3;30;12;reps;[]
+202410241617;3;Triceps Pushdowns;Cable;12 reps;1;40;12;reps;[]
+202410241617;3;Triceps Pushdowns;Cable;12 reps;2;40;12;reps;[]
+202410241617;3;Triceps Pushdowns;Cable;12 reps;3;40;10;reps;[]
+202410241617;4;Seated Lateral Raises;Dumbbells;12 reps;1;9;10;reps;[]
+202410241617;4;Seated Lateral Raises;Dumbbells;12 reps;2;9;10;reps;[]
+202410241617;4;Seated Lateral Raises;Dumbbells;12 reps;3;9;11;reps;[]
+202410241617;5;L raises;Bodyweight;12 reps;1;;12;reps;[]
+202410241617;5;L raises;Bodyweight;12 reps;2;;12;reps;[]
+202410241617;5;L raises;Bodyweight;12 reps;3;;12;reps;[]
+202410241617;6;Pseudo pushup;Bodyweight;10 reps;1;;10;reps;"""Base da mão na altura da última costela"""
+202410241617;6;Pseudo pushup;Bodyweight;10 reps;2;;10;reps;"""Base da mão na altura da última costela"""
+202410241617;6;Pseudo pushup;Bodyweight;10 reps;3;;7;reps;"""Base da mão na altura da última costela"""
+202410211612;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;1;57;12;reps;[]
+202410211612;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;2;57;12;reps;[]
+202410211612;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;3;57;8;reps;[]
+202410211612;2;One-Arm Rows;Dumbbells;12 reps;1;20;12;reps;[]
+202410211612;2;One-Arm Rows;Dumbbells;12 reps;2;20;12;reps;[]
+202410211612;3;Seated Curls;Dumbbells;12 reps;1;12;10;reps;[]
+202410211612;3;Seated Curls;Dumbbells;12 reps;2;12;10;reps;[]
+202410161553;1;Leg Press;Machine;12 reps;1;216;12;reps;[]
+202410161553;1;Leg Press;Machine;12 reps;2;216;12;reps;[]
+202410161553;1;Leg Press;Machine;12 reps;3;216;15;reps;[]
+202410161553;2;Leg Curls on Leg Extension Machine;Machine;12 reps;1;24;12;reps;[]
+202410161553;2;Leg Curls on Leg Extension Machine;Machine;12 reps;2;24;12;reps;[]
+202410161553;2;Leg Curls on Leg Extension Machine;Machine;12 reps;3;24;12;reps;[]
+202410161553;3;Calf Raises on Leg Press;Machine;12 reps;1;170;12;reps;"""Leg 45"""
+202410161553;3;Calf Raises on Leg Press;Machine;12 reps;2;170;12;reps;"""Leg 45"""
+202410161553;3;Calf Raises on Leg Press;Machine;12 reps;3;170;12;reps;"""Leg 45"""
+202410161553;4;Hip Abduction;Machine;12 reps;1;30;12;reps;[]
+202410161553;4;Hip Abduction;Machine;12 reps;2;30;12;reps;[]
+202410161553;4;Hip Abduction;Machine;12 reps;3;30;15;reps;[]
+202410161553;5;Leg Extensions;Machine;12 reps;1;73;12;reps;[]
+202410161553;5;Leg Extensions;Machine;12 reps;2;73;12;reps;[]
+202410161553;5;Leg Extensions;Machine;12 reps;3;73;12;reps;[]
+202410161553;6;Hip Thrusts;Barbell;12 reps;1;16;12;reps;[]
+202410161553;6;Hip Thrusts;Barbell;12 reps;2;16;12;reps;[]
+202410161553;6;Hip Thrusts;Barbell;12 reps;3;16;12;reps;[]
+202410161553;7;Seated Leg Curls;Machine;12 reps;1;62;12;reps;[]
+202410161553;7;Seated Leg Curls;Machine;12 reps;2;62;12;reps;[]
+202410161553;7;Seated Leg Curls;Machine;12 reps;3;62;12;reps;[]
+202410151525;1;Chest Press;Machine;12 reps;1;32;12;reps;[]
+202410151525;1;Chest Press;Machine;12 reps;2;32;12;reps;[]
+202410151525;1;Chest Press;Machine;12 reps;3;32;15;reps;[]
+202410151525;2;Incline Bench Press;Barbell;12 reps;1;30;12;reps;"""Voltei a arquear as costas e facilitou consideravelmente"""
+202410151525;2;Incline Bench Press;Barbell;12 reps;2;30;12;reps;"""Voltei a arquear as costas e facilitou consideravelmente"""
+202410151525;2;Incline Bench Press;Barbell;12 reps;3;30;12;reps;"""Voltei a arquear as costas e facilitou consideravelmente"""
+202410151525;3;Triceps Pushdowns;Cable;12 reps;1;40;12;reps;[]
+202410151525;3;Triceps Pushdowns;Cable;12 reps;2;40;12;reps;[]
+202410151525;3;Triceps Pushdowns;Cable;12 reps;3;40;12;reps;[]
+202410151525;4;Seated Lateral Raises;Dumbbells;12 reps;1;8;12;reps;[]
+202410151525;4;Seated Lateral Raises;Dumbbells;12 reps;2;8;12;reps;[]
+202410151525;4;Seated Lateral Raises;Dumbbells;12 reps;3;8;15;reps;[]
+202410151525;5;Front Raises;Dumbbells;12 reps;1;12;8;reps;"""Peito apoiado no banco. Não curti muito"""
+202410151525;5;Front Raises;Dumbbells;12 reps;2;12;8;reps;"""Peito apoiado no banco. Não curti muito"""
+202410151525;6;Standing Shoulder Press;Barbell;12 reps;1;10;20;reps;[]
+202410151525;6;Standing Shoulder Press;Barbell;12 reps;2;12;20;reps;[]
+202410151525;6;Standing Shoulder Press;Barbell;12 reps;3;12;18;reps;[]
+202410151525;7;L raises;Bodyweight;12 reps;1;;12;reps;[]
+202410151525;7;L raises;Bodyweight;12 reps;2;;12;reps;[]
+202410151525;7;L raises;Bodyweight;12 reps;3;;12;reps;[]
+202410141642;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;1;55;12;reps;[]
+202410141642;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;2;55;12;reps;[]
+202410141642;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;3;55;15;reps;[]
+202410141642;2;One-Arm Rows;Dumbbells;12 reps;1;20;12;reps;"""Senti mais cansaço e falta de fôlego do que falha muscular de fato"""
+202410141642;2;One-Arm Rows;Dumbbells;12 reps;2;20;12;reps;"""Senti mais cansaço e falta de fôlego do que falha muscular de fato"""
+202410141642;2;One-Arm Rows;Dumbbells;12 reps;3;20;12;reps;"""Senti mais cansaço e falta de fôlego do que falha muscular de fato"""
+202410141642;3;Reverse Butterfly with Wide Grip;Machine;12 reps;1;28;12;reps;[]
+202410141642;3;Reverse Butterfly with Wide Grip;Machine;12 reps;2;28;12;reps;[]
+202410141642;3;Reverse Butterfly with Wide Grip;Machine;12 reps;3;28;15;reps;[]
+202410141642;4;Rows with Reverse Grip;Cable;12 reps;1;40;12;reps;[]
+202410141642;4;Rows with Reverse Grip;Cable;12 reps;2;40;12;reps;[]
+202410141642;4;Rows with Reverse Grip;Cable;12 reps;3;40;15;reps;[]
+202410141642;5;Pullovers;Cable;12 reps;1;45;12;reps;[]
+202410141642;5;Pullovers;Cable;12 reps;2;45;12;reps;[]
+202410141642;5;Pullovers;Cable;12 reps;3;45;14;reps;[]
+202410141642;6;Seated Curls;Dumbbells;12 reps;1;12;8;reps;[]
+202410141642;6;Seated Curls;Dumbbells;12 reps;2;12;8;reps;[]
+202410141642;6;Seated Curls;Dumbbells;12 reps;3;12;12;reps;[]
+202410141642;7;Plank;Bodyweight;;1;;1:20;mins;"""Sentindo mais o ombro que o abdômen, principalmente mais pra frente"""
+202410141642;7;Plank;Bodyweight;;2;;0:55;mins;"""Sentindo mais o ombro que o abdômen, principalmente mais pra frente"""
+202410141642;7;Plank;Bodyweight;;3;;0:50;mins;"""Sentindo mais o ombro que o abdômen, principalmente mais pra frente"""
+202410121000;1;Leg Press;Machine;12 reps;1;210;12;reps;[]
+202410121000;1;Leg Press;Machine;12 reps;2;210;12;reps;[]
+202410121000;1;Leg Press;Machine;12 reps;3;210;15;reps;[]
+202410121000;2;Leg Curls on Leg Extension Machine;Machine;12 reps;1;23;12;reps;[]
+202410121000;2;Leg Curls on Leg Extension Machine;Machine;12 reps;2;23;12;reps;[]
+202410121000;2;Leg Curls on Leg Extension Machine;Machine;12 reps;3;23;15;reps;[]
+202410121000;3;Calf Raises on Leg Press;Machine;12 reps;1;100;12;reps;"""Leg horizontal, duas pernas"""
+202410121000;3;Calf Raises on Leg Press;Machine;12 reps;2;100;12;reps;"""Leg horizontal, duas pernas"""
+202410121000;3;Calf Raises on Leg Press;Machine;12 reps;3;100;15;reps;"""Leg horizontal, duas pernas"""
+202410121000;4;Hip Abduction;Cable;12 reps;1;18;12;reps;[]
+202410121000;4;Hip Abduction;Cable;12 reps;2;17;12;reps;[]
+202410121000;4;Hip Abduction;Cable;12 reps;3;17;12;reps;[]
+202410121000;5;Leg Extensions;Machine;12 reps;1;72;12;reps;[]
+202410121000;5;Leg Extensions;Machine;12 reps;2;72;12;reps;[]
+202410121000;5;Leg Extensions;Machine;12 reps;3;72;15;reps;[]
+202410121000;6;Seated Leg Curls;Machine;12 reps;1;60;12;reps;[]
+202410121000;6;Seated Leg Curls;Machine;12 reps;2;60;12;reps;[]
+202410121000;6;Seated Leg Curls;Machine;12 reps;3;60;15;reps;[]
+202410111615;1;Chest Press;Machine;12 reps;1;30;12;reps;[]
+202410111615;1;Chest Press;Machine;12 reps;2;30;12;reps;[]
+202410111615;1;Chest Press;Machine;12 reps;3;30;15;reps;[]
+202410111615;2;Incline Bench Press;Barbell;12 reps;1;32;12;reps;"""Dois buracos aparecendo no banco. Uns 40°"""
+202410111615;2;Incline Bench Press;Barbell;12 reps;2;30;12;reps;"""Dois buracos aparecendo no banco. Uns 40°"""
+202410111615;2;Incline Bench Press;Barbell;12 reps;3;30;10;reps;"""Dois buracos aparecendo no banco. Uns 40°"""
+202410111615;3;Triceps Pushdowns;Cable;12 reps;1;40;12;reps;[]
+202410111615;3;Triceps Pushdowns;Cable;12 reps;2;40;12;reps;[]
+202410111615;3;Triceps Pushdowns;Cable;12 reps;3;40;11;reps;[]
+202410111615;4;Seated Lateral Raises;Dumbbells;12 reps;1;8;12;reps;[]
+202410111615;4;Seated Lateral Raises;Dumbbells;12 reps;2;8;12;reps;[]
+202410111615;4;Seated Lateral Raises;Dumbbells;12 reps;3;8;14;reps;[]
+202410111615;5;Shoulder Press;Machine;12 reps;1;20;12;reps;[]
+202410111615;5;Shoulder Press;Machine;12 reps;2;20;12;reps;[]
+202410111615;5;Shoulder Press;Machine;12 reps;3;20;15;reps;[]
+202410111615;6;L raises;Bodyweight;12 reps;1;;12;reps;[]
+202410111615;6;L raises;Bodyweight;12 reps;2;;12;reps;[]
+202410111615;6;L raises;Bodyweight;12 reps;3;;9;reps;[]
+202410101639;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;1;55;12;reps;[]
+202410101639;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;2;55;12;reps;[]
+202410101639;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;3;55;12;reps;[]
+202410101639;2;One-Arm Rows;Dumbbells;12 reps;1;20;12;reps;[]
+202410101639;2;One-Arm Rows;Dumbbells;12 reps;2;20;12;reps;[]
+202410101639;2;One-Arm Rows;Dumbbells;12 reps;3;20;12;reps;[]
+202410101639;3;Reverse Butterfly with Wide Grip;Machine;12 reps;1;28;12;reps;[]
+202410101639;3;Reverse Butterfly with Wide Grip;Machine;12 reps;2;28;12;reps;[]
+202410101639;3;Reverse Butterfly with Wide Grip;Machine;12 reps;3;28;14;reps;[]
+202410101639;4;Pullovers;Cable;12 reps;1;45;12;reps;[]
+202410101639;4;Pullovers;Cable;12 reps;2;45;12;reps;[]
+202410101639;4;Pullovers;Cable;12 reps;3;45;13;reps;[]
+202410101639;5;Seated Curls;Dumbbells;12 reps;1;10;12;reps;[]
+202410101639;5;Seated Curls;Dumbbells;12 reps;2;10;12;reps;[]
+202410101639;5;Seated Curls;Dumbbells;12 reps;3;10;15;reps;[]
+202410101639;6;Plank;Bodyweight;;1;;1:10;mins;[]
+202410101639;6;Plank;Bodyweight;;2;;1:10;mins;[]
+202410101639;6;Plank;Bodyweight;;3;;1:10;mins;[]
+202410091604;1;Leg Press;Machine;12 reps;1;200;12;reps;[]
+202410091604;1;Leg Press;Machine;12 reps;2;200;12;reps;[]
+202410091604;1;Leg Press;Machine;12 reps;3;200;12;reps;[]
+202410091604;1;Leg Press;Machine;12 reps;4;210;10;reps;[]
+202410091604;2;Leg Curls on Leg Extension Machine;Machine;12 reps;1;23;12;reps;[]
+202410091604;2;Leg Curls on Leg Extension Machine;Machine;12 reps;2;23;12;reps;[]
+202410091604;2;Leg Curls on Leg Extension Machine;Machine;12 reps;3;23;12;reps;[]
+202410091604;2;Leg Curls on Leg Extension Machine;Machine;12 reps;4;23;12;reps;[]
+202410091604;3;Seated Calf Raises;Machine;12 reps;1;55;12;reps;[]
+202410091604;3;Seated Calf Raises;Machine;12 reps;2;55;12;reps;[]
+202410091604;3;Seated Calf Raises;Machine;12 reps;3;55;11;reps;[]
+202410091604;3;Seated Calf Raises;Machine;12 reps;4;55;10;reps;[]
+202410081525;1;Flexão arqueiro smith;Bodyweight;12 reps;1;;12;reps;"""Altura 8"""
+202410081525;1;Flexão arqueiro smith;Bodyweight;12 reps;2;;12;reps;"""Altura 8"""
+202410081525;1;Flexão arqueiro smith;Bodyweight;12 reps;3;;12;reps;"""Altura 8"""
+202410081525;1;Flexão arqueiro smith;Bodyweight;12 reps;4;;12;reps;"""Altura 8"""
+202410081525;2;Dips;Bodyweight;12 reps;1;+0;10;reps;[]
+202410081525;2;Dips;Bodyweight;12 reps;2;+0;4;reps;[]
+202410081525;2;Dips;Bodyweight;12 reps;3;+0;4;reps;[]
+202410081525;2;Dips;Bodyweight;12 reps;4;+0;2;reps;[]
+202410081525;3;L raises;Bodyweight;12 reps;1;;10;reps;[]
+202410081525;3;L raises;Bodyweight;12 reps;2;;7;reps;[]
+202410081525;3;L raises;Bodyweight;12 reps;3;;6;reps;[]
+202410081525;3;L raises;Bodyweight;12 reps;4;;7;reps;[]
+202410081525;4;Lean Away Lateral Raises;Cable;12 reps;1;6;11;reps;[]
+202410081525;4;Lean Away Lateral Raises;Cable;12 reps;2;5;12;reps;[]
+202410081525;4;Lean Away Lateral Raises;Cable;12 reps;3;5;12;reps;[]
+202410081525;4;Lean Away Lateral Raises;Cable;12 reps;4;5;12;reps;[]
+202410071747;1;Pull-Ups with Wide Overhand Grip;Bodyweight;12 reps;1;+0;8;reps;[]
+202410071747;1;Pull-Ups with Wide Overhand Grip;Bodyweight;12 reps;2;+0;4;reps;[]
+202410071747;1;Pull-Ups with Wide Overhand Grip;Bodyweight;12 reps;3;+0;4;reps;[]
+202410071747;1;Pull-Ups with Wide Overhand Grip;Bodyweight;12 reps;4;+0;3;reps;[]
+202410071747;2;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;12 reps;1;+0;6;reps;"""Barra altura 11, pé no chão. Abaixei na terceira série pra facilitar. Dá pra subir pra altura 12 na próxima eu acho"""
+202410071747;2;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;12 reps;2;+0;6;reps;"""Barra altura 11, pé no chão. Abaixei na terceira série pra facilitar. Dá pra subir pra altura 12 na próxima eu acho"""
+202410071747;2;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;12 reps;3;+0;8;reps;"""Barra altura 11, pé no chão. Abaixei na terceira série pra facilitar. Dá pra subir pra altura 12 na próxima eu acho"""
+202410071747;2;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;12 reps;4;+0;7;reps;"""Barra altura 11, pé no chão. Abaixei na terceira série pra facilitar. Dá pra subir pra altura 12 na próxima eu acho"""
+202410071747;3;Seated Curls;Dumbbells;12 reps;1;10;12;reps;[]
+202410071747;3;Seated Curls;Dumbbells;12 reps;2;10;12;reps;[]
+202410071747;3;Seated Curls;Dumbbells;12 reps;3;10;12;reps;[]
+202410071747;3;Seated Curls;Dumbbells;12 reps;4;10;12;reps;[]
+202410071747;4;Plank;Bodyweight;;1;;1;mins;[]
+202410071747;4;Plank;Bodyweight;;2;;1;mins;[]
+202410071747;4;Plank;Bodyweight;;3;;1;mins;[]
+202410071747;4;Plank;Bodyweight;;4;;1;mins;[]
+202410071747;5;Rows with Close Grip;TRX;10 reps;1;;12;reps;"""Altura do quadril"""
+202410071747;5;Rows with Close Grip;TRX;10 reps;2;;7;reps;"""Altura do quadril"""
+202409261619;1;Leg Press;Machine;12 reps;1;200;12;reps;[]
+202409261619;1;Leg Press;Machine;12 reps;2;200;12;reps;[]
+202409261619;1;Leg Press;Machine;12 reps;3;200;15;reps;[]
+202409261619;2;Seated Leg Curls;Machine;12 reps;1;60;12;reps;[]
+202409261619;2;Seated Leg Curls;Machine;12 reps;2;60;12;reps;[]
+202409261619;2;Seated Leg Curls;Machine;12 reps;3;60;12;reps;[]
+202409261619;3;L raises;Bodyweight;10 reps;1;;12;reps;[]
+202409261619;3;L raises;Bodyweight;10 reps;2;;12;reps;[]
+202409261619;3;L raises;Bodyweight;10 reps;3;;12;reps;[]
+202409261619;4;Hip Abduction;Machine;12 reps;1;60;10;reps;[]
+202409261619;4;Hip Abduction;Machine;12 reps;2;56;12;reps;[]
+202409261619;4;Hip Abduction;Machine;12 reps;3;56;12;reps;[]
+202409261619;5;Leg Extensions;Machine;12 reps;1;65;12;reps;[]
+202409261619;5;Leg Extensions;Machine;12 reps;2;65;12;reps;[]
+202409261619;5;Leg Extensions;Machine;12 reps;3;65;12;reps;[]
+202409241724;1;Bench Press;Dumbbells;12 reps;1;18;12;reps;[]
+202409241724;1;Bench Press;Dumbbells;12 reps;2;18;12;reps;[]
+202409241724;1;Bench Press;Dumbbells;12 reps;3;18;12;reps;[]
+202409241724;2;Incline Bench Press;Dumbbells;10 reps;1;12;15;reps;[]
+202409241724;2;Incline Bench Press;Dumbbells;10 reps;2;12;15;reps;[]
+202409241724;2;Incline Bench Press;Dumbbells;10 reps;3;12;11;reps;[]
+202409241724;3;Triceps Pushdowns;Cable;12 reps;1;16;12;reps;[]
+202409241724;3;Triceps Pushdowns;Cable;12 reps;2;16;12;reps;[]
+202409241724;3;Triceps Pushdowns;Cable;12 reps;3;16;11;reps;[]
+202409241724;4;Lateral Raises;Dumbbells;12 reps;1;9;12;reps;[]
+202409241724;4;Lateral Raises;Dumbbells;12 reps;2;9;12;reps;[]
+202409241724;4;Lateral Raises;Dumbbells;12 reps;3;9;11;reps;[]
+202409241724;5;Pseudo pushup;Bodyweight;12 reps;1;;7;reps;[]
+202409231705;1;Lat Pulldowns with Wide Overhand Grip;Cable;12 reps;1;50;12;reps;[]
+202409231705;1;Lat Pulldowns with Wide Overhand Grip;Cable;12 reps;2;50;12;reps;[]
+202409231705;1;Lat Pulldowns with Wide Overhand Grip;Cable;12 reps;3;50;12;reps;[]
+202409231705;2;Chest-Supported Low Rows with Neutral Grip;Machine;12 reps;1;50;10;reps;[]
+202409231705;2;Chest-Supported Low Rows with Neutral Grip;Machine;12 reps;2;50;10;reps;[]
+202409231705;2;Chest-Supported Low Rows with Neutral Grip;Machine;12 reps;3;50;12;reps;[]
+202409231705;3;Reverse Butterfly with Wide Grip;Machine;12 reps;1;25;8;reps;"""Bluefit jampa"""
+202409231705;3;Reverse Butterfly with Wide Grip;Machine;12 reps;2;20;12;reps;"""Bluefit jampa"""
+202409231705;3;Reverse Butterfly with Wide Grip;Machine;12 reps;3;20;13;reps;"""Bluefit jampa"""
+202409231705;4;Curls;Dumbbells;12 reps;1;10;12;reps;[]
+202409231705;4;Curls;Dumbbells;12 reps;2;10;12;reps;[]
+202409231705;4;Curls;Dumbbells;12 reps;3;10;15;reps;[]
+202409231705;5;L raises;Bodyweight;10 reps;1;;12;reps;"""G1 Jampa. Naquele equipamento de Abdominal na paralela com as costas apoiadas"""
+202409231705;5;L raises;Bodyweight;10 reps;2;;11;reps;"""G1 Jampa. Naquele equipamento de Abdominal na paralela com as costas apoiadas"""
+202409231705;5;L raises;Bodyweight;10 reps;3;;9;reps;"""G1 Jampa. Naquele equipamento de Abdominal na paralela com as costas apoiadas"""
+202409201802;1;Leg Press;Machine;12 reps;1;180;12;reps;"""Academia G1 Jampa. Leg 45"""
+202409201802;1;Leg Press;Machine;12 reps;2;190;12;reps;"""Academia G1 Jampa. Leg 45"""
+202409201802;1;Leg Press;Machine;12 reps;3;190;14;reps;"""Academia G1 Jampa. Leg 45"""
+202409201802;2;Seated Leg Curls;Machine;12 reps;1;50;12;reps;[]
+202409201802;2;Seated Leg Curls;Machine;12 reps;2;55;12;reps;[]
+202409201802;2;Seated Leg Curls;Machine;12 reps;3;55;15;reps;[]
+202409201802;3;Seated Calf Raises;Machine;12 reps;1;50;12;reps;[]
+202409201802;3;Seated Calf Raises;Machine;12 reps;2;53;12;reps;[]
+202409201802;3;Seated Calf Raises;Machine;12 reps;3;56;11;reps;[]
+202409201802;4;Leg Extensions;Machine;12 reps;1;50;12;reps;[]
+202409201802;4;Leg Extensions;Machine;12 reps;2;60;12;reps;[]
+202409201802;4;Leg Extensions;Machine;12 reps;3;65;12;reps;[]
+202409201802;4;Leg Extensions;Machine;12 reps;4;70;10;reps;[]
+202409201802;5;Lying Leg Curls;Machine;12 reps;1;40;12;reps;[]
+202409201802;5;Lying Leg Curls;Machine;12 reps;2;40;12;reps;[]
+202409201802;5;Lying Leg Curls;Machine;12 reps;3;40;8;reps;[]
+202409181600;1;Chest Press;Machine;12 reps;1;20;15;reps;"""Academia G1 Jampa"""
+202409181600;1;Chest Press;Machine;12 reps;2;22,5;15;reps;"""Academia G1 Jampa"""
+202409181600;1;Chest Press;Machine;12 reps;3;25;15;reps;"""Academia G1 Jampa"""
+202409181600;2;Incline Bench Press;Dumbbells;10 reps;1;16;12;reps;[]
+202409181600;2;Incline Bench Press;Dumbbells;10 reps;2;16;10;reps;[]
+202409181600;2;Incline Bench Press;Dumbbells;10 reps;3;16;8;reps;[]
+202409181600;3;Triceps Pushdowns;Cable;12 reps;1;14;15;reps;[]
+202409181600;3;Triceps Pushdowns;Cable;12 reps;2;16;12;reps;[]
+202409181600;3;Triceps Pushdowns;Cable;12 reps;3;16;12;reps;[]
+202409181600;4;Seated Lateral Raises;Dumbbells;12 reps;1;10;8;reps;[]
+202409181600;4;Seated Lateral Raises;Dumbbells;12 reps;2;10;8;reps;[]
+202409181600;4;Seated Lateral Raises;Dumbbells;12 reps;3;9;15;reps;[]
+202409181600;5;Seated Shoulder Press;Dumbbells;12 reps;1;9;8;reps;"""Melhor pegar menos peso e aumentar as reps"""
+202409181600;5;Seated Shoulder Press;Dumbbells;12 reps;2;9;8;reps;"""Melhor pegar menos peso e aumentar as reps"""
+202409181600;5;Seated Shoulder Press;Dumbbells;12 reps;3;9;6;reps;"""Melhor pegar menos peso e aumentar as reps"""
+202409181600;6;Pseudo pushup;Bodyweight;12 reps;1;;7;reps;"""Mãos na altura da base da costela +-"""
+202409181600;6;Pseudo pushup;Bodyweight;12 reps;2;;7;reps;"""Mãos na altura da base da costela +-"""
+202409181600;6;Pseudo pushup;Bodyweight;12 reps;3;;5;reps;"""Mãos na altura da base da costela +-"""
+202409161558;1;Chest-Supported Low Rows with Neutral Grip;Machine;12 reps;1;40;12;reps;[]
+202409161558;1;Chest-Supported Low Rows with Neutral Grip;Machine;12 reps;2;40;12;reps;[]
+202409161558;1;Chest-Supported Low Rows with Neutral Grip;Machine;12 reps;3;50;15;reps;[]
+202409161558;2;Lat Pulldowns with Wide Overhand Grip;Cable;12 reps;1;50;12;reps;"""Presumindo que cada bolacha são 5kg. 10 depas"""
+202409161558;2;Lat Pulldowns with Wide Overhand Grip;Cable;12 reps;2;55;10;reps;"""Presumindo que cada bolacha são 5kg. 10 depas"""
+202409161558;2;Lat Pulldowns with Wide Overhand Grip;Cable;12 reps;3;50;12;reps;"""Presumindo que cada bolacha são 5kg. 10 depas"""
+202409161558;3;Incline Reverse Flys;Dumbbells;12 reps;1;8;12;reps;[]
+202409161558;3;Incline Reverse Flys;Dumbbells;12 reps;2;8;12;reps;[]
+202409161558;3;Incline Reverse Flys;Dumbbells;12 reps;3;8;12;reps;[]
+202409161558;4;Pullovers;Cable;12 reps;1;45;12;reps;"""Senti um pouco na costela do lado direito. Estranho. Melhorei o bracing e senti que ajudou"""
+202409161558;4;Pullovers;Cable;12 reps;2;45;12;reps;"""Senti um pouco na costela do lado direito. Estranho. Melhorei o bracing e senti que ajudou"""
+202409161558;4;Pullovers;Cable;12 reps;3;45;12;reps;"""Senti um pouco na costela do lado direito. Estranho. Melhorei o bracing e senti que ajudou"""
+202409161558;5;Curls;Dumbbells;12 reps;1;10;12;reps;[]
+202409161558;5;Curls;Dumbbells;12 reps;2;10;13;reps;[]
+202409161558;5;Curls;Dumbbells;12 reps;3;10;12;reps;[]
+202409121515;1;Leg Press;Machine;12 reps;1;110;12;reps;"""Bluefit Jampa. Leg horizontal"""
+202409121515;1;Leg Press;Machine;12 reps;2;125;12;reps;"""Bluefit Jampa. Leg horizontal"""
+202409121515;1;Leg Press;Machine;12 reps;3;132,5;10;reps;"""Bluefit Jampa. Leg horizontal"""
+202409121515;2;Calf Raises on Leg Press;Machine;10 reps;1;80;12;reps;"""Bluefit Jampa. Leg horizontal"""
+202409121515;2;Calf Raises on Leg Press;Machine;10 reps;2;95;12;reps;"""Bluefit Jampa. Leg horizontal"""
+202409121515;2;Calf Raises on Leg Press;Machine;10 reps;3;102,5;11;reps;"""Bluefit Jampa. Leg horizontal"""
+202409121515;3;Lying Leg Curls;Machine;12 reps;1;35;12;reps;[]
+202409121515;3;Lying Leg Curls;Machine;12 reps;2;40;12;reps;[]
+202409121515;3;Lying Leg Curls;Machine;12 reps;3;40;12;reps;[]
+202409121515;4;Leg Extensions;Machine;12 reps;1;55;12;reps;"""Bluefit Jampa"""
+202409121515;4;Leg Extensions;Machine;12 reps;2;55;12;reps;"""Bluefit Jampa"""
+202409121515;4;Leg Extensions;Machine;12 reps;3;60;15;reps;"""Bluefit Jampa"""
+202409121515;5;Seated Leg Curls;Machine;12 reps;1;29;12;reps;"""Bluefit Jampa"""
+202409121515;5;Seated Leg Curls;Machine;12 reps;2;29;12;reps;"""Bluefit Jampa"""
+202409121515;5;Seated Leg Curls;Machine;12 reps;3;36;11;reps;"""Bluefit Jampa"""
+202409091627;1;Pull-Ups with Wide Overhand Grip;Bodyweight;10 reps;1;+0;9;reps;[]
+202409091627;1;Pull-Ups with Wide Overhand Grip;Bodyweight;10 reps;2;+0;6;reps;[]
+202409091627;1;Pull-Ups with Wide Overhand Grip;Bodyweight;10 reps;3;+0;5;reps;[]
+202409091627;1;Pull-Ups with Wide Overhand Grip;Bodyweight;10 reps;4;+0;4;reps;[]
+202409091627;2;Dips;Bodyweight;10 reps;1;+0;10;reps;[]
+202409091627;2;Dips;Bodyweight;10 reps;2;+0;7;reps;[]
+202409091627;2;Dips;Bodyweight;10 reps;3;+0;4;reps;[]
+202409031652;1;Pull-Ups with Close Neutral Grip;Bodyweight;10 reps;1;+0;10;reps;[]
+202409031652;1;Pull-Ups with Close Neutral Grip;Bodyweight;10 reps;2;+0;6;reps;[]
+202409031652;1;Pull-Ups with Close Neutral Grip;Bodyweight;10 reps;3;+0;5;reps;[]
+202409031652;2;Push-Ups;Bodyweight;10 reps;1;;20;reps;[]
+202409031652;2;Push-Ups;Bodyweight;10 reps;2;;12;reps;[]
+202409031652;2;Push-Ups;Bodyweight;10 reps;3;;10;reps;[]
+202409031652;3;Goblet Squats;Dumbbells;10 reps;1;0;30;reps;[]
+202409031652;3;Goblet Squats;Dumbbells;10 reps;2;0;18;reps;[]
+202409031652;3;Goblet Squats;Dumbbells;10 reps;3;0;15;reps;[]
+202409031652;4;L raises;Bodyweight;10 reps;1;;10;reps;[]
+202409031652;4;L raises;Bodyweight;10 reps;2;;8;reps;[]
+202409031652;4;L raises;Bodyweight;10 reps;3;;6;reps;[]
+20240829924;1;Leg Press;Machine;12 reps;1;210;12;reps;[]
+20240829924;1;Leg Press;Machine;12 reps;2;210;12;reps;[]
+20240829924;1;Leg Press;Machine;12 reps;3;210;12;reps;[]
+20240829924;2;Calf Raises on Leg Press;Machine;12 reps;1;166;12;reps;[]
+20240829924;2;Calf Raises on Leg Press;Machine;12 reps;2;166;12;reps;[]
+20240829924;2;Calf Raises on Leg Press;Machine;12 reps;3;166;12;reps;[]
+20240829924;3;Leg Curls on Leg Extension Machine;Machine;12 reps;1;25;12;reps;[]
+20240829924;3;Leg Curls on Leg Extension Machine;Machine;12 reps;2;25;10;reps;[]
+20240829924;3;Leg Curls on Leg Extension Machine;Machine;12 reps;3;25;10;reps;[]
+20240829924;4;Leg Extensions;Machine;12 reps;1;72;12;reps;[]
+20240829924;4;Leg Extensions;Machine;12 reps;2;72;12;reps;[]
+20240829924;4;Leg Extensions;Machine;12 reps;3;72;15;reps;[]
 202408231913;1;Leg Press;Machine;12 reps;1;206;12;reps;[]
 202408231913;1;Leg Press;Machine;12 reps;2;206;12;reps;[]
 202408231913;1;Leg Press;Machine;12 reps;3;210;15;reps;[]
@@ -2161,9 +2525,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202312271143;5;Leg Curls on Leg Extension Machine;Machine;15 reps;1;20;10;reps;[]
 202312271143;5;Leg Curls on Leg Extension Machine;Machine;15 reps;2;20;10;reps;[]
 202312271143;5;Leg Curls on Leg Extension Machine;Machine;15 reps;3;20;10;reps;[]
-202312271143;6;Hip Thrusts;Barbell;10 reps;1;20;10;reps;"""Manter o peso pq da última vez tive umas dores à noite e talvez tenha sido desse exercício."""
-202312271143;6;Hip Thrusts;Barbell;10 reps;2;0;15;reps;"""Manter o peso pq da última vez tive umas dores à noite e talvez tenha sido desse exercício."""
-202312271143;6;Hip Thrusts;Barbell;10 reps;3;0;15;reps;"""Manter o peso pq da última vez tive umas dores à noite e talvez tenha sido desse exercício."""
+202312271143;6;Hip Thrusts;Barbell;10 reps;1;20;10;reps;"""Manter o peso pq da última vez tive umas dores à noite e talvez tenha sido desse exercício. Senti um pouco de pressão na coluna e achei melhor parar"""
+202312271143;6;Hip Thrusts;Barbell;10 reps;2;0;15;reps;"""Manter o peso pq da última vez tive umas dores à noite e talvez tenha sido desse exercício. Senti um pouco de pressão na coluna e achei melhor parar"""
+202312271143;6;Hip Thrusts;Barbell;10 reps;3;0;15;reps;"""Manter o peso pq da última vez tive umas dores à noite e talvez tenha sido desse exercício. Senti um pouco de pressão na coluna e achei melhor parar"""
 202312261209;1;Lat Pulldowns with Wide Overhand Grip;Cable;12 reps;1;50;10;reps;[]
 202312261209;1;Lat Pulldowns with Wide Overhand Grip;Cable;12 reps;2;50;10;reps;[]
 202312261209;1;Lat Pulldowns with Wide Overhand Grip;Cable;12 reps;3;50;15;reps;[]
