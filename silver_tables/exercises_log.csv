@@ -1,4 +1,39 @@
 workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;quantity;measure;comments
+202410301632;1;Leg Press;Machine;12 reps;1;210;15;reps;[]
+202410301632;1;Leg Press;Machine;12 reps;2;210;15;reps;[]
+202410301632;1;Leg Press;Machine;12 reps;3;210;13;reps;[]
+202410301632;2;Leg Curls on Leg Extension Machine;Machine;12 reps;1;25;12;reps;[]
+202410301632;2;Leg Curls on Leg Extension Machine;Machine;12 reps;2;25;12;reps;[]
+202410301632;2;Leg Curls on Leg Extension Machine;Machine;12 reps;3;25;10;reps;[]
+202410301632;3;Bilateral Calf Press - Horizontal Leg Press;Machine;12 reps;1;110;12;reps;[]
+202410301632;3;Bilateral Calf Press - Horizontal Leg Press;Machine;12 reps;2;110;12;reps;[]
+202410301632;3;Bilateral Calf Press - Horizontal Leg Press;Machine;12 reps;3;110;11;reps;[]
+202410301632;4;Diagonal Hip Abduction;Machine;12 reps;1;36;10;reps;[]
+202410301632;4;Diagonal Hip Abduction;Machine;12 reps;2;36;10;reps;[]
+202410301632;4;Diagonal Hip Abduction;Machine;12 reps;3;36;10;reps;[]
+202410301632;5;Leg Extensions;Machine;12 reps;1;73;15;reps;"""Fiz na máquina da esquerda, que eu acho que tá um pouco mais pesada"""
+202410301632;5;Leg Extensions;Machine;12 reps;2;73;10;reps;"""Fiz na máquina da esquerda, que eu acho que tá um pouco mais pesada"""
+202410301632;5;Leg Extensions;Machine;12 reps;3;73;8;reps;"""Fiz na máquina da esquerda, que eu acho que tá um pouco mais pesada"""
+202410301632;6;Seated Leg Curls;Machine;12 reps;1;63;12;reps;[]
+202410301632;6;Seated Leg Curls;Machine;12 reps;2;63;12;reps;[]
+202410301632;6;Seated Leg Curls;Machine;12 reps;3;63;11;reps;[]
+202410301632;7;Back Extensions on Roman Chair;Bodyweight;12 reps;1;+10;10;reps;[]
+202410301632;7;Back Extensions on Roman Chair;Bodyweight;12 reps;2;+10;10;reps;[]
+202410291639;1;Chest Press;Machine;12 reps;1;36;12;reps;[]
+202410291639;1;Chest Press;Machine;12 reps;2;36;12;reps;[]
+202410291639;1;Chest Press;Machine;12 reps;3;36;12;reps;[]
+202410291639;2;Incline Bench Press;Barbell;12 reps;1;30;12;reps;"""Sentindo pressão no meio da coluna. Arreguei"""
+202410291639;2;Incline Bench Press;Barbell;12 reps;2;30;11;reps;"""Sentindo pressão no meio da coluna. Arreguei"""
+202410291639;2;Incline Bench Press;Barbell;12 reps;3;30;8;reps;"""Sentindo pressão no meio da coluna. Arreguei"""
+202410291639;3;Triceps Pushdowns;Cable;12 reps;1;40;12;reps;[]
+202410291639;3;Triceps Pushdowns;Cable;12 reps;2;40;12;reps;[]
+202410291639;3;Triceps Pushdowns;Cable;12 reps;3;40;7;reps;[]
+202410291639;4;Seated Lateral Raises;Dumbbells;12 reps;1;9;12;reps;[]
+202410291639;4;Seated Lateral Raises;Dumbbells;12 reps;2;9;12;reps;[]
+202410291639;4;Seated Lateral Raises;Dumbbells;12 reps;3;9;10;reps;[]
+202410291639;5;Weighted L Raises;Bodyweight;10 reps;1;+2;10;reps;[]
+202410291639;5;Weighted L Raises;Bodyweight;10 reps;2;+2;6;reps;[]
+202410291639;5;Weighted L Raises;Bodyweight;10 reps;3;+1;5;reps;[]
 202410281642;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;1;57;12;reps;[]
 202410281642;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;2;57;12;reps;[]
 202410281642;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;3;57;11;reps;[]
@@ -26,12 +61,12 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202410251349;2;Leg Curls on Leg Extension Machine;Machine;12 reps;1;24;12;reps;[]
 202410251349;2;Leg Curls on Leg Extension Machine;Machine;12 reps;2;24;12;reps;[]
 202410251349;2;Leg Curls on Leg Extension Machine;Machine;12 reps;3;24;15;reps;[]
-202410251349;3;Panturrilha bilateral - Leg horizontal;Machine;10 reps;1;105;12;reps;[]
-202410251349;3;Panturrilha bilateral - Leg horizontal;Machine;10 reps;2;105;12;reps;[]
-202410251349;3;Panturrilha bilateral - Leg horizontal;Machine;10 reps;3;105;12;reps;[]
-202410251349;4;Abdução diagonal;Machine;10 reps;1;30;10;reps;[]
-202410251349;4;Abdução diagonal;Machine;10 reps;2;30;12;reps;[]
-202410251349;4;Abdução diagonal;Machine;10 reps;3;30;12;reps;[]
+202410251349;3;Bilateral Calf Press - Horizontal Leg Press;Machine;10 reps;1;105;12;reps;[]
+202410251349;3;Bilateral Calf Press - Horizontal Leg Press;Machine;10 reps;2;105;12;reps;[]
+202410251349;3;Bilateral Calf Press - Horizontal Leg Press;Machine;10 reps;3;105;12;reps;[]
+202410251349;4;Diagonal Hip Abduction;Machine;10 reps;1;30;10;reps;[]
+202410251349;4;Diagonal Hip Abduction;Machine;10 reps;2;30;12;reps;[]
+202410251349;4;Diagonal Hip Abduction;Machine;10 reps;3;30;12;reps;[]
 202410251349;5;Leg Extensions;Machine;12 reps;1;73;12;reps;[]
 202410251349;5;Leg Extensions;Machine;12 reps;2;73;12;reps;[]
 202410251349;5;Leg Extensions;Machine;12 reps;3;73;12;reps;[]
@@ -50,12 +85,12 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202410241617;4;Seated Lateral Raises;Dumbbells;12 reps;1;9;10;reps;[]
 202410241617;4;Seated Lateral Raises;Dumbbells;12 reps;2;9;10;reps;[]
 202410241617;4;Seated Lateral Raises;Dumbbells;12 reps;3;9;11;reps;[]
-202410241617;5;L raises;Bodyweight;12 reps;1;;12;reps;[]
-202410241617;5;L raises;Bodyweight;12 reps;2;;12;reps;[]
-202410241617;5;L raises;Bodyweight;12 reps;3;;12;reps;[]
-202410241617;6;Pseudo pushup;Bodyweight;10 reps;1;;10;reps;"""Base da mão na altura da última costela"""
-202410241617;6;Pseudo pushup;Bodyweight;10 reps;2;;10;reps;"""Base da mão na altura da última costela"""
-202410241617;6;Pseudo pushup;Bodyweight;10 reps;3;;7;reps;"""Base da mão na altura da última costela"""
+202410241617;5;L Raises;Bodyweight;12 reps;1;;12;reps;[]
+202410241617;5;L Raises;Bodyweight;12 reps;2;;12;reps;[]
+202410241617;5;L Raises;Bodyweight;12 reps;3;;12;reps;[]
+202410241617;6;Pseudo Push-Ups;Bodyweight;10 reps;1;;10;reps;"""Base da mão na altura da última costela"""
+202410241617;6;Pseudo Push-Ups;Bodyweight;10 reps;2;;10;reps;"""Base da mão na altura da última costela"""
+202410241617;6;Pseudo Push-Ups;Bodyweight;10 reps;3;;7;reps;"""Base da mão na altura da última costela"""
 202410211612;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;1;57;12;reps;[]
 202410211612;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;2;57;12;reps;[]
 202410211612;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;3;57;8;reps;[]
@@ -101,9 +136,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202410151525;6;Standing Shoulder Press;Barbell;12 reps;1;10;20;reps;[]
 202410151525;6;Standing Shoulder Press;Barbell;12 reps;2;12;20;reps;[]
 202410151525;6;Standing Shoulder Press;Barbell;12 reps;3;12;18;reps;[]
-202410151525;7;L raises;Bodyweight;12 reps;1;;12;reps;[]
-202410151525;7;L raises;Bodyweight;12 reps;2;;12;reps;[]
-202410151525;7;L raises;Bodyweight;12 reps;3;;12;reps;[]
+202410151525;7;L Raises;Bodyweight;12 reps;1;;12;reps;[]
+202410151525;7;L Raises;Bodyweight;12 reps;2;;12;reps;[]
+202410151525;7;L Raises;Bodyweight;12 reps;3;;12;reps;[]
 202410141642;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;1;55;12;reps;[]
 202410141642;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;2;55;12;reps;[]
 202410141642;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;3;55;15;reps;[]
@@ -158,9 +193,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202410111615;5;Shoulder Press;Machine;12 reps;1;20;12;reps;[]
 202410111615;5;Shoulder Press;Machine;12 reps;2;20;12;reps;[]
 202410111615;5;Shoulder Press;Machine;12 reps;3;20;15;reps;[]
-202410111615;6;L raises;Bodyweight;12 reps;1;;12;reps;[]
-202410111615;6;L raises;Bodyweight;12 reps;2;;12;reps;[]
-202410111615;6;L raises;Bodyweight;12 reps;3;;9;reps;[]
+202410111615;6;L Raises;Bodyweight;12 reps;1;;12;reps;[]
+202410111615;6;L Raises;Bodyweight;12 reps;2;;12;reps;[]
+202410111615;6;L Raises;Bodyweight;12 reps;3;;9;reps;[]
 202410101639;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;1;55;12;reps;[]
 202410101639;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;2;55;12;reps;[]
 202410101639;1;Lat Pulldowns with Wide Neutral Grip;Cable;12 reps;3;55;12;reps;[]
@@ -191,18 +226,18 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202410091604;3;Seated Calf Raises;Machine;12 reps;2;55;12;reps;[]
 202410091604;3;Seated Calf Raises;Machine;12 reps;3;55;11;reps;[]
 202410091604;3;Seated Calf Raises;Machine;12 reps;4;55;10;reps;[]
-202410081525;1;Flexão arqueiro smith;Bodyweight;12 reps;1;;12;reps;"""Altura 8"""
-202410081525;1;Flexão arqueiro smith;Bodyweight;12 reps;2;;12;reps;"""Altura 8"""
-202410081525;1;Flexão arqueiro smith;Bodyweight;12 reps;3;;12;reps;"""Altura 8"""
-202410081525;1;Flexão arqueiro smith;Bodyweight;12 reps;4;;12;reps;"""Altura 8"""
+202410081525;1;Incline Archer Push-Ups;Bodyweight;12 reps;1;;12;reps;"""Altura 8"""
+202410081525;1;Incline Archer Push-Ups;Bodyweight;12 reps;2;;12;reps;"""Altura 8"""
+202410081525;1;Incline Archer Push-Ups;Bodyweight;12 reps;3;;12;reps;"""Altura 8"""
+202410081525;1;Incline Archer Push-Ups;Bodyweight;12 reps;4;;12;reps;"""Altura 8"""
 202410081525;2;Dips;Bodyweight;12 reps;1;+0;10;reps;[]
 202410081525;2;Dips;Bodyweight;12 reps;2;+0;4;reps;[]
 202410081525;2;Dips;Bodyweight;12 reps;3;+0;4;reps;[]
 202410081525;2;Dips;Bodyweight;12 reps;4;+0;2;reps;[]
-202410081525;3;L raises;Bodyweight;12 reps;1;;10;reps;[]
-202410081525;3;L raises;Bodyweight;12 reps;2;;7;reps;[]
-202410081525;3;L raises;Bodyweight;12 reps;3;;6;reps;[]
-202410081525;3;L raises;Bodyweight;12 reps;4;;7;reps;[]
+202410081525;3;L Raises;Bodyweight;12 reps;1;;10;reps;[]
+202410081525;3;L Raises;Bodyweight;12 reps;2;;7;reps;[]
+202410081525;3;L Raises;Bodyweight;12 reps;3;;6;reps;[]
+202410081525;3;L Raises;Bodyweight;12 reps;4;;7;reps;[]
 202410081525;4;Lean Away Lateral Raises;Cable;12 reps;1;6;11;reps;[]
 202410081525;4;Lean Away Lateral Raises;Cable;12 reps;2;5;12;reps;[]
 202410081525;4;Lean Away Lateral Raises;Cable;12 reps;3;5;12;reps;[]
@@ -231,9 +266,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202409261619;2;Seated Leg Curls;Machine;12 reps;1;60;12;reps;[]
 202409261619;2;Seated Leg Curls;Machine;12 reps;2;60;12;reps;[]
 202409261619;2;Seated Leg Curls;Machine;12 reps;3;60;12;reps;[]
-202409261619;3;L raises;Bodyweight;10 reps;1;;12;reps;[]
-202409261619;3;L raises;Bodyweight;10 reps;2;;12;reps;[]
-202409261619;3;L raises;Bodyweight;10 reps;3;;12;reps;[]
+202409261619;3;L Raises;Bodyweight;10 reps;1;;12;reps;[]
+202409261619;3;L Raises;Bodyweight;10 reps;2;;12;reps;[]
+202409261619;3;L Raises;Bodyweight;10 reps;3;;12;reps;[]
 202409261619;4;Hip Abduction;Machine;12 reps;1;60;10;reps;[]
 202409261619;4;Hip Abduction;Machine;12 reps;2;56;12;reps;[]
 202409261619;4;Hip Abduction;Machine;12 reps;3;56;12;reps;[]
@@ -252,7 +287,7 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202409241724;4;Lateral Raises;Dumbbells;12 reps;1;9;12;reps;[]
 202409241724;4;Lateral Raises;Dumbbells;12 reps;2;9;12;reps;[]
 202409241724;4;Lateral Raises;Dumbbells;12 reps;3;9;11;reps;[]
-202409241724;5;Pseudo pushup;Bodyweight;12 reps;1;;7;reps;[]
+202409241724;5;Pseudo Push-Ups;Bodyweight;12 reps;1;;7;reps;[]
 202409231705;1;Lat Pulldowns with Wide Overhand Grip;Cable;12 reps;1;50;12;reps;[]
 202409231705;1;Lat Pulldowns with Wide Overhand Grip;Cable;12 reps;2;50;12;reps;[]
 202409231705;1;Lat Pulldowns with Wide Overhand Grip;Cable;12 reps;3;50;12;reps;[]
@@ -265,9 +300,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202409231705;4;Curls;Dumbbells;12 reps;1;10;12;reps;[]
 202409231705;4;Curls;Dumbbells;12 reps;2;10;12;reps;[]
 202409231705;4;Curls;Dumbbells;12 reps;3;10;15;reps;[]
-202409231705;5;L raises;Bodyweight;10 reps;1;;12;reps;"""G1 Jampa. Naquele equipamento de Abdominal na paralela com as costas apoiadas"""
-202409231705;5;L raises;Bodyweight;10 reps;2;;11;reps;"""G1 Jampa. Naquele equipamento de Abdominal na paralela com as costas apoiadas"""
-202409231705;5;L raises;Bodyweight;10 reps;3;;9;reps;"""G1 Jampa. Naquele equipamento de Abdominal na paralela com as costas apoiadas"""
+202409231705;5;L Raises;Bodyweight;10 reps;1;;12;reps;"""G1 Jampa. Naquele equipamento de Abdominal na paralela com as costas apoiadas"""
+202409231705;5;L Raises;Bodyweight;10 reps;2;;11;reps;"""G1 Jampa. Naquele equipamento de Abdominal na paralela com as costas apoiadas"""
+202409231705;5;L Raises;Bodyweight;10 reps;3;;9;reps;"""G1 Jampa. Naquele equipamento de Abdominal na paralela com as costas apoiadas"""
 202409201802;1;Leg Press;Machine;12 reps;1;180;12;reps;"""Academia G1 Jampa. Leg 45"""
 202409201802;1;Leg Press;Machine;12 reps;2;190;12;reps;"""Academia G1 Jampa. Leg 45"""
 202409201802;1;Leg Press;Machine;12 reps;3;190;14;reps;"""Academia G1 Jampa. Leg 45"""
@@ -299,9 +334,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202409181600;5;Seated Shoulder Press;Dumbbells;12 reps;1;9;8;reps;"""Melhor pegar menos peso e aumentar as reps"""
 202409181600;5;Seated Shoulder Press;Dumbbells;12 reps;2;9;8;reps;"""Melhor pegar menos peso e aumentar as reps"""
 202409181600;5;Seated Shoulder Press;Dumbbells;12 reps;3;9;6;reps;"""Melhor pegar menos peso e aumentar as reps"""
-202409181600;6;Pseudo pushup;Bodyweight;12 reps;1;;7;reps;"""Mãos na altura da base da costela +-"""
-202409181600;6;Pseudo pushup;Bodyweight;12 reps;2;;7;reps;"""Mãos na altura da base da costela +-"""
-202409181600;6;Pseudo pushup;Bodyweight;12 reps;3;;5;reps;"""Mãos na altura da base da costela +-"""
+202409181600;6;Pseudo Push-Ups;Bodyweight;12 reps;1;;7;reps;"""Mãos na altura da base da costela +-"""
+202409181600;6;Pseudo Push-Ups;Bodyweight;12 reps;2;;7;reps;"""Mãos na altura da base da costela +-"""
+202409181600;6;Pseudo Push-Ups;Bodyweight;12 reps;3;;5;reps;"""Mãos na altura da base da costela +-"""
 202409161558;1;Chest-Supported Low Rows with Neutral Grip;Machine;12 reps;1;40;12;reps;[]
 202409161558;1;Chest-Supported Low Rows with Neutral Grip;Machine;12 reps;2;40;12;reps;[]
 202409161558;1;Chest-Supported Low Rows with Neutral Grip;Machine;12 reps;3;50;15;reps;[]
@@ -348,9 +383,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202409031652;3;Goblet Squats;Dumbbells;10 reps;1;0;30;reps;[]
 202409031652;3;Goblet Squats;Dumbbells;10 reps;2;0;18;reps;[]
 202409031652;3;Goblet Squats;Dumbbells;10 reps;3;0;15;reps;[]
-202409031652;4;L raises;Bodyweight;10 reps;1;;10;reps;[]
-202409031652;4;L raises;Bodyweight;10 reps;2;;8;reps;[]
-202409031652;4;L raises;Bodyweight;10 reps;3;;6;reps;[]
+202409031652;4;L Raises;Bodyweight;10 reps;1;;10;reps;[]
+202409031652;4;L Raises;Bodyweight;10 reps;2;;8;reps;[]
+202409031652;4;L Raises;Bodyweight;10 reps;3;;6;reps;[]
 20240829924;1;Leg Press;Machine;12 reps;1;210;12;reps;[]
 20240829924;1;Leg Press;Machine;12 reps;2;210;12;reps;[]
 20240829924;1;Leg Press;Machine;12 reps;3;210;12;reps;[]
@@ -393,12 +428,12 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202408221648;5;Butterfly with Wide Grip;Machine;10 reps;1;47;12;reps;[]
 202408221648;5;Butterfly with Wide Grip;Machine;10 reps;2;47;12;reps;[]
 202408221648;5;Butterfly with Wide Grip;Machine;10 reps;3;47;12;reps;[]
-202408221648;6;Pike Pushup;Bodyweight;12 reps;1;;4;reps;"""Não tô conseguindo fazer isso direito, vou ter que mudar alguma coisa"""
-202408221648;6;Pike Pushup;Bodyweight;12 reps;2;;2;reps;"""Não tô conseguindo fazer isso direito, vou ter que mudar alguma coisa"""
-202408221648;7;Pseudo Planche Lean iso;Bodyweight;;1;;12;secs;[]
-202408221648;7;Pseudo Planche Lean iso;Bodyweight;;2;;12;secs;[]
-202408221648;7;Pseudo Planche Lean iso;Bodyweight;;3;;17;secs;[]
-202408221648;7;Pseudo Planche Lean iso;Bodyweight;;4;;6;secs;[]
+202408221648;6;Pike Push-Ups;Bodyweight;12 reps;1;;4;reps;"""Não tô conseguindo fazer isso direito, vou ter que mudar alguma coisa"""
+202408221648;6;Pike Push-Ups;Bodyweight;12 reps;2;;2;reps;"""Não tô conseguindo fazer isso direito, vou ter que mudar alguma coisa"""
+202408221648;7;Pseudo Planche Lean - Iso;Bodyweight;;1;;12;secs;[]
+202408221648;7;Pseudo Planche Lean - Iso;Bodyweight;;2;;12;secs;[]
+202408221648;7;Pseudo Planche Lean - Iso;Bodyweight;;3;;17;secs;[]
+202408221648;7;Pseudo Planche Lean - Iso;Bodyweight;;4;;6;secs;[]
 202408201621;1;Lat Pulldowns with Wide Overhand Grip;Cable;12 reps;1;60;12;reps;[]
 202408201621;1;Lat Pulldowns with Wide Overhand Grip;Cable;12 reps;2;60;12;reps;[]
 202408201621;1;Lat Pulldowns with Wide Overhand Grip;Cable;12 reps;3;60;8;reps;[]
@@ -432,15 +467,15 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202408161902;6;Seated Leg Curls;Machine;10 reps;1;70;8;reps;[]
 202408161902;6;Seated Leg Curls;Machine;10 reps;2;70;8;reps;[]
 202408161902;6;Seated Leg Curls;Machine;10 reps;3;70;8;reps;[]
-202408151652;1;Flexão arqueiro smith;Bodyweight;10 reps;1;;10;reps;[]
-202408151652;1;Flexão arqueiro smith;Bodyweight;10 reps;2;;8;reps;[]
-202408151652;1;Flexão arqueiro smith;Bodyweight;10 reps;3;;7;reps;[]
+202408151652;1;Incline Archer Push-Ups;Bodyweight;10 reps;1;;10;reps;[]
+202408151652;1;Incline Archer Push-Ups;Bodyweight;10 reps;2;;8;reps;[]
+202408151652;1;Incline Archer Push-Ups;Bodyweight;10 reps;3;;7;reps;[]
 202408151652;2;Dips;Bodyweight;10 reps;1;+0;10;reps;[]
 202408151652;2;Dips;Bodyweight;10 reps;2;+0;7;reps;[]
 202408151652;2;Dips;Bodyweight;10 reps;3;+0;4;reps;[]
-202408151652;3;Decline pushup;Bodyweight;10 reps;1;;10;reps;[]
-202408151652;3;Decline pushup;Bodyweight;10 reps;2;;7;reps;[]
-202408151652;3;Decline pushup;Bodyweight;10 reps;3;;6;reps;[]
+202408151652;3;Decline Push-Ups;Bodyweight;10 reps;1;;10;reps;[]
+202408151652;3;Decline Push-Ups;Bodyweight;10 reps;2;;7;reps;[]
+202408151652;3;Decline Push-Ups;Bodyweight;10 reps;3;;6;reps;[]
 202408151652;4;Seated Lateral Raises;Dumbbells;10 reps;1;10;8;reps;[]
 202408151652;4;Seated Lateral Raises;Dumbbells;10 reps;2;10;7;reps;[]
 202408151652;4;Seated Lateral Raises;Dumbbells;10 reps;3;10;7;reps;[]
@@ -459,9 +494,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202408141652;5;Curls;Barbell;10 reps;1;22;10;reps;[]
 202408141652;5;Curls;Barbell;10 reps;2;22;10;reps;[]
 202408141652;5;Curls;Barbell;10 reps;3;22;10;reps;[]
-202408141652;6;L sit hold iso;Bodyweight;30 sec;1;;13;secs;[]
-202408141652;6;L sit hold iso;Bodyweight;30 sec;2;;10;secs;[]
-202408141652;6;L sit hold iso;Bodyweight;30 sec;3;;6;secs;[]
+202408141652;6;L-Sit Hold;Bodyweight;30 sec;1;;13;secs;[]
+202408141652;6;L-Sit Hold;Bodyweight;30 sec;2;;10;secs;[]
+202408141652;6;L-Sit Hold;Bodyweight;30 sec;3;;6;secs;[]
 202408091236;1;Leg Press;Machine;10 reps;1;200;12;reps;[]
 202408091236;1;Leg Press;Machine;10 reps;2;200;12;reps;[]
 202408091236;1;Leg Press;Machine;10 reps;3;200;10;reps;[]
@@ -474,20 +509,20 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202408091236;4;Hip Abduction;Cable;10 reps;1;18;10;reps;[]
 202408091236;4;Hip Abduction;Cable;10 reps;2;18;10;reps;[]
 202408091236;4;Hip Abduction;Cable;10 reps;3;18;10;reps;[]
-202408071639;1;Flexão arqueiro smith;Bodyweight;10 reps;1;;8;reps;"""Barras novas, altura 5. Pouquinho abaixo do joelho. Depois aumentei pra 6, linha do joelho"""
-202408071639;1;Flexão arqueiro smith;Bodyweight;10 reps;2;;6;reps;"""Barras novas, altura 5. Pouquinho abaixo do joelho. Depois aumentei pra 6, linha do joelho"""
-202408071639;1;Flexão arqueiro smith;Bodyweight;10 reps;3;;6;reps;"""Barras novas, altura 5. Pouquinho abaixo do joelho. Depois aumentei pra 6, linha do joelho"""
+202408071639;1;Incline Archer Push-Ups;Bodyweight;10 reps;1;;8;reps;"""Barras novas, altura 5. Pouquinho abaixo do joelho. Depois aumentei pra 6, linha do joelho"""
+202408071639;1;Incline Archer Push-Ups;Bodyweight;10 reps;2;;6;reps;"""Barras novas, altura 5. Pouquinho abaixo do joelho. Depois aumentei pra 6, linha do joelho"""
+202408071639;1;Incline Archer Push-Ups;Bodyweight;10 reps;3;;6;reps;"""Barras novas, altura 5. Pouquinho abaixo do joelho. Depois aumentei pra 6, linha do joelho"""
 202408071639;2;Dips;Bodyweight;10 reps;1;+0;8;reps;[]
 202408071639;2;Dips;Bodyweight;10 reps;2;+0;6;reps;[]
 202408071639;2;Dips;Bodyweight;10 reps;3;+0;5;reps;[]
 202408071639;3;Seated Lateral Raises;Dumbbells;10 reps;1;9;10;reps;[]
 202408071639;3;Seated Lateral Raises;Dumbbells;10 reps;2;9;10;reps;[]
 202408071639;3;Seated Lateral Raises;Dumbbells;10 reps;3;9;12;reps;[]
-202408071639;4;Pike Pushup;Bodyweight;10 reps;1;;4;reps;"""Achando difícil pra caralho, desisti"""
-202408071639;4;Pike Pushup;Bodyweight;10 reps;2;;2;reps;"""Achando difícil pra caralho, desisti"""
-202408071639;5;Pseudo Planche Lean iso;Bodyweight;;1;;10;secs;"""Um palmo abaixo da linha do ombro"""
-202408071639;5;Pseudo Planche Lean iso;Bodyweight;;2;;6;secs;"""Um palmo abaixo da linha do ombro"""
-202408071639;5;Pseudo Planche Lean iso;Bodyweight;;3;;6;secs;"""Um palmo abaixo da linha do ombro"""
+202408071639;4;Pike Push-Ups;Bodyweight;10 reps;1;;4;reps;"""Achando difícil pra caralho, desisti"""
+202408071639;4;Pike Push-Ups;Bodyweight;10 reps;2;;2;reps;"""Achando difícil pra caralho, desisti"""
+202408071639;5;Pseudo Planche Lean - Iso;Bodyweight;;1;;10;secs;"""Um palmo abaixo da linha do ombro"""
+202408071639;5;Pseudo Planche Lean - Iso;Bodyweight;;2;;6;secs;"""Um palmo abaixo da linha do ombro"""
+202408071639;5;Pseudo Planche Lean - Iso;Bodyweight;;3;;6;secs;"""Um palmo abaixo da linha do ombro"""
 202408061717;1;Pull-Ups with Wide Overhand Grip;Bodyweight;10 reps;1;+0;10;reps;[]
 202408061717;1;Pull-Ups with Wide Overhand Grip;Bodyweight;10 reps;2;+0;5;reps;[]
 202408061717;1;Pull-Ups with Wide Overhand Grip;Bodyweight;10 reps;3;+0;4;reps;[]
@@ -503,9 +538,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202408061717;5;Curls;Barbell;10 reps;1;22;10;reps;[]
 202408061717;5;Curls;Barbell;10 reps;2;22;10;reps;[]
 202408061717;5;Curls;Barbell;10 reps;3;22;5;reps;[]
-202408061717;6;L sit hold iso;Bodyweight;30 sec;1;;10;secs;[]
-202408061717;6;L sit hold iso;Bodyweight;30 sec;2;;8;secs;[]
-202408061717;6;L sit hold iso;Bodyweight;30 sec;3;;5;secs;[]
+202408061717;6;L-Sit Hold;Bodyweight;30 sec;1;;10;secs;[]
+202408061717;6;L-Sit Hold;Bodyweight;30 sec;2;;8;secs;[]
+202408061717;6;L-Sit Hold;Bodyweight;30 sec;3;;5;secs;[]
 202408021518;1;Leg Press;Machine;10 reps;1;194;12;reps;[]
 202408021518;1;Leg Press;Machine;10 reps;2;194;12;reps;[]
 202408021518;1;Leg Press;Machine;10 reps;3;200;11;reps;[]
@@ -524,9 +559,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202408021518;6;Seated Leg Curls;Machine;10 reps;1;67;10;reps;[]
 202408021518;6;Seated Leg Curls;Machine;10 reps;2;67;10;reps;[]
 202408021518;6;Seated Leg Curls;Machine;10 reps;3;67;12;reps;[]
-202407311649;1;Flexão Arqueiro - Chão;Bodyweight;10 reps;1;;6;reps;"""Na última eu usei os pesos em vez de apoiar no chão. Parece que dei um mau jeito na coluna, tô com um pouco de dor. Pegar leve hj"""
-202407311649;1;Flexão Arqueiro - Chão;Bodyweight;10 reps;2;;4;reps;"""Na última eu usei os pesos em vez de apoiar no chão. Parece que dei um mau jeito na coluna, tô com um pouco de dor. Pegar leve hj"""
-202407311649;1;Flexão Arqueiro - Chão;Bodyweight;10 reps;3;;3;reps;"""Na última eu usei os pesos em vez de apoiar no chão. Parece que dei um mau jeito na coluna, tô com um pouco de dor. Pegar leve hj"""
+202407311649;1;Archer Push-Ups;Bodyweight;10 reps;1;;6;reps;"""Na última eu usei os pesos em vez de apoiar no chão. Parece que dei um mau jeito na coluna, tô com um pouco de dor. Pegar leve hj"""
+202407311649;1;Archer Push-Ups;Bodyweight;10 reps;2;;4;reps;"""Na última eu usei os pesos em vez de apoiar no chão. Parece que dei um mau jeito na coluna, tô com um pouco de dor. Pegar leve hj"""
+202407311649;1;Archer Push-Ups;Bodyweight;10 reps;3;;3;reps;"""Na última eu usei os pesos em vez de apoiar no chão. Parece que dei um mau jeito na coluna, tô com um pouco de dor. Pegar leve hj"""
 202407291540;1;Pull-Ups with Wide Overhand Grip;Bodyweight;10 reps;1;+0;6;reps;"""Me sentindo super fraco hj sei lá. Meio abaixando a pressão"""
 202407291540;1;Pull-Ups with Wide Overhand Grip;Bodyweight;10 reps;2;+0;3;reps;"""Me sentindo super fraco hj sei lá. Meio abaixando a pressão"""
 202407291540;1;Pull-Ups with Wide Overhand Grip;Bodyweight;10 reps;3;+0;2;reps;"""Me sentindo super fraco hj sei lá. Meio abaixando a pressão"""
@@ -552,15 +587,15 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202407261935;5;Leg Extensions;Machine;8 reps;1;70;10;reps;[]
 202407261935;5;Leg Extensions;Machine;8 reps;2;70;10;reps;[]
 202407261935;5;Leg Extensions;Machine;8 reps;3;75;10;reps;[]
-202407261935;6;L sit hold iso;Bodyweight;;1;;8;secs;[]
-202407261935;6;L sit hold iso;Bodyweight;;2;;5;secs;[]
-202407261935;6;L sit hold iso;Bodyweight;;3;;4;secs;[]
+202407261935;6;L-Sit Hold;Bodyweight;;1;;8;secs;[]
+202407261935;6;L-Sit Hold;Bodyweight;;2;;5;secs;[]
+202407261935;6;L-Sit Hold;Bodyweight;;3;;4;secs;[]
 202407261935;7;Seated Leg Curls;Machine;8 reps;1;70;8;reps;[]
 202407261935;7;Seated Leg Curls;Machine;8 reps;2;70;8;reps;[]
 202407261935;7;Seated Leg Curls;Machine;8 reps;3;70;6;reps;[]
-202407251607;1;Flexão Arqueiro - Chão;Bodyweight;8 reps;1;;5;reps;"""Perna aberta, linha do ombro +-"""
-202407251607;1;Flexão Arqueiro - Chão;Bodyweight;8 reps;2;;4;reps;"""Perna aberta, linha do ombro +-"""
-202407251607;1;Flexão Arqueiro - Chão;Bodyweight;8 reps;3;;2;reps;"""Perna aberta, linha do ombro +-"""
+202407251607;1;Archer Push-Ups;Bodyweight;8 reps;1;;5;reps;"""Perna aberta, linha do ombro +-"""
+202407251607;1;Archer Push-Ups;Bodyweight;8 reps;2;;4;reps;"""Perna aberta, linha do ombro +-"""
+202407251607;1;Archer Push-Ups;Bodyweight;8 reps;3;;2;reps;"""Perna aberta, linha do ombro +-"""
 202407251607;2;Incline Bench Press;Barbell;8 reps;1;36;10;reps;[]
 202407251607;2;Incline Bench Press;Barbell;8 reps;2;36;10;reps;[]
 202407251607;2;Incline Bench Press;Barbell;8 reps;3;36;10;reps;[]
@@ -573,9 +608,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202407251607;5;Shoulder Press;Machine;8 reps;1;25;10;reps;[]
 202407251607;5;Shoulder Press;Machine;8 reps;2;25;10;reps;[]
 202407251607;5;Shoulder Press;Machine;8 reps;3;25;10;reps;[]
-202407251607;6;Pseudo Planche Lean iso;Bodyweight;;1;;20;secs;[]
-202407251607;6;Pseudo Planche Lean iso;Bodyweight;;2;;13;secs;[]
-202407251607;6;Pseudo Planche Lean iso;Bodyweight;;3;;13;secs;[]
+202407251607;6;Pseudo Planche Lean - Iso;Bodyweight;;1;;20;secs;[]
+202407251607;6;Pseudo Planche Lean - Iso;Bodyweight;;2;;13;secs;[]
+202407251607;6;Pseudo Planche Lean - Iso;Bodyweight;;3;;13;secs;[]
 202407221855;1;Pull-Ups with Close Neutral Grip;Bodyweight;8 reps;1;+0;10;reps;[]
 202407221855;1;Pull-Ups with Close Neutral Grip;Bodyweight;8 reps;2;+0;8;reps;[]
 202407221855;1;Pull-Ups with Close Neutral Grip;Bodyweight;8 reps;3;+0;5;reps;[]
@@ -591,9 +626,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202407221855;5;Curls;Barbell;8 reps;1;22;10;reps;[]
 202407221855;5;Curls;Barbell;8 reps;2;22;9;reps;[]
 202407221855;5;Curls;Barbell;8 reps;3;22;8;reps;[]
-202407221855;6;Hanging knee tuck - iso;Bodyweight;30 sec;1;;32;secs;"""Alternando a cada 6"""
-202407221855;6;Hanging knee tuck - iso;Bodyweight;30 sec;2;;20;secs;"""Alternando a cada 6"""
-202407221855;6;Hanging knee tuck - iso;Bodyweight;30 sec;3;;8;secs;"""Alternando a cada 6"""
+202407221855;6;Hanging Knee Tuck - iso;Bodyweight;30 sec;1;;32;secs;"""Alternando a cada 6"""
+202407221855;6;Hanging Knee Tuck - iso;Bodyweight;30 sec;2;;20;secs;"""Alternando a cada 6"""
+202407221855;6;Hanging Knee Tuck - iso;Bodyweight;30 sec;3;;8;secs;"""Alternando a cada 6"""
 202407191928;1;Leg Press;Machine;8 reps;1;190;10;reps;[]
 202407191928;1;Leg Press;Machine;8 reps;2;190;10;reps;[]
 202407191928;1;Leg Press;Machine;8 reps;3;194;12;reps;[]
@@ -612,9 +647,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202407191928;6;Seated Leg Curls;Machine;8 reps;1;65;10;reps;[]
 202407191928;6;Seated Leg Curls;Machine;8 reps;2;65;10;reps;[]
 202407191928;6;Seated Leg Curls;Machine;8 reps;3;65;10;reps;[]
-202407181230;1;Flexão arqueiro smith;Bodyweight;8 reps;1;;10;reps;[]
-202407181230;1;Flexão arqueiro smith;Bodyweight;8 reps;2;;10;reps;[]
-202407181230;1;Flexão arqueiro smith;Bodyweight;8 reps;3;;6;reps;[]
+202407181230;1;Incline Archer Push-Ups;Bodyweight;8 reps;1;;10;reps;[]
+202407181230;1;Incline Archer Push-Ups;Bodyweight;8 reps;2;;10;reps;[]
+202407181230;1;Incline Archer Push-Ups;Bodyweight;8 reps;3;;6;reps;[]
 202407181230;2;Incline Bench Press;Barbell;8 reps;1;34;10;reps;[]
 202407181230;2;Incline Bench Press;Barbell;8 reps;2;34;10;reps;[]
 202407181230;2;Incline Bench Press;Barbell;8 reps;3;34;10;reps;[]
@@ -627,9 +662,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202407181230;5;Shoulder Press;Machine;8 reps;1;30;10;reps;"""Senti um pouco o cotovelo e resolvi abaixar. Também senti tipo por dentro da costela, quase na vértebra sei lá"""
 202407181230;5;Shoulder Press;Machine;8 reps;2;30;5;reps;"""Senti um pouco o cotovelo e resolvi abaixar. Também senti tipo por dentro da costela, quase na vértebra sei lá"""
 202407181230;5;Shoulder Press;Machine;8 reps;3;25;5;reps;"""Senti um pouco o cotovelo e resolvi abaixar. Também senti tipo por dentro da costela, quase na vértebra sei lá"""
-202407181230;6;Pseudo Planche Lean iso;Bodyweight;;1;;25;secs;"""Mão na altura do ossinho do quadril"""
-202407181230;6;Pseudo Planche Lean iso;Bodyweight;;2;;25;secs;"""Mão na altura do ossinho do quadril"""
-202407181230;6;Pseudo Planche Lean iso;Bodyweight;;3;;-;secs;"""Mão na altura do ossinho do quadril"""
+202407181230;6;Pseudo Planche Lean - Iso;Bodyweight;;1;;25;secs;"""Mão na altura do ossinho do quadril"""
+202407181230;6;Pseudo Planche Lean - Iso;Bodyweight;;2;;25;secs;"""Mão na altura do ossinho do quadril"""
+202407181230;6;Pseudo Planche Lean - Iso;Bodyweight;;3;;-;secs;"""Mão na altura do ossinho do quadril"""
 202407151226;1;Pull-Ups with Close Neutral Grip;Bodyweight;8 reps;1;+0;10;reps;[]
 202407151226;1;Pull-Ups with Close Neutral Grip;Bodyweight;8 reps;2;+0;7;reps;[]
 202407151226;1;Pull-Ups with Close Neutral Grip;Bodyweight;8 reps;3;+0;4;reps;[]
@@ -645,21 +680,21 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202407151226;5;Curls;Barbell;8 reps;1;22;10;reps;[]
 202407151226;5;Curls;Barbell;8 reps;2;22;8;reps;[]
 202407151226;5;Curls;Barbell;8 reps;3;22;6;reps;[]
-202407151226;6;Hanging knee tuck - iso;Bodyweight;30 sec;1;;24;secs;"""Uma perna em L, alternando a cada 4s"""
-202407151226;6;Hanging knee tuck - iso;Bodyweight;30 sec;2;;18;secs;"""Uma perna em L, alternando a cada 4s"""
-202407151226;6;Hanging knee tuck - iso;Bodyweight;30 sec;3;;16;secs;"""Uma perna em L, alternando a cada 4s"""
-202407111612;1;Flexão arqueiro smith;Bodyweight;8 reps;1;;10;reps;[]
-202407111612;1;Flexão arqueiro smith;Bodyweight;8 reps;2;;7;reps;[]
-202407111612;1;Flexão arqueiro smith;Bodyweight;8 reps;3;;5;reps;[]
+202407151226;6;Hanging Knee Tuck - iso;Bodyweight;30 sec;1;;24;secs;"""Uma perna em L, alternando a cada 4s"""
+202407151226;6;Hanging Knee Tuck - iso;Bodyweight;30 sec;2;;18;secs;"""Uma perna em L, alternando a cada 4s"""
+202407151226;6;Hanging Knee Tuck - iso;Bodyweight;30 sec;3;;16;secs;"""Uma perna em L, alternando a cada 4s"""
+202407111612;1;Incline Archer Push-Ups;Bodyweight;8 reps;1;;10;reps;[]
+202407111612;1;Incline Archer Push-Ups;Bodyweight;8 reps;2;;7;reps;[]
+202407111612;1;Incline Archer Push-Ups;Bodyweight;8 reps;3;;5;reps;[]
 202407111612;2;Bench Press;Barbell;8 reps;1;42;12;reps;[]
 202407111612;2;Bench Press;Barbell;8 reps;2;40;9;reps;[]
 202407111612;2;Bench Press;Barbell;8 reps;3;38;6;reps;[]
 202407111612;3;Seated Lateral Raises;Dumbbells;8 reps;1;8;12;reps;[]
 202407111612;3;Seated Lateral Raises;Dumbbells;8 reps;2;8;10;reps;[]
 202407111612;3;Seated Lateral Raises;Dumbbells;8 reps;3;7;12;reps;[]
-202407111612;4;Pseudo Planche Lean iso;Bodyweight;;1;;30;secs;[]
-202407111612;4;Pseudo Planche Lean iso;Bodyweight;;2;;28;secs;[]
-202407111612;4;Pseudo Planche Lean iso;Bodyweight;;3;;34;secs;[]
+202407111612;4;Pseudo Planche Lean - Iso;Bodyweight;;1;;30;secs;[]
+202407111612;4;Pseudo Planche Lean - Iso;Bodyweight;;2;;28;secs;[]
+202407111612;4;Pseudo Planche Lean - Iso;Bodyweight;;3;;34;secs;[]
 202407091542;1;Leg Press;Machine;8 reps;1;180;12;reps;[]
 202407091542;1;Leg Press;Machine;8 reps;2;180;12;reps;[]
 202407091542;1;Leg Press;Machine;8 reps;3;180;12;reps;[]
@@ -684,9 +719,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202407081201;3;Pullovers;Cable;8 reps;1;42;12;reps;[]
 202407081201;3;Pullovers;Cable;8 reps;2;42;12;reps;[]
 202407081201;3;Pullovers;Cable;8 reps;3;42;12;reps;[]
-202407081201;4;Hanging knee tuck - iso;Bodyweight;30 sec;1;;33;secs;[]
-202407081201;4;Hanging knee tuck - iso;Bodyweight;30 sec;2;;33;secs;[]
-202407081201;4;Hanging knee tuck - iso;Bodyweight;30 sec;3;;29;secs;[]
+202407081201;4;Hanging Knee Tuck - iso;Bodyweight;30 sec;1;;33;secs;[]
+202407081201;4;Hanging Knee Tuck - iso;Bodyweight;30 sec;2;;33;secs;[]
+202407081201;4;Hanging Knee Tuck - iso;Bodyweight;30 sec;3;;29;secs;[]
 202407081201;5;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;8 reps;1;+0;10;reps;"""Altura 3, pé no chão"""
 202407081201;5;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;8 reps;2;+0;8;reps;"""Altura 3, pé no chão"""
 202407081201;5;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;8 reps;3;+0;6;reps;"""Altura 3, pé no chão"""
@@ -695,8 +730,8 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202407081201;6;Seated Curls;Dumbbells;8 reps;3;10;11;reps;[]
 202407051741;1;Pistol Squats;TRX;10 reps;1;;5;reps;[]
 202407051741;1;Pistol Squats;TRX;10 reps;2;;5;reps;[]
-202407051741;2;Single leg hip thrust;Bodyweight;10 reps;1;;10;reps;[]
-202407051741;2;Single leg hip thrust;Bodyweight;10 reps;2;;10;reps;[]
+202407051741;2;Single Leg Hip Thrust;Bodyweight;10 reps;1;;10;reps;[]
+202407051741;2;Single Leg Hip Thrust;Bodyweight;10 reps;2;;10;reps;[]
 202407051741;3;Leg Extensions;Machine;10 reps;1;75;8;reps;"""Aguentava 75kg nas três mas quis pegar leve"""
 202407051741;3;Leg Extensions;Machine;10 reps;2;70;9;reps;"""Aguentava 75kg nas três mas quis pegar leve"""
 202407051741;3;Leg Extensions;Machine;10 reps;3;70;9;reps;"""Aguentava 75kg nas três mas quis pegar leve"""
@@ -706,13 +741,13 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202407051741;5;Seated Calf Raises;Machine;10 reps;1;60;8;reps;"""Botar o apoio no joelho e não no meio da coxa"""
 202407051741;5;Seated Calf Raises;Machine;10 reps;2;60;8;reps;"""Botar o apoio no joelho e não no meio da coxa"""
 202407051741;5;Seated Calf Raises;Machine;10 reps;3;-;-;reps;"""Botar o apoio no joelho e não no meio da coxa"""
-202407041233;1;Pike Pushup;Bodyweight;10 reps;1;;7;reps;[]
-202407041233;1;Pike Pushup;Bodyweight;10 reps;2;;4;reps;[]
-202407041233;1;Pike Pushup;Bodyweight;10 reps;3;;5;reps;[]
-202407041233;2;Flexão arqueiro smith;Bodyweight;10 reps;1;;9;reps;"""Banco de supino reto, perna aberta"""
-202407041233;2;Flexão arqueiro smith;Bodyweight;10 reps;2;;7;reps;"""Banco de supino reto, perna aberta"""
-202407041233;2;Flexão arqueiro smith;Bodyweight;10 reps;3;;5;reps;"""Banco de supino reto, perna aberta"""
-202407041233;2;Flexão arqueiro smith;Bodyweight;10 reps;4;;5;reps;"""Banco de supino reto, perna aberta"""
+202407041233;1;Pike Push-Ups;Bodyweight;10 reps;1;;7;reps;[]
+202407041233;1;Pike Push-Ups;Bodyweight;10 reps;2;;4;reps;[]
+202407041233;1;Pike Push-Ups;Bodyweight;10 reps;3;;5;reps;[]
+202407041233;2;Incline Archer Push-Ups;Bodyweight;10 reps;1;;9;reps;"""Banco de supino reto, perna aberta"""
+202407041233;2;Incline Archer Push-Ups;Bodyweight;10 reps;2;;7;reps;"""Banco de supino reto, perna aberta"""
+202407041233;2;Incline Archer Push-Ups;Bodyweight;10 reps;3;;5;reps;"""Banco de supino reto, perna aberta"""
+202407041233;2;Incline Archer Push-Ups;Bodyweight;10 reps;4;;5;reps;"""Banco de supino reto, perna aberta"""
 202407041233;3;Bench Dips;Bodyweight;10 reps;1;+0;12;reps;[]
 202407041233;3;Bench Dips;Bodyweight;10 reps;2;+0;12;reps;[]
 202407041233;3;Bench Dips;Bodyweight;10 reps;3;+0;11;reps;[]
@@ -729,10 +764,10 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202407011159;3;Skin the cat;Bodyweight;10 reps;2;;5;reps;[]
 202407011159;3;Skin the cat;Bodyweight;10 reps;3;;5;reps;[]
 202407011159;3;Skin the cat;Bodyweight;10 reps;4;;4;reps;[]
-202407011159;4;Hanging knee tuck - iso;Bodyweight;;1;;30;secs;[]
-202407011159;4;Hanging knee tuck - iso;Bodyweight;;2;;28;secs;[]
-202407011159;4;Hanging knee tuck - iso;Bodyweight;;3;;25;secs;[]
-202407011159;4;Hanging knee tuck - iso;Bodyweight;;4;;20;secs;[]
+202407011159;4;Hanging Knee Tuck - iso;Bodyweight;;1;;30;secs;[]
+202407011159;4;Hanging Knee Tuck - iso;Bodyweight;;2;;28;secs;[]
+202407011159;4;Hanging Knee Tuck - iso;Bodyweight;;3;;25;secs;[]
+202407011159;4;Hanging Knee Tuck - iso;Bodyweight;;4;;20;secs;[]
 202406251606;1;Pistol Squats;TRX;10 reps;1;;3;reps;"""3 caixas. Se pá era melhor deixar mais alto?"""
 202406251606;1;Pistol Squats;TRX;10 reps;2;;2;reps;"""3 caixas. Se pá era melhor deixar mais alto?"""
 202406251606;1;Pistol Squats;TRX;10 reps;3;;3;reps;"""3 caixas. Se pá era melhor deixar mais alto?"""
@@ -745,31 +780,31 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202406251606;3;Single leg deadlift;Bodyweight;10 reps;2;;10;reps;[]
 202406251606;3;Single leg deadlift;Bodyweight;10 reps;3;;10;reps;[]
 202406251606;3;Single leg deadlift;Bodyweight;10 reps;4;;10;reps;[]
-202406251606;4;Single leg hip thrust;Bodyweight;10 reps;1;;10;reps;[]
-202406251606;4;Single leg hip thrust;Bodyweight;10 reps;2;;7;reps;[]
-202406171651;1;Pike Pushup;Bodyweight;10 reps;1;;10;reps;[]
-202406171651;1;Pike Pushup;Bodyweight;10 reps;2;;10;reps;[]
-202406171651;1;Pike Pushup;Bodyweight;10 reps;3;;10;reps;[]
-202406171651;1;Pike Pushup;Bodyweight;10 reps;4;;7;reps;[]
-202406171651;2;Explosive pushup;Bodyweight;10 reps;1;;10;reps;[]
-202406171651;2;Explosive pushup;Bodyweight;10 reps;2;;7;reps;[]
-202406171651;2;Explosive pushup;Bodyweight;10 reps;3;;4;reps;[]
+202406251606;4;Single Leg Hip Thrust;Bodyweight;10 reps;1;;10;reps;[]
+202406251606;4;Single Leg Hip Thrust;Bodyweight;10 reps;2;;7;reps;[]
+202406171651;1;Pike Push-Ups;Bodyweight;10 reps;1;;10;reps;[]
+202406171651;1;Pike Push-Ups;Bodyweight;10 reps;2;;10;reps;[]
+202406171651;1;Pike Push-Ups;Bodyweight;10 reps;3;;10;reps;[]
+202406171651;1;Pike Push-Ups;Bodyweight;10 reps;4;;7;reps;[]
+202406171651;2;Explosive Push-Ups;Bodyweight;10 reps;1;;10;reps;[]
+202406171651;2;Explosive Push-Ups;Bodyweight;10 reps;2;;7;reps;[]
+202406171651;2;Explosive Push-Ups;Bodyweight;10 reps;3;;4;reps;[]
 202406171651;3;Bench Dips;Bodyweight;10 reps;1;+0;10;reps;[]
 202406171651;3;Bench Dips;Bodyweight;10 reps;2;+0;12;reps;[]
 202406171651;4;Dips;Bodyweight;10 reps;1;+0;3;reps;[]
 202406171651;4;Dips;Bodyweight;10 reps;2;+0;2;reps;[]
-202406171651;5;Flexão arqueiro smith;Bodyweight;10 reps;1;;5;reps;[]
-202406171651;5;Flexão arqueiro smith;Bodyweight;10 reps;2;;4;reps;[]
-202406171651;5;Flexão arqueiro smith;Bodyweight;10 reps;3;;3;reps;[]
-202406171651;5;Flexão arqueiro smith;Bodyweight;10 reps;4;;3;reps;[]
+202406171651;5;Incline Archer Push-Ups;Bodyweight;10 reps;1;;5;reps;[]
+202406171651;5;Incline Archer Push-Ups;Bodyweight;10 reps;2;;4;reps;[]
+202406171651;5;Incline Archer Push-Ups;Bodyweight;10 reps;3;;3;reps;[]
+202406171651;5;Incline Archer Push-Ups;Bodyweight;10 reps;4;;3;reps;[]
 202406171651;6;Elevated Pike hold;Bodyweight;;1;;12;secs;[]
 202406171651;6;Elevated Pike hold;Bodyweight;;2;;14;secs;[]
 202406171651;7;Decline Crunches;Bodyweight;10 reps;1;+0;6;reps;[]
 202406171651;7;Decline Crunches;Bodyweight;10 reps;2;+0;5;reps;[]
-202406171651;8;Cadeirinha;Bodyweight;10 reps;1;;20;reps;[]
-202406171651;8;Cadeirinha;Bodyweight;10 reps;2;;16;reps;[]
-202406171651;8;Cadeirinha;Bodyweight;10 reps;3;;15;reps;[]
-202406171651;8;Cadeirinha;Bodyweight;10 reps;4;;15;reps;[]
+202406171651;8;Chair Crunches;Bodyweight;10 reps;1;;20;reps;[]
+202406171651;8;Chair Crunches;Bodyweight;10 reps;2;;16;reps;[]
+202406171651;8;Chair Crunches;Bodyweight;10 reps;3;;15;reps;[]
+202406171651;8;Chair Crunches;Bodyweight;10 reps;4;;15;reps;[]
 202406151023;1;Pull-Ups with Wide Overhand Grip;Bodyweight;10 reps;1;+0;8;reps;[]
 202406151023;1;Pull-Ups with Wide Overhand Grip;Bodyweight;10 reps;2;+0;5;reps;[]
 202406151023;1;Pull-Ups with Wide Overhand Grip;Bodyweight;10 reps;3;+0;4;reps;[]
@@ -786,10 +821,10 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202406151023;4;Seated Curls;Dumbbells;10 reps;2;12;6;reps;[]
 202406151023;4;Seated Curls;Dumbbells;10 reps;3;12;6;reps;[]
 202406151023;4;Seated Curls;Dumbbells;10 reps;4;12;4;reps;[]
-202406151023;5;Hanging knee tuck - iso;Bodyweight;;1;;12;secs;[]
-202406151023;5;Hanging knee tuck - iso;Bodyweight;;2;;18;secs;[]
-202406151023;5;Hanging knee tuck - iso;Bodyweight;;3;;22;secs;[]
-202406151023;5;Hanging knee tuck - iso;Bodyweight;;4;;30;secs;[]
+202406151023;5;Hanging Knee Tuck - iso;Bodyweight;;1;;12;secs;[]
+202406151023;5;Hanging Knee Tuck - iso;Bodyweight;;2;;18;secs;[]
+202406151023;5;Hanging Knee Tuck - iso;Bodyweight;;3;;22;secs;[]
+202406151023;5;Hanging Knee Tuck - iso;Bodyweight;;4;;30;secs;[]
 202406061705;1;Pistol Squats;TRX;10 reps;1;;7;reps;[]
 202406061705;1;Pistol Squats;TRX;10 reps;2;;7;reps;[]
 202406061705;1;Pistol Squats;TRX;10 reps;3;;7;reps;[]
@@ -806,26 +841,26 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202406061705;5;Standing Calf Raises;Bodyweight;10 reps;1;+0;15;reps;[]
 202406061705;5;Standing Calf Raises;Bodyweight;10 reps;2;+0;15;reps;[]
 202406061705;5;Standing Calf Raises;Bodyweight;10 reps;3;+0;15;reps;[]
-202406061705;6;Single leg hip thrust;Bodyweight;10 reps;1;;6;reps;[]
-202406061705;6;Single leg hip thrust;Bodyweight;10 reps;2;;7;reps;[]
-202406061705;6;Single leg hip thrust;Bodyweight;10 reps;3;;7;reps;[]
-20240603918;1;Explosive pushup;Bodyweight;10 reps;1;;10;reps;[]
-20240603918;1;Explosive pushup;Bodyweight;10 reps;2;;10;reps;[]
-20240603918;1;Explosive pushup;Bodyweight;10 reps;3;;8;reps;[]
-20240603918;1;Explosive pushup;Bodyweight;10 reps;4;;7;reps;[]
-20240603918;2;Knee diamond pushup;Bodyweight;10 reps;1;;7;reps;[]
-20240603918;2;Knee diamond pushup;Bodyweight;10 reps;2;;7;reps;[]
-20240603918;2;Knee diamond pushup;Bodyweight;10 reps;3;;7;reps;[]
+202406061705;6;Single Leg Hip Thrust;Bodyweight;10 reps;1;;6;reps;[]
+202406061705;6;Single Leg Hip Thrust;Bodyweight;10 reps;2;;7;reps;[]
+202406061705;6;Single Leg Hip Thrust;Bodyweight;10 reps;3;;7;reps;[]
+20240603918;1;Explosive Push-Ups;Bodyweight;10 reps;1;;10;reps;[]
+20240603918;1;Explosive Push-Ups;Bodyweight;10 reps;2;;10;reps;[]
+20240603918;1;Explosive Push-Ups;Bodyweight;10 reps;3;;8;reps;[]
+20240603918;1;Explosive Push-Ups;Bodyweight;10 reps;4;;7;reps;[]
+20240603918;2;Knee Diamond Push-Ups;Bodyweight;10 reps;1;;7;reps;[]
+20240603918;2;Knee Diamond Push-Ups;Bodyweight;10 reps;2;;7;reps;[]
+20240603918;2;Knee Diamond Push-Ups;Bodyweight;10 reps;3;;7;reps;[]
 20240603918;3;Bench Dips;Bodyweight;10 reps;1;+0;10;reps;[]
 20240603918;3;Bench Dips;Bodyweight;10 reps;2;+0;9;reps;[]
 20240603918;3;Bench Dips;Bodyweight;10 reps;3;+0;10;reps;[]
 20240603918;3;Bench Dips;Bodyweight;10 reps;4;+0;10;reps;[]
-20240603918;4;Flexão arqueiro smith;Bodyweight;10 reps;1;;3;reps;"""Abaixei bem o ângulo, fiz no banco de concreto da praça. Fiz com as pernas mais abertas"""
-20240603918;4;Flexão arqueiro smith;Bodyweight;10 reps;2;;5;reps;"""Abaixei bem o ângulo, fiz no banco de concreto da praça. Fiz com as pernas mais abertas"""
-20240603918;4;Flexão arqueiro smith;Bodyweight;10 reps;3;;5;reps;"""Abaixei bem o ângulo, fiz no banco de concreto da praça. Fiz com as pernas mais abertas"""
-20240603918;4;Flexão arqueiro smith;Bodyweight;10 reps;4;;6;reps;"""Abaixei bem o ângulo, fiz no banco de concreto da praça. Fiz com as pernas mais abertas"""
-20240603918;5;Pike Pushup;Bodyweight;10 reps;1;;6;reps;[]
-20240603918;5;Pike Pushup;Bodyweight;10 reps;2;;7;reps;[]
+20240603918;4;Incline Archer Push-Ups;Bodyweight;10 reps;1;;3;reps;"""Abaixei bem o ângulo, fiz no banco de concreto da praça. Fiz com as pernas mais abertas"""
+20240603918;4;Incline Archer Push-Ups;Bodyweight;10 reps;2;;5;reps;"""Abaixei bem o ângulo, fiz no banco de concreto da praça. Fiz com as pernas mais abertas"""
+20240603918;4;Incline Archer Push-Ups;Bodyweight;10 reps;3;;5;reps;"""Abaixei bem o ângulo, fiz no banco de concreto da praça. Fiz com as pernas mais abertas"""
+20240603918;4;Incline Archer Push-Ups;Bodyweight;10 reps;4;;6;reps;"""Abaixei bem o ângulo, fiz no banco de concreto da praça. Fiz com as pernas mais abertas"""
+20240603918;5;Pike Push-Ups;Bodyweight;10 reps;1;;6;reps;[]
+20240603918;5;Pike Push-Ups;Bodyweight;10 reps;2;;7;reps;[]
 20240603918;6;Elevated Pike hold;Bodyweight;;1;;12;secs;[]
 20240603918;6;Elevated Pike hold;Bodyweight;;2;;20;secs;[]
 20240603918;6;Elevated Pike hold;Bodyweight;;3;;17;secs;[]
@@ -854,8 +889,8 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 20240525944;3;Single leg deadlift;Bodyweight;10 reps;1;;10;reps;[]
 20240525944;3;Single leg deadlift;Bodyweight;10 reps;2;;10;reps;[]
 20240525944;4;Side Split Squats;Dumbbells;10 reps;1;0;5;reps;[]
-20240525944;5;Single leg hip thrust;Bodyweight;10 reps;1;;6;reps;[]
-20240525944;5;Single leg hip thrust;Bodyweight;10 reps;2;;10;reps;[]
+20240525944;5;Single Leg Hip Thrust;Bodyweight;10 reps;1;;6;reps;[]
+20240525944;5;Single Leg Hip Thrust;Bodyweight;10 reps;2;;10;reps;[]
 202405221029;1;Double Crunch Machine;Machine;10 reps;1;15;12;reps;"""Pegando muito os lats. Desisti"""
 202405221029;1;Double Crunch Machine;Machine;10 reps;2;15;6;reps;"""Pegando muito os lats. Desisti"""
 202405221029;2;Back Extensions on Roman Chair;Bodyweight;10 reps;1;+10;12;reps;"""Não quis forçar"""
@@ -865,22 +900,22 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202405221029;3;Hanging Leg Raises;Bodyweight;10 reps;2;+0;12;reps;[]
 202405221029;3;Hanging Leg Raises;Bodyweight;10 reps;3;+0;12;reps;[]
 202405221029;3;Hanging Leg Raises;Bodyweight;10 reps;4;+0;12;reps;[]
-202405211629;1;Explosive pushup;Bodyweight;10 reps;1;;10;reps;"""Forçou um pouco is pulsos"""
-202405211629;1;Explosive pushup;Bodyweight;10 reps;2;;8;reps;"""Forçou um pouco is pulsos"""
-202405211629;1;Explosive pushup;Bodyweight;10 reps;3;;7;reps;"""Forçou um pouco is pulsos"""
-202405211629;1;Explosive pushup;Bodyweight;10 reps;4;;6;reps;"""Forçou um pouco is pulsos"""
-202405211629;2;Knee diamond pushup;Bodyweight;10 reps;1;;7;reps;[]
-202405211629;2;Knee diamond pushup;Bodyweight;10 reps;2;;6;reps;[]
-202405211629;2;Knee diamond pushup;Bodyweight;10 reps;3;;5;reps;[]
-202405211629;2;Knee diamond pushup;Bodyweight;10 reps;4;;5;reps;[]
+202405211629;1;Explosive Push-Ups;Bodyweight;10 reps;1;;10;reps;"""Forçou um pouco is pulsos"""
+202405211629;1;Explosive Push-Ups;Bodyweight;10 reps;2;;8;reps;"""Forçou um pouco is pulsos"""
+202405211629;1;Explosive Push-Ups;Bodyweight;10 reps;3;;7;reps;"""Forçou um pouco is pulsos"""
+202405211629;1;Explosive Push-Ups;Bodyweight;10 reps;4;;6;reps;"""Forçou um pouco is pulsos"""
+202405211629;2;Knee Diamond Push-Ups;Bodyweight;10 reps;1;;7;reps;[]
+202405211629;2;Knee Diamond Push-Ups;Bodyweight;10 reps;2;;6;reps;[]
+202405211629;2;Knee Diamond Push-Ups;Bodyweight;10 reps;3;;5;reps;[]
+202405211629;2;Knee Diamond Push-Ups;Bodyweight;10 reps;4;;5;reps;[]
 202405211629;3;Bench Dips;Bodyweight;10 reps;1;+0;10;reps;[]
 202405211629;3;Bench Dips;Bodyweight;10 reps;2;+0;9;reps;[]
 202405211629;3;Bench Dips;Bodyweight;10 reps;3;+0;8;reps;[]
 202405211629;3;Bench Dips;Bodyweight;10 reps;4;+0;7;reps;[]
-202405211629;4;Flexão arqueiro smith;Bodyweight;10 reps;1;;5;reps;"""Altura 3. Abaixei pra 2 na última"""
-202405211629;4;Flexão arqueiro smith;Bodyweight;10 reps;2;;6;reps;"""Altura 3. Abaixei pra 2 na última"""
-202405211629;4;Flexão arqueiro smith;Bodyweight;10 reps;3;;6;reps;"""Altura 3. Abaixei pra 2 na última"""
-202405211629;4;Flexão arqueiro smith;Bodyweight;10 reps;4;;4;reps;"""Altura 3. Abaixei pra 2 na última"""
+202405211629;4;Incline Archer Push-Ups;Bodyweight;10 reps;1;;5;reps;"""Altura 3. Abaixei pra 2 na última"""
+202405211629;4;Incline Archer Push-Ups;Bodyweight;10 reps;2;;6;reps;"""Altura 3. Abaixei pra 2 na última"""
+202405211629;4;Incline Archer Push-Ups;Bodyweight;10 reps;3;;6;reps;"""Altura 3. Abaixei pra 2 na última"""
+202405211629;4;Incline Archer Push-Ups;Bodyweight;10 reps;4;;4;reps;"""Altura 3. Abaixei pra 2 na última"""
 202405211629;5;Elevated Pike hold;Bodyweight;;1;;30;secs;[]
 202405211629;5;Elevated Pike hold;Bodyweight;;2;;22;secs;[]
 202405211629;5;Elevated Pike hold;Bodyweight;;3;;26;secs;[]
@@ -891,10 +926,10 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202405201615;1;Pull-Ups with Wide Overhand Grip;Bodyweight;10 reps;2;+0;5;reps;[]
 202405201615;1;Pull-Ups with Wide Overhand Grip;Bodyweight;10 reps;3;+0;4;reps;[]
 202405201615;1;Pull-Ups with Wide Overhand Grip;Bodyweight;10 reps;4;+0;3;reps;[]
-202405201615;2;Scapular Pullup;Bodyweight;10 reps;1;;7;reps;[]
-202405201615;2;Scapular Pullup;Bodyweight;10 reps;2;;5;reps;[]
-202405201615;2;Scapular Pullup;Bodyweight;10 reps;3;;7;reps;[]
-202405201615;2;Scapular Pullup;Bodyweight;10 reps;4;;7;reps;[]
+202405201615;2;Scapular Pull-Ups;Bodyweight;10 reps;1;;7;reps;[]
+202405201615;2;Scapular Pull-Ups;Bodyweight;10 reps;2;;5;reps;[]
+202405201615;2;Scapular Pull-Ups;Bodyweight;10 reps;3;;7;reps;[]
+202405201615;2;Scapular Pull-Ups;Bodyweight;10 reps;4;;7;reps;[]
 202405201615;3;Pull-Ups with Close Neutral Grip;Bodyweight;10 reps;1;+0;5;reps;[]
 202405201615;3;Pull-Ups with Close Neutral Grip;Bodyweight;10 reps;2;+0;4;reps;[]
 202405201615;3;Pull-Ups with Close Neutral Grip;Bodyweight;10 reps;3;+0;3;reps;[]
@@ -903,8 +938,8 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202405201615;4;Inverted Rows on Smith Machine;Bodyweight;10 reps;2;+0;5;reps;"""Apoio da perna ficou baixo"""
 202405201615;4;Inverted Rows on Smith Machine;Bodyweight;10 reps;3;+0;5;reps;"""Apoio da perna ficou baixo"""
 202405201615;4;Inverted Rows on Smith Machine;Bodyweight;10 reps;4;+0;4;reps;"""Apoio da perna ficou baixo"""
-202405201615;5;Australiana arqueiro smith;Bodyweight;10 reps;1;;5;reps;"""Altura 5"""
-202405201615;5;Australiana arqueiro smith;Bodyweight;10 reps;2;;5;reps;"""Altura 5"""
+202405201615;5;Incline Australian Pull-Ups;Bodyweight;10 reps;1;;5;reps;"""Altura 5"""
+202405201615;5;Incline Australian Pull-Ups;Bodyweight;10 reps;2;;5;reps;"""Altura 5"""
 202405201615;6;Seated Curls;Dumbbells;8 reps;1;12;8;reps;[]
 202405201615;6;Seated Curls;Dumbbells;8 reps;2;12;8;reps;[]
 202405201615;6;Seated Curls;Dumbbells;8 reps;3;12;8;reps;[]
@@ -950,11 +985,11 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202405161707;4;Side Plank;Bodyweight;;1;;30;secs;[]
 202405161707;4;Side Plank;Bodyweight;;2;;30;secs;[]
 202405161707;4;Side Plank;Bodyweight;;3;;30;secs;[]
-202405161707;5;Paraquedista;Bodyweight;10 reps;1;;20;reps;"""Comecei a sentir tipo na base da costela esquerda"""
-202405161707;5;Paraquedista;Bodyweight;10 reps;2;;10;reps;"""Comecei a sentir tipo na base da costela esquerda"""
-202405161707;6;Cadeirinha;Bodyweight;10 reps;1;;20;reps;[]
-202405161707;6;Cadeirinha;Bodyweight;10 reps;2;;16;reps;[]
-202405161707;6;Cadeirinha;Bodyweight;10 reps;3;;13;reps;[]
+202405161707;5;Skydiver;Bodyweight;10 reps;1;;20;reps;"""Comecei a sentir tipo na base da costela esquerda"""
+202405161707;5;Skydiver;Bodyweight;10 reps;2;;10;reps;"""Comecei a sentir tipo na base da costela esquerda"""
+202405161707;6;Chair Crunches;Bodyweight;10 reps;1;;20;reps;[]
+202405161707;6;Chair Crunches;Bodyweight;10 reps;2;;16;reps;[]
+202405161707;6;Chair Crunches;Bodyweight;10 reps;3;;13;reps;[]
 202405161707;7;Russian Swings;Kettlebells;10 reps;1;12;12;reps;[]
 202405161707;7;Russian Swings;Kettlebells;10 reps;2;12;12;reps;[]
 202405161707;7;Russian Swings;Kettlebells;10 reps;3;12;12;reps;[]
@@ -1069,12 +1104,12 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202405021652;2;Plank;Bodyweight;;1;;1:10;mins;[]
 202405021652;2;Plank;Bodyweight;;2;;1;mins;[]
 202405021652;2;Plank;Bodyweight;;3;;0:50;mins;[]
-202405021652;3;Paraquedista;Bodyweight;10 reps;1;;20;reps;[]
-202405021652;3;Paraquedista;Bodyweight;10 reps;2;;20;reps;[]
-202405021652;3;Paraquedista;Bodyweight;10 reps;3;;20;reps;[]
-202405021652;4;Cadeirinha;Bodyweight;10 reps;1;;20;reps;[]
-202405021652;4;Cadeirinha;Bodyweight;10 reps;2;;10;reps;[]
-202405021652;4;Cadeirinha;Bodyweight;10 reps;3;;15;reps;[]
+202405021652;3;Skydiver;Bodyweight;10 reps;1;;20;reps;[]
+202405021652;3;Skydiver;Bodyweight;10 reps;2;;20;reps;[]
+202405021652;3;Skydiver;Bodyweight;10 reps;3;;20;reps;[]
+202405021652;4;Chair Crunches;Bodyweight;10 reps;1;;20;reps;[]
+202405021652;4;Chair Crunches;Bodyweight;10 reps;2;;10;reps;[]
+202405021652;4;Chair Crunches;Bodyweight;10 reps;3;;15;reps;[]
 202404271029;1;Lat Pulldowns with Wide Overhand Grip;Cable;16 reps;1;50;16;reps;[]
 202404271029;1;Lat Pulldowns with Wide Overhand Grip;Cable;16 reps;2;50;10;reps;[]
 202404271029;1;Lat Pulldowns with Wide Overhand Grip;Cable;16 reps;3;50;7;reps;[]
@@ -1173,12 +1208,12 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202404231234;4;Side Plank;Bodyweight;;1;;30;secs;"""Fazendo 5s a mais com o lado direito q é mais fraco"""
 202404231234;4;Side Plank;Bodyweight;;2;;25;secs;"""Fazendo 5s a mais com o lado direito q é mais fraco"""
 202404231234;4;Side Plank;Bodyweight;;3;;30;secs;"""Fazendo 5s a mais com o lado direito q é mais fraco"""
-202404231234;5;Paraquedista;Bodyweight;10 reps;1;;20;reps;[]
-202404231234;5;Paraquedista;Bodyweight;10 reps;2;;20;reps;[]
-202404231234;5;Paraquedista;Bodyweight;10 reps;3;;1;reps;[]
-202404231234;6;Cadeirinha;Bodyweight;10 reps;1;;15;reps;[]
-202404231234;6;Cadeirinha;Bodyweight;10 reps;2;;18;reps;[]
-202404231234;6;Cadeirinha;Bodyweight;10 reps;3;;15;reps;[]
+202404231234;5;Skydiver;Bodyweight;10 reps;1;;20;reps;[]
+202404231234;5;Skydiver;Bodyweight;10 reps;2;;20;reps;[]
+202404231234;5;Skydiver;Bodyweight;10 reps;3;;1;reps;[]
+202404231234;6;Chair Crunches;Bodyweight;10 reps;1;;15;reps;[]
+202404231234;6;Chair Crunches;Bodyweight;10 reps;2;;18;reps;[]
+202404231234;6;Chair Crunches;Bodyweight;10 reps;3;;15;reps;[]
 202404221519;1;Lat Pulldowns with Wide Overhand Grip;Cable;16 reps;1;50;16;reps;[]
 202404221519;1;Lat Pulldowns with Wide Overhand Grip;Cable;16 reps;2;50;10;reps;[]
 202404221519;1;Lat Pulldowns with Wide Overhand Grip;Cable;16 reps;3;50;7;reps;[]
@@ -1240,9 +1275,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 20240414919;1;Leg Raises;Bodyweight;10 reps;1;+0;12;reps;[]
 20240414919;1;Leg Raises;Bodyweight;10 reps;2;+0;12;reps;[]
 20240414919;1;Leg Raises;Bodyweight;10 reps;3;+0;8;reps;[]
-20240414919;2;Cadeirinha;Bodyweight;10 reps;1;;10;reps;[]
-20240414919;2;Cadeirinha;Bodyweight;10 reps;2;;12;reps;[]
-20240414919;2;Cadeirinha;Bodyweight;10 reps;3;;15;reps;[]
+20240414919;2;Chair Crunches;Bodyweight;10 reps;1;;10;reps;[]
+20240414919;2;Chair Crunches;Bodyweight;10 reps;2;;12;reps;[]
+20240414919;2;Chair Crunches;Bodyweight;10 reps;3;;15;reps;[]
 20240414919;3;Dragon Flag;Bodyweight;10 reps;1;;8;reps;[]
 20240414919;3;Dragon Flag;Bodyweight;10 reps;2;;8;reps;[]
 20240414919;3;Dragon Flag;Bodyweight;10 reps;3;;6;reps;[]
@@ -1253,9 +1288,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 20240414919;6;Side Plank;Bodyweight;;1;;30;secs;[]
 20240414919;6;Side Plank;Bodyweight;;2;;30;secs;[]
 20240414919;6;Side Plank;Bodyweight;;3;;25;secs;[]
-20240414919;7;Paraquedista;Bodyweight;10 reps;1;;15;reps;[]
-20240414919;7;Paraquedista;Bodyweight;10 reps;2;;15;reps;[]
-20240414919;7;Paraquedista;Bodyweight;10 reps;3;;20;reps;[]
+20240414919;7;Skydiver;Bodyweight;10 reps;1;;15;reps;[]
+20240414919;7;Skydiver;Bodyweight;10 reps;2;;15;reps;[]
+20240414919;7;Skydiver;Bodyweight;10 reps;3;;20;reps;[]
 202404111040;1;Lat Pulldowns with Wide Overhand Grip;Cable;10 reps;1;50;16;reps;[]
 202404111040;1;Lat Pulldowns with Wide Overhand Grip;Cable;10 reps;2;50;10;reps;[]
 202404111040;1;Lat Pulldowns with Wide Overhand Grip;Cable;10 reps;3;50;6;reps;[]
@@ -1422,9 +1457,9 @@ workout_id;exercise_number;exercise_name;equipment;reps_goal;set_number;weigth;q
 202404031216;5;Plank;Bodyweight;;1;;1:15;mins;[]
 202404031216;5;Plank;Bodyweight;;2;;1;mins;[]
 202404031216;5;Plank;Bodyweight;;3;;0:57;mins;[]
-202404031216;6;Paraquedista isométrico;Bodyweight;;1;;30;secs;[]
-202404031216;6;Paraquedista isométrico;Bodyweight;;2;;45;secs;[]
-202404031216;6;Paraquedista isométrico;Bodyweight;;3;;45;secs;[]
+202404031216;6;Skydiver - Iso;Bodyweight;;1;;30;secs;[]
+202404031216;6;Skydiver - Iso;Bodyweight;;2;;45;secs;[]
+202404031216;6;Skydiver - Iso;Bodyweight;;3;;45;secs;[]
 202404021218;1;Lat Pulldowns with Close Neutral Grip;Cable;12 reps;1;65;8;reps;[]
 202404021218;1;Lat Pulldowns with Close Neutral Grip;Cable;12 reps;2;65;8;reps;[]
 202404021218;1;Lat Pulldowns with Close Neutral Grip;Cable;12 reps;3;65;6;reps;[]
