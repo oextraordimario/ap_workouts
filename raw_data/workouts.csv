@@ -1,4 +1,67 @@
 ﻿
+"PerGlu · Day 3 · Week 5 · Verão · Deload";"2024-10-30 16:32 h";"1:16 hr"
+"1. Leg Press · Machine · 12 reps"
+#;KG;REPS
+1;210;15
+2;210;15
+3;210;13
+"2. Leg Curls on Leg Extension Machine · Machine · 12 reps"
+#;KG;REPS
+1;25;12
+2;25;12
+3;25;10
+"3. Bilateral Calf Press - Horizontal Leg Press · Machine · 12 reps"
+#;KG;REPS
+1;110;12
+2;110;12
+3;110;11
+"4. Diagonal Hip Abduction · Machine · 12 reps"
+#;KG;REPS
+1;36;10
+2;36;10
+3;36;10
+"5. Leg Extensions · Machine · 12 reps";"Fiz na máquina da esquerda, que eu acho que tá um pouco mais pesada"
+#;KG;REPS
+1;73;15
+2;73;10
+3;73;8
+"6. Seated Leg Curls · Machine · 12 reps"
+#;KG;REPS
+1;63;12
+2;63;12
+3;63;11
+"7. Back Extensions on Roman Chair · Bodyweight · 12 reps"
+#;KG;REPS
+1;+10;10
+2;+10;10
+
+"PeiTriOm · Day 2 · Week 5 · Verão · Deload";"2024-10-29 16:39 h";"49 min"
+"1. Chest Press · Machine · 12 reps"
+#;KG;REPS
+1;36;12
+2;36;12
+3;36;12
+"2. Incline Bench Press · Barbell · 12 reps";"Sentindo pressão no meio da coluna. Arreguei"
+#;KG;REPS
+1;30;12
+2;30;11
+3;30;8
+"3. Triceps Pushdowns · Cable · 12 reps"
+#;KG;REPS
+1;40;12
+2;40;12
+3;40;7
+"4. Seated Lateral Raises · Dumbbells · 12 reps"
+#;KG;REPS
+1;9;12
+2;9;12
+3;9;10
+"5. Weighted L Raises · Bodyweight · 10 reps"
+#;KG;REPS
+1;+2;10
+2;+2;6
+3;+1;5
+
 "CosBi · Day 1 · Week 5 · Verão · Deload";"2024-10-28 16:42 h";"1:05 hr"
 "1. Lat Pulldowns with Wide Neutral Grip · Cable · 12 reps"
 #;KG;REPS
@@ -47,12 +110,12 @@
 1;24;12
 2;24;12
 3;24;15
-"3. Panturrilha bilateral - Leg horizontal · Machine · 10 reps"
+"3. Bilateral Calf Press - Horizontal Leg Press · Machine · 10 reps"
 #;KG;REPS
 1;105;12
 2;105;12
 3;105;12
-"4. Abdução diagonal · Machine · 10 reps"
+"4. Diagonal Hip Abduction · Machine · 10 reps"
 #;KG;REPS
 1;30;10
 2;30;12
@@ -89,12 +152,12 @@
 1;9;10
 2;9;10
 3;9;11
-"5. L raises · Bodyweight · 12 reps"
+"5. L Raises · Bodyweight · 12 reps"
 #;REPS
 1;12
 2;12
 3;12
-"6. Pseudo pushup · Bodyweight · 10 reps";"Base da mão na altura da última costela"
+"6. Pseudo Push-Ups · Bodyweight · 10 reps";"Base da mão na altura da última costela"
 #;REPS
 1;10
 2;10
@@ -182,7 +245,7 @@
 1;10;20
 2;12;20
 3;12;18
-"7. L raises · Bodyweight · 12 reps"
+"7. L Raises · Bodyweight · 12 reps"
 #;REPS
 1;12
 2;12
@@ -283,7 +346,7 @@
 1;20;12
 2;20;12
 3;20;15
-"6. L raises · Bodyweight · 12 reps"
+"6. L Raises · Bodyweight · 12 reps"
 #;REPS
 1;12
 2;12
@@ -342,7 +405,7 @@
 4;55;10
 
 "PeiTriOm · Day 2 · Week 1 · Verão · Deload";"2024-10-08 15:25 h";"51 min"
-"1. Flexão arqueiro smith · Bodyweight · 12 reps";"Altura 8"
+"1. Incline Archer Push-Ups · Bodyweight · 12 reps";"Altura 8"
 #;REPS
 1;12
 2;12
@@ -354,7 +417,7 @@
 2;+0;4
 3;+0;4
 4;+0;2
-"3. L raises · Bodyweight · 12 reps"
+"3. L Raises · Bodyweight · 12 reps"
 #;REPS
 1;10
 2;7
@@ -408,7 +471,7 @@
 1;60;12
 2;60;12
 3;60;12
-"3. L raises · Bodyweight · 10 reps"
+"3. L Raises · Bodyweight · 10 reps"
 #;REPS
 1;12
 2;12
@@ -445,7 +508,7 @@
 1;9;12
 2;9;12
 3;9;11
-"5. Pseudo pushup · Bodyweight · 12 reps"
+"5. Pseudo Push-Ups · Bodyweight · 12 reps"
 #;REPS
 1;7
 
@@ -470,7 +533,7 @@
 1;10;12
 2;10;12
 3;10;15
-"5. L raises · Bodyweight · 10 reps";"G1 Jampa. Naquele equipamento de Abdominal na paralela com as costas apoiadas"
+"5. L Raises · Bodyweight · 10 reps";"G1 Jampa. Naquele equipamento de Abdominal na paralela com as costas apoiadas"
 #;REPS
 1;12
 2;11
@@ -530,7 +593,7 @@
 1;9;8
 2;9;8
 3;9;6
-"6. Pseudo pushup · Bodyweight · 12 reps";"Mãos na altura da base da costela +-"
+"6. Pseudo Push-Ups · Bodyweight · 12 reps";"Mãos na altura da base da costela +-"
 #;REPS
 1;7
 2;7
@@ -619,7 +682,7 @@
 1;0;30
 2;0;18
 3;0;15
-"4. L raises · Bodyweight · 10 reps"
+"4. L Raises · Bodyweight · 10 reps"
 #;REPS
 1;10
 2;8
@@ -700,11 +763,11 @@
 1;47;12
 2;47;12
 3;47;12
-"6. Pike Pushup · Bodyweight · 12 reps";"Não tô conseguindo fazer isso direito, vou ter que mudar alguma coisa"
+"6. Pike Push-Ups · Bodyweight · 12 reps";"Não tô conseguindo fazer isso direito, vou ter que mudar alguma coisa"
 #;REPS
 1;4
 2;2
-"7. Pseudo Planche Lean iso · Bodyweight"
+"7. Pseudo Planche Lean - Iso · Bodyweight"
 #;SECS
 1;12
 2;12
@@ -771,7 +834,7 @@
 3;70;8
 
 "PeiTriOm · Day 2 · Week 6 · Voltando · Deload";"2024-08-15 16:52 h";"58 min"
-"1. Flexão arqueiro smith · Bodyweight · 10 reps"
+"1. Incline Archer Push-Ups · Bodyweight · 10 reps"
 #;REPS
 1;10
 2;8
@@ -781,7 +844,7 @@
 1;+0;10
 2;+0;7
 3;+0;4
-"3. Decline pushup · Bodyweight · 10 reps"
+"3. Decline Push-Ups · Bodyweight · 10 reps"
 #;REPS
 1;10
 2;7
@@ -818,7 +881,7 @@
 1;22;10
 2;22;10
 3;22;10
-"6. L sit hold iso · Bodyweight · 30 sec"
+"6. L-Sit Hold · Bodyweight · 30 sec"
 #;SECS
 1;13
 2;10
@@ -847,7 +910,7 @@
 3;18;10
 
 "PeiTriOm · Day 2 · Week 5 · Voltando · Deload";"2024-08-07 16:39 h";"48 min"
-"1. Flexão arqueiro smith · Bodyweight · 10 reps";"Barras novas, altura 5. Pouquinho abaixo do joelho. Depois aumentei pra 6, linha do joelho"
+"1. Incline Archer Push-Ups · Bodyweight · 10 reps";"Barras novas, altura 5. Pouquinho abaixo do joelho. Depois aumentei pra 6, linha do joelho"
 #;REPS
 1;8
 2;6
@@ -862,11 +925,11 @@
 1;9;10
 2;9;10
 3;9;12
-"4. Pike Pushup · Bodyweight · 10 reps";"Achando difícil pra caralho, desisti"
+"4. Pike Push-Ups · Bodyweight · 10 reps";"Achando difícil pra caralho, desisti"
 #;REPS
 1;4
 2;2
-"5. Pseudo Planche Lean iso · Bodyweight";"Um palmo abaixo da linha do ombro"
+"5. Pseudo Planche Lean - Iso · Bodyweight";"Um palmo abaixo da linha do ombro"
 #;SECS
 1;10
 2;6
@@ -898,7 +961,7 @@
 1;22;10
 2;22;10
 3;22;5
-"6. L sit hold iso · Bodyweight · 30 sec"
+"6. L-Sit Hold · Bodyweight · 30 sec"
 #;SECS
 1;10
 2;8
@@ -937,7 +1000,7 @@
 3;67;12
 
 "PeiTriOm · Day 2 · Week 4 · Voltando · Deload";"2024-07-31 16:49 h";"22 min"
-"1. Flexão Arqueiro - Chão · Bodyweight · 10 reps";"Na última eu usei os pesos em vez de apoiar no chão. Parece que dei um mau jeito na coluna, tô com um pouco de dor. Pegar leve hj"
+"1. Archer Push-Ups · Bodyweight · 10 reps";"Na última eu usei os pesos em vez de apoiar no chão. Parece que dei um mau jeito na coluna, tô com um pouco de dor. Pegar leve hj"
 #;REPS
 1;6
 2;4
@@ -989,7 +1052,7 @@
 1;70;10
 2;70;10
 3;75;10
-"6. L sit hold iso · Bodyweight"
+"6. L-Sit Hold · Bodyweight"
 #;SECS
 1;8
 2;5
@@ -1001,7 +1064,7 @@
 3;70;6
 
 "PeiTriOm · Day 2 · Week 3 · Voltando · Deload";"2024-07-25 16:07 h";"59 min"
-"1. Flexão Arqueiro - Chão · Bodyweight · 8 reps";"Perna aberta, linha do ombro +-"
+"1. Archer Push-Ups · Bodyweight · 8 reps";"Perna aberta, linha do ombro +-"
 #;REPS
 1;5
 2;4
@@ -1026,7 +1089,7 @@
 1;25;10
 2;25;10
 3;25;10
-"6. Pseudo Planche Lean iso · Bodyweight"
+"6. Pseudo Planche Lean - Iso · Bodyweight"
 #;SECS
 1;20
 2;13
@@ -1058,7 +1121,7 @@
 1;22;10
 2;22;9
 3;22;8
-"6. Hanging knee tuck - iso · Bodyweight · 30 sec";"Alternando a cada 6"
+"6. Hanging Knee Tuck - iso · Bodyweight · 30 sec";"Alternando a cada 6"
 #;SECS
 1;32
 2;20
@@ -1097,7 +1160,7 @@
 3;65;10
 
 "PeiTriOm · Day 2 · Week 2 · Voltando · Deload";"2024-07-18 12:30 h";"54 min"
-"1. Flexão arqueiro smith · Bodyweight · 8 reps"
+"1. Incline Archer Push-Ups · Bodyweight · 8 reps"
 #;REPS
 1;10
 2;10
@@ -1122,7 +1185,7 @@
 1;30;10
 2;30;5
 3;25;5
-"6. Pseudo Planche Lean iso · Bodyweight";"Mão na altura do ossinho do quadril"
+"6. Pseudo Planche Lean - Iso · Bodyweight";"Mão na altura do ossinho do quadril"
 #;SECS
 1;25
 2;25
@@ -1154,14 +1217,14 @@
 1;22;10
 2;22;8
 3;22;6
-"6. Hanging knee tuck - iso · Bodyweight · 30 sec";"Uma perna em L, alternando a cada 4s"
+"6. Hanging Knee Tuck - iso · Bodyweight · 30 sec";"Uma perna em L, alternando a cada 4s"
 #;SECS
 1;24
 2;18
 3;16
 
 "PeiTriOm · Day 2 · Week 1 · Voltando · Deload";"2024-07-11 16:12 h";"39 min"
-"1. Flexão arqueiro smith · Bodyweight · 8 reps"
+"1. Incline Archer Push-Ups · Bodyweight · 8 reps"
 #;REPS
 1;10
 2;7
@@ -1176,7 +1239,7 @@
 1;8;12
 2;8;10
 3;7;12
-"4. Pseudo Planche Lean iso · Bodyweight"
+"4. Pseudo Planche Lean - Iso · Bodyweight"
 #;SECS
 1;30
 2;28
@@ -1225,7 +1288,7 @@
 1;42;12
 2;42;12
 3;42;12
-"4. Hanging knee tuck - iso · Bodyweight · 30 sec"
+"4. Hanging Knee Tuck - iso · Bodyweight · 30 sec"
 #;SECS
 1;33
 2;33
@@ -1246,7 +1309,7 @@
 #;REPS
 1;5
 2;5
-"2. Single leg hip thrust · Bodyweight · 10 reps"
+"2. Single Leg Hip Thrust · Bodyweight · 10 reps"
 #;REPS
 1;10
 2;10
@@ -1267,12 +1330,12 @@
 3;-;-
 
 "PeiTriOm · Day 2 · Week 4 · Calistenia1 · Deload";"2024-07-04 12:33 h";"34 min"
-"1. Pike Pushup · Bodyweight · 10 reps"
+"1. Pike Push-Ups · Bodyweight · 10 reps"
 #;REPS
 1;7
 2;4
 3;5
-"2. Flexão arqueiro smith · Bodyweight · 10 reps";"Banco de supino reto, perna aberta"
+"2. Incline Archer Push-Ups · Bodyweight · 10 reps";"Banco de supino reto, perna aberta"
 #;REPS
 1;9
 2;7
@@ -1304,7 +1367,7 @@
 2;5
 3;5
 4;4
-"4. Hanging knee tuck - iso · Bodyweight"
+"4. Hanging Knee Tuck - iso · Bodyweight"
 #;SECS
 1;30
 2;28
@@ -1330,19 +1393,19 @@
 2;10
 3;10
 4;10
-"4. Single leg hip thrust · Bodyweight · 10 reps"
+"4. Single Leg Hip Thrust · Bodyweight · 10 reps"
 #;REPS
 1;10
 2;7
 
 "PeiTriOm · Day 2 · Week 3 · Calistenia1 · Deload";"2024-06-17 16:51 h";"49 min"
-"1. Pike Pushup · Bodyweight · 10 reps"
+"1. Pike Push-Ups · Bodyweight · 10 reps"
 #;REPS
 1;10
 2;10
 3;10
 4;7
-"2. Explosive pushup · Bodyweight · 10 reps"
+"2. Explosive Push-Ups · Bodyweight · 10 reps"
 #;REPS
 1;10
 2;7
@@ -1355,7 +1418,7 @@
 #;KG;REPS
 1;+0;3
 2;+0;2
-"5. Flexão arqueiro smith · Bodyweight · 10 reps"
+"5. Incline Archer Push-Ups · Bodyweight · 10 reps"
 #;REPS
 1;5
 2;4
@@ -1369,7 +1432,7 @@
 #;KG;REPS
 1;+0;6
 2;+0;5
-"8. Cadeirinha · Bodyweight · 10 reps"
+"8. Chair Crunches · Bodyweight · 10 reps"
 #;REPS
 1;20
 2;16
@@ -1401,7 +1464,7 @@
 2;12;6
 3;12;6
 4;12;4
-"5. Hanging knee tuck - iso · Bodyweight"
+"5. Hanging Knee Tuck - iso · Bodyweight"
 #;SECS
 1;12
 2;18
@@ -1435,20 +1498,20 @@
 1;+0;15
 2;+0;15
 3;+0;15
-"6. Single leg hip thrust · Bodyweight · 10 reps"
+"6. Single Leg Hip Thrust · Bodyweight · 10 reps"
 #;REPS
 1;6
 2;7
 3;7
 
 "PeiTriOm · Day 2 · Week 2 · Calistenia1 · Deload";"2024-06-03 9:18 h";"1:02 hr"
-"1. Explosive pushup · Bodyweight · 10 reps"
+"1. Explosive Push-Ups · Bodyweight · 10 reps"
 #;REPS
 1;10
 2;10
 3;8
 4;7
-"2. Knee diamond pushup · Bodyweight · 10 reps"
+"2. Knee Diamond Push-Ups · Bodyweight · 10 reps"
 #;REPS
 1;7
 2;7
@@ -1459,13 +1522,13 @@
 2;+0;9
 3;+0;10
 4;+0;10
-"4. Flexão arqueiro smith · Bodyweight · 10 reps";"Abaixei bem o ângulo, fiz no banco de concreto da praça. Fiz com as pernas mais abertas"
+"4. Incline Archer Push-Ups · Bodyweight · 10 reps";"Abaixei bem o ângulo, fiz no banco de concreto da praça. Fiz com as pernas mais abertas"
 #;REPS
 1;3
 2;5
 3;5
 4;6
-"5. Pike Pushup · Bodyweight · 10 reps"
+"5. Pike Push-Ups · Bodyweight · 10 reps"
 #;REPS
 1;6
 2;7
@@ -1519,7 +1582,7 @@
 "4. Side Split Squats · Dumbbells · 10 reps"
 #;KG;REPS
 1;0;5
-"5. Single leg hip thrust · Bodyweight · 10 reps"
+"5. Single Leg Hip Thrust · Bodyweight · 10 reps"
 #;REPS
 1;6
 2;10
@@ -1542,13 +1605,13 @@
 4;+0;12
 
 "PeiTriOm · Day 2 · Week 1 · Calistenia1 · Deload";"2024-05-21 16:29 h";"50 min"
-"1. Explosive pushup · Bodyweight · 10 reps";"Forçou um pouco is pulsos"
+"1. Explosive Push-Ups · Bodyweight · 10 reps";"Forçou um pouco is pulsos"
 #;REPS
 1;10
 2;8
 3;7
 4;6
-"2. Knee diamond pushup · Bodyweight · 10 reps"
+"2. Knee Diamond Push-Ups · Bodyweight · 10 reps"
 #;REPS
 1;7
 2;6
@@ -1560,7 +1623,7 @@
 2;+0;9
 3;+0;8
 4;+0;7
-"4. Flexão arqueiro smith · Bodyweight · 10 reps";"Altura 3. Abaixei pra 2 na última"
+"4. Incline Archer Push-Ups · Bodyweight · 10 reps";"Altura 3. Abaixei pra 2 na última"
 #;REPS
 1;5
 2;6
@@ -1584,7 +1647,7 @@
 2;+0;5
 3;+0;4
 4;+0;3
-"2. Scapular Pullup · Bodyweight · 10 reps"
+"2. Scapular Pull-Ups · Bodyweight · 10 reps"
 #;REPS
 1;7
 2;5
@@ -1602,7 +1665,7 @@
 2;+0;5
 3;+0;5
 4;+0;4
-"5. Australiana arqueiro smith · Bodyweight · 10 reps";"Altura 5"
+"5. Incline Australian Pull-Ups · Bodyweight · 10 reps";"Altura 5"
 #;REPS
 1;5
 2;5
@@ -1677,11 +1740,11 @@
 1;30
 2;30
 3;30
-"5. Paraquedista · Bodyweight · 10 reps";"Comecei a sentir tipo na base da costela esquerda"
+"5. Skydiver · Bodyweight · 10 reps";"Comecei a sentir tipo na base da costela esquerda"
 #;REPS
 1;20
 2;10
-"6. Cadeirinha · Bodyweight · 10 reps"
+"6. Chair Crunches · Bodyweight · 10 reps"
 #;REPS
 1;20
 2;16
@@ -1860,12 +1923,12 @@
 1;1:10
 2;1
 3;0:50
-"3. Paraquedista · Bodyweight · 10 reps"
+"3. Skydiver · Bodyweight · 10 reps"
 #;REPS
 1;20
 2;20
 3;20
-"4. Cadeirinha · Bodyweight · 10 reps"
+"4. Chair Crunches · Bodyweight · 10 reps"
 #;REPS
 1;20
 2;10
@@ -2014,12 +2077,12 @@
 1;30
 2;25
 3;30
-"5. Paraquedista · Bodyweight · 10 reps"
+"5. Skydiver · Bodyweight · 10 reps"
 #;REPS
 1;20
 2;20
 3;1
-"6. Cadeirinha · Bodyweight · 10 reps"
+"6. Chair Crunches · Bodyweight · 10 reps"
 #;REPS
 1;15
 2;18
@@ -2115,7 +2178,7 @@
 1;+0;12
 2;+0;12
 3;+0;8
-"2. Cadeirinha · Bodyweight · 10 reps"
+"2. Chair Crunches · Bodyweight · 10 reps"
 #;REPS
 1;10
 2;12
@@ -2138,7 +2201,7 @@
 1;30
 2;30
 3;25
-"7. Paraquedista · Bodyweight · 10 reps"
+"7. Skydiver · Bodyweight · 10 reps"
 #;REPS
 1;15
 2;15
@@ -2401,7 +2464,7 @@
 1;1:15
 2;1
 3;0:57
-"6. Paraquedista isométrico · Bodyweight"
+"6. Skydiver - Iso · Bodyweight"
 #;SECS
 1;30
 2;45

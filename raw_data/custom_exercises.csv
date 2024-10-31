@@ -1,27 +1,27 @@
 ﻿
 NAME;EQUIPMENT;MUSCLE;"AUXILIARY MUSCLES";TYPE;METRICS;BODYWEIGHT;NOTES
-"Paraquedista isométrico";Bodyweight;"Lower back";-;"Medium exercise";Duration;0%
-Paraquedista;Bodyweight;"Lower back";-;"Small exercise";Reps;1%
-Cadeirinha;Bodyweight;Abs;-;"Medium exercise";Reps;1%
-"Australiana arqueiro smith";Bodyweight;"Upper back";-;"Medium exercise";Reps;100%
 "Skin the cat";Bodyweight;Lats;"Chest, Biceps, Forearms";"Medium exercise";Reps;100%
-"Scapular Pullup";Bodyweight;Lats;-;"Medium exercise";Reps;100%
-"Explosive pushup";Bodyweight;Chest;-;"Medium exercise";Reps;100%
-"Flexão arqueiro smith";Bodyweight;Chest;"Front delts, Triceps, Forearms";"Medium exercise";Reps;100%
-"Pike Pushup";Bodyweight;"Front delts";"Side delts, Rear delts";"Medium exercise";Reps;100%
 "Elevated Pike hold";Bodyweight;"Front delts";"Side delts, Rear delts";"Medium exercise";Duration;0%
-"Knee diamond pushup";Bodyweight;Chest;"Front delts, Triceps, Forearms";"Medium exercise";Reps;100%
 "Single leg deadlift";Bodyweight;Hams;"Abs, Lower back, Abductors, Adductors, Glutes, Quads, Calves";"Medium exercise";Reps;100%
-"Single leg hip thrust";Bodyweight;Glutes;"Abs, Abductors, Adductors, Quads, Hams";"Medium exercise";Reps;100%
-"Leg raise isométrico";Bodyweight;Abs;-;"Medium exercise";Duration;0%
-"Hanging knee tuck - iso";Bodyweight;Abs;-;"Medium exercise";Duration;0%
-"Pseudo Planche Lean iso";Bodyweight;"Front delts";"Chest, Lats, Abs, Lower back, Glutes";"Medium exercise";Duration;0%
-"Flexão Arqueiro - Chão";Bodyweight;Chest;"Front delts, Triceps";"Medium exercise";Reps;100%
-"L sit hold iso";Bodyweight;Abs;-;"Medium exercise";Duration;0%
-"Archer pullup iso";Bodyweight;Lats;"Upper back, Biceps, Forearms";"Medium exercise";Duration;0%
-"Decline pushup";Bodyweight;Chest;"Front delts, Abs, Triceps";"Medium exercise";Reps;100%
-"L raises";Bodyweight;Abs;-;"Medium exercise";Reps;100%
-"Pseudo pushup";Bodyweight;Chest;"Front delts, Triceps, Forearms";"Medium exercise";Reps;100%
-"Abdução diagonal";Machine;Abductors;Glutes;"Medium exercise";"Weight + reps";0%
-"Panturrilha bilateral - Leg horizontal";Machine;Calves;-;"Medium exercise";"Weight + reps";0%
+"Weighted L Raises";Bodyweight;Abs;-;"Medium exercise";"Weight + reps";100%
+"Incline Archer Push-Ups";Bodyweight;Chest;"Front delts, Triceps, Forearms";"Medium exercise";Reps;100%
+"Pike Push-Ups";Bodyweight;"Front delts";"Side delts, Rear delts";"Medium exercise";Reps;100%
+"L Raises";Bodyweight;Abs;-;"Medium exercise";Reps;100%
+"Hanging Knee Tuck - iso";Bodyweight;Abs;-;"Medium exercise";Duration;0%
+"Pseudo Planche Lean - Iso";Bodyweight;"Front delts";"Chest, Lats, Abs, Lower back, Glutes";"Medium exercise";Duration;0%
+Skydiver;Bodyweight;"Lower back";-;"Small exercise";Reps;1%
+"Single Leg Hip Thrust";Bodyweight;Glutes;"Abs, Abductors, Adductors, Quads, Hams";"Medium exercise";Reps;100%
+"Explosive Push-Ups";Bodyweight;Chest;-;"Medium exercise";Reps;100%
+"Pseudo Push-Ups";Bodyweight;Chest;"Front delts, Triceps, Forearms";"Medium exercise";Reps;100%
+"Diagonal Hip Abduction";Machine;Abductors;Glutes;"Medium exercise";"Weight + reps";0%
+"Bilateral Calf Press - Horizontal Leg Press";Machine;Calves;-;"Medium exercise";"Weight + reps";0%
+"Archer Push-Ups";Bodyweight;Chest;"Front delts, Triceps";"Medium exercise";Reps;100%
+"Skydiver - Iso";Bodyweight;"Lower back";-;"Medium exercise";Duration;0%
+"Incline Australian Pull-Ups";Bodyweight;"Upper back";-;"Medium exercise";Reps;100%
+"Decline Push-Ups";Bodyweight;Chest;"Front delts, Abs, Triceps";"Medium exercise";Reps;100%
+"Scapular Pull-Ups";Bodyweight;Lats;-;"Medium exercise";Reps;100%
+"Incline Archer Pull-Ups - Iso";Bodyweight;Lats;"Upper back, Biceps, Forearms";"Medium exercise";Duration;0%
+"L-Sit Hold";Bodyweight;Abs;-;"Medium exercise";Duration;0%
+"Knee Diamond Push-Ups";Bodyweight;Chest;"Front delts, Triceps, Forearms";"Medium exercise";Reps;100%
+"Chair Crunches";Bodyweight;Abs;-;"Medium exercise";Reps;1%
 
