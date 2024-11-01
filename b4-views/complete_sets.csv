@@ -1,0 +1,972 @@
+workout_id;exercise_number;exercise_name;equipment;muscle_group;exercise_group;main_muscle;goal;measure;sets;min_weight;max_weight;avg_weight;stdev_weight;min_quantity;max_quantity;avg_quantity;stdev_quantity;total_quantity;total_volume
+20231014949;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;136,0;140,0;138,7;2,3;12;15;13,0;1,7;39;5400,0
+20231014949;2;Standing Calf Raises;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;130,0;140,0;135,3;4,5;15;15;15,0;0,0;90;12180,0
+20231014949;3;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;50,0;55,0;53,3;2,6;6;15;10,0;4,1;60;3150,0
+20231014949;4;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;35,0;40,0;38,3;2,6;10;15;12,3;2,3;74;2810,0
+20231014949;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;12;reps;3;50,0;55,0;53,3;2,9;12;15;13,0;1,7;39;2070,0
+20231014949;6;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;22,0;22,0;22,0;0,0;8;12;10,0;2,0;30;660,0
+20231014949;7;Squats;Barbell;Lower Body;Squat;Quads;12;reps;3;28,0;30,0;29,3;1,0;12;15;13,0;1,5;78;2280,0
+20231110638;1;Leg Press;Machine;Lower Body;Leg Press;Quads;15;reps;3;130,0;130,0;130,0;0,0;15;16;15,3;0,6;46;5980,0
+20231110638;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;15;reps;3;100,0;100,0;100,0;0,0;15;17;15,7;1,2;47;4700,0
+20231110638;3;Hip Adduction;Cable;Lower Body;Hip Abduction;Abductors;15;reps;3;15,0;15,0;15,0;0,0;12;15;14,0;1,5;84;1260,0
+20231110638;4;Hip Abduction;Cable;Lower Body;Hip Abduction;Abductors;15;reps;3;15,0;15,0;15,0;0,0;10;15;13,3;2,6;80;1200,0
+20231110638;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;15;reps;3;45,0;45,0;45,0;0,0;15;15;15,0;0,0;45;2025,0
+20231110638;6;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;15;reps;3;0,0;18,0;11,7;10,1;15;15;15,0;0,0;45;525,0
+20231230815;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;36,0;36,0;36,0;0,0;10;10;10,0;0,0;60;2160,0
+20231230815;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;20,0;20,0;20,0;0,0;10;20;13,3;5,2;80;1600,0
+20231230815;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;16,0;16,0;16,0;0,0;8;16;10,7;4,1;64;1024,0
+20231230815;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;40,0;40,0;40,0;0,0;10;12;10,7;1,2;32;1280,0
+20231230815;5;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;35,0;35,0;35,0;0,0;10;13;11,0;1,7;33;1155,0
+20231230815;6;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;6,0;6,0;6,0;0,0;10;15;11,7;2,9;35;210,0
+20231230815;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;10;reps;3;25,0;25,0;25,0;0,0;10;11;10,3;0,6;31;775,0
+20231230815;8;Russian Twists;Bodyweight;Core;Other;Abs;12;reps;3;10,0;10,0;10,0;0,0;7;10;9,0;1,7;27;270,0
+20240106957;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;50,0;50,0;50,0;0,0;12;16;13,3;2,3;40;2000,0
+20240106957;2;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;40,0;40,0;40,0;0,0;12;12;12,0;0,0;36;1440,0
+20240106957;3;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;90,0;90,0;90,0;0,0;12;15;13,0;1,7;39;3510,0
+20240106957;4;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;12;reps;3;18,0;18,0;18,0;0,0;10;12;11,3;1,0;136;2448,0
+20240106957;5;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;7,0;7,0;7,0;0,0;12;17;13,7;2,9;41;287,0
+20240106957;6;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;35,0;35,0;35,0;0,0;10;12;11,3;1,2;34;1190,0
+20240106957;7;Kneeling Crunches;Cable;Core;Ab Crunch;Abs;12;reps;3;60,0;60,0;60,0;0,0;10;12;10,7;1,2;32;1920,0
+20240106957;8;Incline Reverse Flys;Dumbbells;Upper Body;Reverse Fly;Rear delts;12;reps;3;4,0;5,0;4,3;0,6;12;14;12,7;1,2;38;164,0
+20240111910;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;174,0;174,0;174,0;0,0;10;12;10,7;1,2;32;5568,0
+20240111910;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;124,0;124,0;124,0;0,0;12;15;13,0;1,7;39;4836,0
+20240111910;3;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;45,0;45,0;45,0;0,0;10;14;11,3;2,1;68;3060,0
+20240111910;4;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;40,0;40,0;40,0;0,0;12;13;12,3;0,5;74;2960,0
+20240111910;5;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;21,0;21,0;21,0;0,0;9;10;9,7;0,6;29;609,0
+20240113808;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;55,0;55,0;55,0;0,0;10;12;10,7;1,2;32;1760,0
+20240113808;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;98,0;98,0;98,0;0,0;12;12;12,0;0,0;36;3528,0
+20240113808;3;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;45,0;45,0;45,0;0,0;8;13;9,7;2,9;29;1305,0
+20240113808;4;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;12;reps;3;18,0;20,0;18,7;1,0;10;12;11,3;1,0;136;2544,0
+20240113808;5;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;8,0;8,0;8,0;0,0;12;15;13,0;1,7;39;312,0
+20240113808;6;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;40,0;40,0;40,0;0,0;8;11;9,0;1,7;27;1080,0
+20240113808;7;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;20,0;20,0;20,0;0,0;12;15;13,0;1,7;39;780,0
+20240113808;8;Kneeling Crunches;Cable;Core;Ab Crunch;Abs;12;reps;3;0,0;60,0;40,0;34,6;0;12;8,0;6,9;24;1440,0
+20240120831;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;55,0;55,0;55,0;0,0;12;15;13,0;1,7;39;2145,0
+20240120831;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;100,0;100,0;100,0;0,0;12;12;12,0;0,0;36;3600,0
+20240120831;3;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;45,0;45,0;45,0;0,0;10;12;11,3;1,2;34;1530,0
+20240120831;4;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;12;reps;3;20,0;20,0;20,0;0,0;12;12;12,0;0,0;144;2880,0
+20240120831;5;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;9,0;9,0;9,0;0,0;10;11;10,3;0,6;31;279,0
+20240120831;6;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;40,0;40,0;40,0;0,0;10;10;10,0;0,0;30;1200,0
+20240120831;7;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;25,0;25,0;25,0;0,0;8;12;9,3;2,3;28;700,0
+20240120831;8;Kneeling Crunches;Cable;Core;Ab Crunch;Abs;12;reps;3;55,0;55,0;55,0;0,0;12;15;13,0;1,7;39;2145,0
+20240127946;1;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;65,0;70,0;66,7;2,9;8;12;10,7;2,3;32;2120,0
+20240127946;2;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;56,0;63,0;60,7;4,0;8;12;9,3;2,3;28;1680,0
+20240127946;3;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;49,0;49,0;49,0;0,0;10;11;10,3;0,6;31;1519,0
+20240127946;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;40,0;45,0;43,3;2,9;8;15;10,3;4,0;31;1320,0
+20240127946;5;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;12;reps;3;20,0;25,0;23,3;2,5;5;15;8,3;4,9;100;2200,0
+20240127946;6;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;25,0;25,0;25,0;0,0;10;10;10,0;0,0;30;750,0
+20240127946;7;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;9,0;9,0;9,0;0,0;12;15;13,0;1,7;39;351,0
+20240404844;1;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;10;reps;3;25,0;26,0;25,3;0,6;8;9;8,3;0,6;25;634,0
+20240404844;2;Leg Press;Machine;Lower Body;Leg Press;Quads;10;reps;3;180,0;200,0;190,0;10,0;8;10;8,7;1,2;26;4960,0
+20240404844;3;Hip Abduction;Cable;Lower Body;Hip Abduction;Abductors;12;reps;3;20,0;20,0;20,0;0,0;8;8;8,0;0,0;48;960,0
+20240404844;4;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;10;reps;3;70,0;75,0;73,3;2,9;8;9;8,3;0,6;25;1835,0
+20240404844;5;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;12;reps;3;65,0;70,0;68,3;2,9;7;10;8,3;1,5;25;1700,0
+20240406904;1;Lat Pulldowns with Close Neutral Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;65,0;65,0;65,0;0,0;7;8;7,7;0,6;23;1495,0
+20240406904;2;Rows with Reverse Grip;Cable;Upper Body;Row;Upper back;12;reps;3;53,0;53,0;53,0;0,0;8;8;8,0;0,0;24;1272,0
+20240406904;3;One-Arm Rows;Dumbbells;Upper Body;Row;Upper back;12;reps;3;24,0;24,0;24,0;0,0;8;8;8,0;0,0;24;576,0
+20240406904;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;50,0;50,0;50,0;0,0;8;8;8,0;0,0;24;1200,0
+20240406904;5;Curls;Barbell;Upper Body;Biceps Curl;Biceps;12;reps;3;24,0;24,0;24,0;0,0;7;8;7,7;0,5;92;2208,0
+20240406904;6;Incline Reverse Flys;Dumbbells;Upper Body;Reverse Fly;Rear delts;12;reps;3;8,0;9,0;8,3;0,6;9;10;9,7;0,6;29;241,0
+20240406904;7;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;12,0;12,0;12,0;0,0;8;8;8,0;0,0;24;288,0
+20240414919;1;Leg Raises;Bodyweight;Core;Leg Raise;Abs;10;reps;3;0,0;0,0;0,0;0,0;8;12;10,7;2,3;32;0,0
+20240414919;2;Chair Crunches;Bodyweight;Core;Ab Crunch;Abs;10;reps;3;0,0;0,0;0,0;0,0;10;15;12,3;2,5;37;0,0
+20240414919;3;Dragon Flag;Bodyweight;Core;Other;Abs;10;reps;3;0,0;0,0;0,0;0,0;6;8;7,3;1,2;22;0,0
+20240414919;4;Decline Crunches;Bodyweight;Core;Ab Crunch;Abs;10;reps;1;0,0;0,0;0,0;;5;5;5,0;;5;0,0
+20240414919;5;Plank;Bodyweight;Core;Plank;Abs;0;secs;3;0,0;0,0;0,0;0,0;36;80;58,7;22,0;176;0,0
+20240414919;6;Side Plank;Bodyweight;Core;Side Abs;Abs;0;secs;3;0,0;0,0;0,0;0,0;25;30;28,3;2,9;85;0,0
+20240414919;7;Skydiver;Bodyweight;Core;Back Extension;Lower back;10;reps;3;0,0;0,0;0,0;0,0;15;20;16,7;2,9;50;0,0
+20240426754;1;Seated Calf Raises;Machine;Lower Body;Calf Raise / Press;Calves;16;reps;3;43,0;43,0;43,0;0,0;14;16;15,3;1,2;46;1978,0
+20240426754;2;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;10;reps;9;55,0;55,0;55,0;0,0;5;16;8,1;3,4;73;4015,0
+20240426754;3;Hip Abduction;Cable;Lower Body;Hip Abduction;Abductors;15;reps;2;15,0;15,0;15,0;0,0;10;12;11,0;1,2;44;660,0
+20240426754;4;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;10;reps;9;50,0;50,0;50,0;0,0;6;16;9,6;3,0;86;4300,0
+20240426754;5;Hip Thrusts;Barbell;Lower Body;Hip Thrust;Glutes;12;reps;3;16,0;16,0;16,0;0,0;10;12;10,7;1,2;32;512,0
+20240509856;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;160,0;170,0;163,3;5,8;15;15;15,0;0,0;45;7350,0
+20240509856;2;Hip Abduction;Cable;Lower Body;Hip Abduction;Abductors;15;reps;3;15,0;15,0;15,0;0,0;8;12;10,0;1,8;60;900,0
+20240509856;3;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;10;reps;3;21,0;21,0;21,0;0,0;10;15;13,3;2,9;40;840,0
+20240509856;4;Seated Calf Raises;Machine;Lower Body;Calf Raise / Press;Calves;16;reps;3;45,0;45,0;45,0;0,0;12;15;14,0;1,7;42;1890,0
+20240525944;1;Pistol Squats;TRX;Lower Body;Squat;Quads;10;reps;3;0,0;0,0;0,0;0,0;7;7;7,0;0,0;21;0,0
+20240525944;2;Bulgarian Split Squats;Dumbbells;Lower Body;Squat;Quads;10;reps;2;0,0;0,0;0,0;0,0;7;10;8,5;2,1;17;0,0
+20240525944;3;Single leg deadlift;Bodyweight;Lower Body;Other;Hams;10;reps;2;0,0;0,0;0,0;0,0;10;10;10,0;0,0;20;0,0
+20240525944;4;Side Split Squats;Dumbbells;Lower Body;Squat;Quads;10;reps;1;0,0;0,0;0,0;;5;5;5,0;;5;0,0
+20240525944;5;Single Leg Hip Thrust;Bodyweight;Lower Body;Hip Thrust;Glutes;10;reps;2;0,0;0,0;0,0;0,0;6;10;8,0;2,8;16;0,0
+20240603918;1;Explosive Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;10;reps;4;0,0;0,0;0,0;0,0;7;10;8,8;1,5;35;0,0
+20240603918;2;Knee Diamond Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;10;reps;3;0,0;0,0;0,0;0,0;7;7;7,0;0,0;21;0,0
+20240603918;3;Bench Dips;Bodyweight;Upper Body;Dip;Triceps;10;reps;4;0,0;0,0;0,0;0,0;9;10;9,8;0,5;39;0,0
+20240603918;4;Incline Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;10;reps;4;0,0;0,0;0,0;0,0;3;6;4,8;1,3;19;0,0
+20240603918;5;Pike Push-Ups;Bodyweight;Upper Body;Pike / Handstand;Front delts;10;reps;2;0,0;0,0;0,0;0,0;6;7;6,5;0,7;13;0,0
+20240603918;6;Elevated Pike hold;Bodyweight;Upper Body;Pike / Handstand;Front delts;0;secs;4;0,0;0,0;0,0;0,0;12;20;16,5;3,3;66;0,0
+20240829924;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;210,0;210,0;210,0;0,0;12;12;12,0;0,0;36;7560,0
+20240829924;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;166,0;166,0;166,0;0,0;12;12;12,0;0,0;36;5976,0
+20240829924;3;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;25,0;25,0;25,0;0,0;10;12;10,7;1,2;32;800,0
+20240829924;4;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;12;reps;3;72,0;72,0;72,0;0,0;12;15;13,0;1,7;39;2808,0
+202310031424;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;55,0;55,0;55,0;0,0;8;15;10,7;3,8;32;1760,0
+202310031424;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;76,0;84,0;80,0;4,0;12;15;14,0;1,7;42;3348,0
+202310031424;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;35,0;35,0;35,0;0,0;8;12;10,7;2,3;32;1120,0
+202310031424;4;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;12;reps;3;16,0;18,0;17,3;1,0;8;15;10,7;3,2;128;2184,0
+202310031424;5;Bent-Over Rows;Barbell;Upper Body;Row;Upper back;12;reps;3;28,0;30,0;29,3;1,2;12;15;13,0;1,7;39;1140,0
+202310031424;6;Upright Rows;Barbell;Upper Body;Row;Upper back;12;reps;3;14,0;14,0;14,0;0,0;12;12;12,0;0,0;36;504,0
+202310031424;7;Lat Pulldowns with Close Neutral Grip;Cable;Upper Body;Pulldown;Lats;10;reps;3;40,0;45,0;43,3;2,9;10;15;12,0;2,6;36;1545,0
+202310101619;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;36,0;38,0;37,3;1,0;7;15;11,3;3,6;68;2524,0
+202310101619;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;24,0;24,0;24,0;0,0;11;12;11,7;0,5;70;1680,0
+202310101619;3;Standing Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;14,0;16,0;15,3;1,2;8;14;11,3;3,1;34;516,0
+202310101619;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;10;reps;3;40,0;45,0;43,3;2,9;8;15;11,7;3,5;35;1500,0
+202310101619;5;Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;7,0;7,0;7,0;0,0;10;12;11,3;1,0;68;476,0
+202310101619;6;Front Raises;Barbell;Upper Body;Front Raise;Front delts;12;reps;3;10,0;10,0;10,0;0,0;12;12;12,0;0,0;72;720,0
+202310111630;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;55,0;60,0;58,3;2,9;7;15;10,0;4,4;30;1725,0
+202310111630;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;84,0;90,0;87,3;3,1;12;15;13,0;1,7;39;3396,0
+202310111630;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;35,0;40,0;38,3;2,9;6;15;10,3;4,5;31;1165,0
+202310111630;4;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;12;reps;3;18,0;18,0;18,0;0,0;8;12;9,3;2,0;112;2016,0
+202310111630;5;Bent-Over Rows;Barbell;Upper Body;Row;Upper back;12;reps;3;30,0;30,0;30,0;0,0;10;12;11,3;1,2;34;1020,0
+202310111630;6;Lat Pulldowns with Close Neutral Grip;Cable;Upper Body;Pulldown;Lats;10;reps;3;45,0;50,0;48,3;2,9;6;15;9,7;4,7;29;1375,0
+202310111630;7;Plank;Bodyweight;Core;Plank;Abs;0;secs;3;0,0;0,0;0,0;0,0;45;75;60,0;15,0;180;0,0
+202310161716;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;38,0;40,0;38,7;1,0;7;15;11,3;3,6;68;2612,0
+202310161716;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;24,0;26,0;25,3;1,0;9;15;11,3;2,9;68;1708,0
+202310161716;3;Standing Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;16,0;16,0;16,0;0,0;11;12;11,7;0,6;35;560,0
+202310161716;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;10;reps;3;45,0;45,0;45,0;0,0;7;12;9,7;2,5;29;1305,0
+202310161716;5;Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;7,0;7,0;7,0;0,0;11;13;12,0;0,9;72;504,0
+202310161716;6;Front Raises;Barbell;Upper Body;Front Raise;Front delts;12;reps;3;10,0;10,0;10,0;0,0;12;15;13,3;1,4;80;800,0
+202310181621;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;60,0;60,0;60,0;0,0;6;12;8,7;3,1;26;1560,0
+202310181621;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;90,0;90,0;90,0;0,0;11;12;11,7;0,6;35;3150,0
+202310181621;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;35,0;40,0;38,3;2,9;8;15;11,0;3,6;33;1245,0
+202310181621;4;Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;9,0;9,0;9,0;0,0;10;12;11,3;1,0;136;1224,0
+202310181621;5;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;35,0;40,0;38,3;2,9;9;15;11,7;3,1;35;1325,0
+202310181621;6;Lat Pulldowns with Close Neutral Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;45,0;45,0;45,0;0,0;12;12;12,0;0,0;36;1620,0
+202310191445;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;140,0;144,0;142,7;2,3;12;15;13,0;1,7;39;5556,0
+202310191445;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;0,0;0,0;0,0;0,0;12;12;12,0;0,0;36;0,0
+202310191445;3;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;50,0;50,0;50,0;0,0;6;12;8,3;2,9;50;2500,0
+202310191445;4;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;0,0;40,0;13,3;20,7;10;12;10,7;1,0;64;800,0
+202310191445;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;12;reps;3;55,0;60,0;58,3;2,9;12;15;13,0;1,7;39;2265,0
+202310191445;6;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;22,0;22,0;22,0;0,0;9;14;11,3;2,5;34;748,0
+202310231601;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;38,0;40,0;39,3;1,0;7;15;10,7;3,6;64;2500,0
+202310231601;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;26,0;28,0;27,3;1,0;10;15;12,3;2,3;74;2012,0
+202310231601;3;Seated Shoulder Press;Dumbbells;Upper Body;Shoulder Press;Front delts;12;reps;3;7,0;8,0;7,7;0,5;8;15;11,3;3,1;68;514,0
+202310231601;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;10;reps;3;45,0;45,0;45,0;0,0;9;12;10,0;1,7;30;1350,0
+202310231601;5;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;6,0;6,0;6,0;0,0;12;13;12,3;0,6;37;222,0
+202310231601;6;Front Raises;Barbell;Upper Body;Front Raise;Front delts;12;reps;3;0,0;10,0;6,7;5,2;12;15;13,7;1,4;82;580,0
+202310231601;7;Russian Twists;Bodyweight;Core;Other;Abs;10;reps;3;6,0;10,0;8,7;2,3;10;15;11,7;2,9;35;290,0
+202310251112;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;60,0;60,0;60,0;0,0;6;12;9,0;3,0;27;1620,0
+202310251112;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;90,0;90,0;90,0;0,0;12;13;12,3;0,6;37;3330,0
+202310251112;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;35,0;35,0;35,0;0,0;8;12;10,3;2,1;31;1085,0
+202310251112;4;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;12;reps;3;18,0;20,0;18,7;1,0;7;15;10,0;3,7;120;2216,0
+202310251112;5;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;40,0;40,0;40,0;0,0;9;12;10,7;1,5;32;1280,0
+202310251112;6;Concentration Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;10;reps;3;0,0;0,0;0,0;0,0;0;0;0,0;0,0;0;0,0
+202310271632;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;146,0;150,0;148,7;2,3;12;15;13,0;1,7;39;5790,0
+202310271632;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;120,0;130,0;125,3;5,0;12;15;14,0;1,7;42;5250,0
+202310271632;3;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;55,0;55,0;55,0;0,0;7;12;9,0;2,4;54;2970,0
+202310271632;4;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;40,0;40,0;40,0;0,0;7;12;10,3;2,6;62;2480,0
+202310271632;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;12;reps;3;60,0;65,0;63,3;2,9;10;15;11,7;2,9;35;2200,0
+202310271632;6;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;22,0;23,0;22,3;0,6;7;15;11,0;4,0;33;737,0
+202310311610;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;15;reps;3;45,0;45,0;45,0;0,0;15;15;15,0;0,0;45;2025,0
+202310311610;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;80,0;80,0;80,0;0,0;15;15;15,0;0,0;45;3600,0
+202310311610;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;25,0;25,0;25,0;0,0;15;15;15,0;0,0;45;1125,0
+202310311610;4;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;10;reps;3;14,0;14,0;14,0;0,0;15;15;15,0;0,0;180;2520,0
+202310311610;5;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;25,0;30,0;26,7;2,9;15;15;15,0;0,0;45;1200,0
+202310311610;6;Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;0,0;7,0;4,7;3,4;0;15;10,0;7,4;120;840,0
+202310311610;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;10;reps;3;20,0;20,0;20,0;0,0;16;16;16,0;0,0;48;960,0
+202311041903;1;Chest Press;Machine;Upper Body;Chest Press;Chest;15;reps;3;25,0;25,0;25,0;0,0;15;15;15,0;0,0;45;1125,0
+202311041903;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;15;reps;3;14,0;20,0;16,0;3,1;15;15;15,0;0,0;90;1440,0
+202311041903;3;Seated Shoulder Press;Dumbbells;Upper Body;Shoulder Press;Front delts;15;reps;3;5,0;5,0;5,0;0,0;15;15;15,0;0,0;90;450,0
+202311041903;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;15;reps;3;30,0;35,0;33,3;2,9;15;15;15,0;0,0;45;1500,0
+202311041903;5;Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;15;reps;3;5,0;5,0;5,0;0,0;15;15;15,0;0,0;90;450,0
+202311041903;6;Assisted Dips;Machine;Upper Body;Dip;Triceps;10;reps;3;-50,0;-45,0;-48,3;2,9;15;15;15,0;0,0;45;-2175,0
+202311051649;1;Leg Press;Machine;Lower Body;Leg Press;Quads;15;reps;3;120,0;120,0;120,0;0,0;17;20;18,0;1,7;54;6480,0
+202311051649;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;15;reps;3;100,0;100,0;100,0;0,0;15;15;15,0;0,0;45;4500,0
+202311051649;3;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;15;reps;3;60,0;65,0;61,7;2,6;15;15;15,0;0,0;90;5550,0
+202311051649;4;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;15;reps;3;60,0;65,0;61,7;2,6;15;15;15,0;0,0;90;5550,0
+202311051649;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;15;reps;3;40,0;45,0;42,5;2,5;15;15;15,0;0,0;45;1912,5
+202311051649;6;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;15;reps;3;35,0;37,5;36,7;1,4;15;15;15,0;0,0;45;1650,0
+202311051649;7;Back Extensions on Roman Chair;Bodyweight;Core;Back Extension;Lower back;10;reps;3;0,0;0,0;0,0;0,0;13;15;14,3;1,2;43;0,0
+202311061639;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;15;reps;3;45,0;45,0;45,0;0,0;15;17;16,3;1,2;49;2205,0
+202311061639;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;15;reps;3;80,0;80,0;80,0;0,0;15;15;15,0;0,0;45;3600,0
+202311061639;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;15;reps;3;25,0;25,0;25,0;0,0;15;17;16,3;1,2;49;1225,0
+202311061639;4;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;15;reps;3;14,0;14,0;14,0;0,0;15;17;16,3;1,0;196;2744,0
+202311061639;5;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;15;reps;3;25,0;25,0;25,0;0,0;20;20;20,0;0,0;60;1500,0
+202311061639;6;Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;15;reps;3;6,0;6,0;6,0;0,0;15;15;15,0;0,0;180;1080,0
+202311061639;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;15;reps;3;20,0;20,0;20,0;0,0;17;17;17,0;0,0;51;1020,0
+202311081102;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;15;reps;3;30,0;30,0;30,0;0,0;15;15;15,0;0,0;90;2700,0
+202311081102;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;15;reps;3;16,0;18,0;16,7;1,0;15;15;15,0;0,0;90;1500,0
+202311081102;3;Seated Shoulder Press;Dumbbells;Upper Body;Shoulder Press;Front delts;15;reps;3;5,0;5,0;5,0;0,0;20;20;20,0;0,0;120;600,0
+202311081102;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;15;reps;3;30,0;35,0;33,3;2,9;15;17;15,7;1,2;47;1570,0
+202311081102;5;Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;15;reps;3;5,0;5,0;5,0;0,0;15;15;15,0;0,0;90;450,0
+202311211612;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;15;reps;3;30,0;30,0;30,0;0,0;15;18;17,0;1,5;102;3060,0
+202311211612;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;15;reps;3;16,0;18,0;16,7;1,0;17;17;17,0;0,0;102;1700,0
+202311211612;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;15;reps;3;12,0;12,0;12,0;0,0;15;15;15,0;0,0;90;1080,0
+202311211612;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;15;reps;3;30,0;30,0;30,0;0,0;15;15;15,0;0,0;45;1350,0
+202311211612;5;Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;15;reps;3;5,0;5,0;5,0;0,0;12;18;15,0;2,7;90;450,0
+202311211612;6;Russian Twists;Bodyweight;Core;Other;Abs;15;reps;3;10,0;10,0;10,0;0,0;9;10;9,7;0,6;29;290,0
+202311221633;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;15;reps;3;45,0;45,0;45,0;0,0;15;17;16,3;1,2;49;2205,0
+202311221633;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;15;reps;3;60,0;80,0;70,0;10,0;15;15;15,0;0,0;45;3150,0
+202311221633;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;15;reps;3;25,0;25,0;25,0;0,0;17;18;17,3;0,6;52;1300,0
+202311221633;4;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;15;reps;3;14,0;14,0;14,0;0,0;14;17;16,0;1,5;192;2688,0
+202311221633;5;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;15;reps;3;30,0;30,0;30,0;0,0;15;15;15,0;0,0;45;1350,0
+202311221633;6;Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;15;reps;3;6,0;6,0;6,0;0,0;15;15;15,0;0,0;180;1080,0
+202311221633;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;15;reps;3;20,0;20,0;20,0;0,0;17;17;17,0;0,0;51;1020,0
+202311241125;1;Leg Press;Machine;Lower Body;Leg Press;Quads;15;reps;3;136,0;136,0;136,0;0,0;15;16;15,3;0,6;46;6256,0
+202311241125;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;15;reps;3;100,0;100,0;100,0;0,0;15;15;15,0;0,0;45;4500,0
+202311241125;3;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;15;reps;3;30,0;35,0;33,3;2,6;10;15;12,7;2,3;76;2530,0
+202311241125;4;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;15;reps;3;0,0;30,0;10,0;15,5;0;15;9,3;7,3;56;780,0
+202311241125;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;15;reps;3;45,0;50,0;46,7;2,9;14;15;14,7;0,6;44;2055,0
+202311241125;6;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;15;reps;3;17,0;17,0;17,0;0,0;15;15;15,0;0,0;45;765,0
+202311271115;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;15;reps;3;30,0;30,0;30,0;0,0;14;20;17,3;2,7;104;3120,0
+202311271115;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;15;reps;3;16,0;16,0;16,0;0,0;15;15;15,0;0,0;90;1440,0
+202311271115;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;15;reps;3;12,0;12,0;12,0;0,0;15;20;16,7;2,6;100;1200,0
+202311271115;4;Butterfly with Close Grip;Machine;Upper Body;Fly;Chest;15;reps;3;30,0;30,0;30,0;0,0;15;17;15,7;1,2;47;1410,0
+202311271115;5;Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;15;reps;3;5,0;5,0;5,0;0,0;14;15;14,7;0,5;88;440,0
+202311271115;6;Russian Twists;Bodyweight;Core;Other;Abs;15;reps;3;5,0;5,0;5,0;0,0;13;15;13,7;1,2;41;205,0
+202311291214;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;15;reps;3;45,0;45,0;45,0;0,0;15;17;15,7;1,2;47;2115,0
+202311291214;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;15;reps;3;80,0;80,0;80,0;0,0;15;15;15,0;0,0;45;3600,0
+202311291214;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;15;reps;3;25,0;25,0;25,0;0,0;17;20;18,0;1,7;54;1350,0
+202311291214;4;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;15;reps;3;14,0;14,0;14,0;0,0;17;20;18,0;1,5;216;3024,0
+202311291214;5;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;15;reps;3;30,0;30,0;30,0;0,0;17;17;17,0;0,0;51;1530,0
+202311291214;6;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;15;reps;3;6,0;6,0;6,0;0,0;17;17;17,0;0,0;51;306,0
+202311291214;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;15;reps;3;20,0;20,0;20,0;0,0;17;20;19,0;1,7;57;1140,0
+202311291214;8;Pullovers;Cable;Upper Body;Lat Pull;Lats;10;reps;3;25,0;30,0;26,7;2,9;14;20;16,3;3,2;49;1295,0
+202312041626;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;30,0;30,0;30,0;0,0;18;18;18,0;0,0;108;3240,0
+202312041626;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;16,0;16,0;16,0;0,0;17;25;19,7;4,1;118;1888,0
+202312041626;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;12,0;12,0;12,0;0,0;18;18;18,0;0,0;108;1296,0
+202312041626;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;35,0;35,0;35,0;0,0;15;15;15,0;0,0;45;1575,0
+202312041626;5;Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;4,0;5,0;4,7;0,5;13;15;14,3;1,0;86;400,0
+202312041626;6;Russian Twists;Bodyweight;Core;Other;Abs;12;reps;3;5,0;5,0;5,0;0,0;15;15;15,0;0,0;45;225,0
+202312041626;7;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;25,0;25,0;25,0;0,0;15;15;15,0;0,0;45;1125,0
+202312041626;8;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;20,0;20,0;20,0;0,0;15;15;15,0;0,0;45;900,0
+202312061609;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;45,0;45,0;45,0;0,0;17;17;17,0;0,0;51;2295,0
+202312061609;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;80,0;80,0;80,0;0,0;15;15;15,0;0,0;45;3600,0
+202312061609;3;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;30,0;30,0;30,0;0,0;17;17;17,0;0,0;51;1530,0
+202312061609;4;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;12;reps;3;14,0;16,0;14,7;1,0;15;18;16,0;1,5;192;2808,0
+202312061609;5;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;6,0;6,0;6,0;0,0;15;18;17,0;1,7;51;306,0
+202312061609;6;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;15,0;20,0;16,7;2,9;12;15;14,0;1,7;42;690,0
+202312061609;7;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;0,0;30,0;10,0;17,3;15;15;15,0;0,0;45;450,0
+202312081118;1;Leg Press;Machine;Lower Body;Leg Press;Quads;15;reps;3;140,0;140,0;140,0;0,0;15;15;15,0;0,0;45;6300,0
+202312081118;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;15;reps;3;100,0;100,0;100,0;0,0;15;17;15,7;1,2;47;4700,0
+202312081118;3;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;15;reps;3;35,0;35,0;35,0;0,0;15;18;16,0;1,5;96;3360,0
+202312081118;4;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;15;reps;3;35,0;35,0;35,0;0,0;15;15;15,0;0,0;90;3150,0
+202312081118;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;15;reps;3;45,0;50,0;48,3;2,9;15;15;15,0;0,0;45;2175,0
+202312081118;6;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;15;reps;3;17,0;17,0;17,0;0,0;15;15;15,0;0,0;45;765,0
+202312131657;1;Bench Press;Dumbbells;Upper Body;Chest Press;Chest;12;reps;3;14,0;14,0;14,0;0,0;10;18;15,3;4,1;92;1288,0
+202312131657;2;Seated Shoulder Press;Dumbbells;Upper Body;Shoulder Press;Front delts;12;reps;3;6,0;6,0;6,0;0,0;7;15;12,0;3,9;72;432,0
+202312131657;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;25,0;30,0;26,7;2,9;15;15;15,0;0,0;45;1200,0
+202312131657;4;Butterfly with Close Grip;Machine;Upper Body;Fly;Chest;10;reps;3;30,0;30,0;30,0;0,0;9;15;13,0;3,5;39;1170,0
+202312181647;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;45,0;45,0;45,0;0,0;17;17;17,0;0,0;51;2295,0
+202312181647;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;80,0;80,0;80,0;0,0;15;15;15,0;0,0;45;3600,0
+202312181647;3;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;30,0;35,0;31,7;2,9;15;20;17,3;2,5;52;1635,0
+202312181647;4;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;12;reps;3;14,0;14,0;14,0;0,0;16;20;18,7;2,0;224;3136,0
+202312181647;5;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;6,0;6,0;6,0;0,0;15;15;15,0;0,0;45;270,0
+202312181647;6;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;15,0;20,0;16,7;2,9;15;20;18,3;2,9;55;900,0
+202312181647;7;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;25,0;30,0;28,3;2,9;15;20;16,7;2,9;50;1400,0
+202312181647;8;Kneeling Crunches;Cable;Core;Ab Crunch;Abs;12;reps;3;15,0;30,0;21,7;7,6;20;20;20,0;0,0;60;1300,0
+202312191625;1;Leg Press;Machine;Lower Body;Leg Press;Quads;15;reps;3;151,0;151,0;151,0;0,0;15;15;15,0;0,0;45;6795,0
+202312191625;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;15;reps;3;100,0;100,0;100,0;0,0;17;17;17,0;0,0;51;5100,0
+202312191625;3;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;15;reps;3;35,0;35,0;35,0;0,0;17;17;17,0;0,0;102;3570,0
+202312191625;4;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;15;reps;3;35,0;35,0;35,0;0,0;16;17;16,3;0,5;98;3430,0
+202312191625;5;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;15;reps;3;17,0;17,0;17,0;0,0;15;17;15,7;1,2;47;799,0
+202312191625;6;Hip Thrusts;Barbell;Lower Body;Hip Thrust;Glutes;10;reps;3;20,0;20,0;20,0;0,0;15;15;15,0;0,0;45;900,0
+202312211146;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;30,0;30,0;30,0;0,0;18;18;18,0;0,0;108;3240,0
+202312211146;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;16,0;18,0;17,3;1,0;15;20;16,7;2,6;100;1720,0
+202312211146;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;12,0;12,0;12,0;0,0;18;18;18,0;0,0;108;1296,0
+202312211146;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;35,0;35,0;35,0;0,0;14;17;15,3;1,5;46;1610,0
+202312211146;5;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;5,0;5,0;5,0;0,0;14;15;14,3;0,6;43;215,0
+202312211146;6;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;30,0;30,0;30,0;0,0;15;15;15,0;0,0;45;1350,0
+202312211146;7;Russian Twists;Bodyweight;Core;Other;Abs;12;reps;3;5,0;5,0;5,0;0,0;17;17;17,0;0,0;51;255,0
+202312211146;8;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;10;reps;3;20,0;20,0;20,0;0,0;15;15;15,0;0,0;45;900,0
+202312261209;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;50,0;50,0;50,0;0,0;10;15;11,7;2,9;35;1750,0
+202312261209;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;90,0;90,0;90,0;0,0;10;15;11,7;2,9;35;3150,0
+202312261209;3;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;40,0;40,0;40,0;0,0;10;10;10,0;0,0;30;1200,0
+202312261209;4;Curls;Barbell;Upper Body;Biceps Curl;Biceps;12;reps;3;18,0;18,0;18,0;0,0;8;10;9,3;1,0;112;2016,0
+202312261209;5;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;7,0;7,0;7,0;0,0;8;13;9,7;2,9;29;203,0
+202312261209;6;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;35,0;35,0;35,0;0,0;8;12;10,3;2,1;31;1085,0
+202312261209;7;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;20,0;20,0;20,0;0,0;8;10;9,3;1,2;28;560,0
+202312261209;8;Kneeling Crunches;Cable;Core;Ab Crunch;Abs;12;reps;3;40,0;55,0;46,7;7,6;15;15;15,0;0,0;45;2100,0
+202312271143;1;Leg Press;Machine;Lower Body;Leg Press;Quads;15;reps;3;160,0;174,0;168,0;7,2;10;15;12,3;2,5;37;6180,0
+202312271143;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;15;reps;3;120,0;120,0;120,0;0,0;10;13;11,7;1,5;35;4200,0
+202312271143;3;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;15;reps;3;40,0;40,0;40,0;0,0;10;13;11,0;1,5;66;2640,0
+202312271143;4;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;15;reps;3;40,0;40,0;40,0;0,0;9;10;9,7;0,5;58;2320,0
+202312271143;5;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;15;reps;3;20,0;20,0;20,0;0,0;10;10;10,0;0,0;30;600,0
+202312271143;6;Hip Thrusts;Barbell;Lower Body;Hip Thrust;Glutes;10;reps;3;0,0;20,0;6,7;11,5;10;15;13,3;2,9;40;200,0
+202401031746;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;50,0;50,0;50,0;0,0;12;16;13,3;2,3;40;2000,0
+202401031746;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;90,0;90,0;90,0;0,0;12;15;13,0;1,7;39;3510,0
+202401031746;3;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;12;reps;3;18,0;18,0;18,0;0,0;10;12;11,3;1,0;136;2448,0
+202401031746;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;35,0;35,0;35,0;0,0;10;12;10,7;1,2;32;1120,0
+202401031746;5;Kneeling Crunches;Cable;Core;Ab Crunch;Abs;12;reps;3;55,0;60,0;58,3;2,9;8;15;11,0;3,6;33;1940,0
+202401031746;6;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;40,0;40,0;40,0;0,0;12;12;12,0;0,0;36;1440,0
+202401031746;7;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;20,0;20,0;20,0;0,0;10;12;10,7;1,2;32;640,0
+202401031746;8;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;7,0;7,0;7,0;0,0;12;17;13,7;2,9;41;287,0
+202401041150;1;Leg Press;Machine;Lower Body;Leg Press;Quads;15;reps;3;170,0;170,0;170,0;0,0;12;15;13,0;1,7;39;6630,0
+202401041150;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;15;reps;3;120,0;120,0;120,0;0,0;12;15;13,0;1,7;39;4680,0
+202401041150;3;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;15;reps;3;40,0;40,0;40,0;0,0;10;12;11,3;1,0;68;2720,0
+202401041150;4;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;15;reps;3;40,0;40,0;40,0;0,0;8;12;10,0;1,8;60;2400,0
+202401041150;5;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;15;reps;3;20,0;20,0;20,0;0,0;10;12;11,0;1,0;33;660,0
+202401051158;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;36,0;36,0;36,0;0,0;12;12;12,0;0,0;72;2592,0
+202401051158;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;24,0;24,0;24,0;0,0;12;12;12,0;0,0;72;1728,0
+202401051158;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;16,0;16,0;16,0;0,0;12;12;12,0;0,0;72;1152,0
+202401051158;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;40,0;40,0;40,0;0,0;11;12;11,7;0,6;35;1400,0
+202401051158;5;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;35,0;35,0;35,0;0,0;11;12;11,7;0,6;35;1225,0
+202401051158;6;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;6,0;6,0;6,0;0,0;12;13;12,3;0,6;37;222,0
+202401051158;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;10;reps;3;25,0;25,0;25,0;0,0;11;12;11,7;0,6;35;875,0
+202401051158;8;Russian Twists;Bodyweight;Core;Other;Abs;12;reps;3;8,0;8,0;8,0;0,0;10;10;10,0;0,0;30;240,0
+202401081235;1;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;15;reps;3;40,0;40,0;40,0;0,0;12;17;13,7;2,6;82;3280,0
+202401081235;2;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;15;reps;3;40,0;40,0;40,0;0,0;12;12;12,0;0,0;72;2880,0
+202401081235;3;Leg Press;Machine;Lower Body;Leg Press;Quads;15;reps;3;174,0;180,0;176,0;3,5;10;12;11,3;1,2;34;5976,0
+202401081235;4;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;15;reps;3;124,0;124,0;124,0;0,0;12;12;12,0;0,0;36;4464,0
+202401081235;5;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;15;reps;3;20,0;20,0;20,0;0,0;12;12;12,0;0,0;36;720,0
+202401091057;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;38,0;38,0;38,0;0,0;10;12;10,7;1,0;64;2432,0
+202401091057;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;24,0;24,0;24,0;0,0;12;15;13,0;1,5;78;1872,0
+202401091057;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;16,0;16,0;16,0;0,0;12;14;12,7;1,0;76;1216,0
+202401091057;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;42,0;42,0;42,0;0,0;8;12;9,7;2,1;29;1218,0
+202401091057;5;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;35,0;35,0;35,0;0,0;12;13;12,3;0,6;37;1295,0
+202401091057;6;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;6,0;6,0;6,0;0,0;12;15;13,0;1,7;39;234,0
+202401091057;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;10;reps;3;25,0;25,0;25,0;0,0;11;12;11,7;0,6;35;875,0
+202401091057;8;Russian Twists;Bodyweight;Core;Other;Abs;12;reps;3;8,0;8,0;8,0;0,0;10;12;10,7;1,2;32;256,0
+202401101228;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;55,0;55,0;55,0;0,0;8;14;10,0;3,5;30;1650,0
+202401101228;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;94,0;94,0;94,0;0,0;10;12;10,7;1,2;32;3008,0
+202401101228;3;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;40,0;40,0;40,0;0,0;12;15;13,0;1,7;39;1560,0
+202401101228;4;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;12;reps;3;20,0;20,0;20,0;0,0;8;12;9,3;2,0;112;2240,0
+202401101228;5;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;35,0;35,0;35,0;0,0;12;15;13,0;1,7;39;1365,0
+202401101228;6;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;8,0;8,0;8,0;0,0;10;15;11,7;2,9;35;280,0
+202401101228;7;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;20,0;20,0;20,0;0,0;12;12;12,0;0,0;36;720,0
+202401101228;8;Kneeling Crunches;Cable;Core;Ab Crunch;Abs;12;reps;3;60,0;60,0;60,0;0,0;12;12;12,0;0,0;36;2160,0
+202401121031;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;38,0;38,0;38,0;0,0;12;12;12,0;0,0;72;2736,0
+202401121031;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;26,0;26,0;26,0;0,0;10;12;10,7;1,0;64;1664,0
+202401121031;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;16,0;16,0;16,0;0,0;12;15;13,0;1,5;78;1248,0
+202401121031;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;41,5;41,5;41,5;0,0;9;12;11,0;1,7;33;1369,5
+202401121031;5;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;35,0;35,0;35,0;0,0;12;15;13,0;1,7;39;1365,0
+202401121031;6;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;7,0;7,0;7,0;0,0;8;11;9,0;1,7;27;189,0
+202401121031;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;25,0;25,0;25,0;0,0;12;13;12,3;0,6;37;925,0
+202401121031;8;Russian Twists;Bodyweight;Core;Other;Abs;12;reps;3;8,0;8,0;8,0;0,0;10;12;11,3;1,2;34;272,0
+202401151629;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;174,0;174,0;174,0;0,0;12;12;12,0;0,0;36;6264,0
+202401151629;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;130,0;130,0;130,0;0,0;10;11;10,3;0,6;31;4030,0
+202401151629;3;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;45,0;45,0;45,0;0,0;10;12;11,3;1,0;68;3060,0
+202401151629;4;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;40,0;40,0;40,0;0,0;12;15;13,0;1,5;78;3120,0
+202401151629;5;Squats;Barbell;Lower Body;Squat;Quads;12;reps;3;28,0;28,0;28,0;0,0;10;10;10,0;0,0;60;1680,0
+202401151629;6;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;0,0;21,0;14,0;12,1;0;10;6,7;5,8;20;420,0
+202401161217;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;38,0;38,0;38,0;0,0;12;15;13,0;1,5;78;2964,0
+202401161217;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;26,0;26,0;26,0;0,0;12;12;12,0;0,0;72;1872,0
+202401161217;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;18,0;18,0;18,0;0,0;10;12;10,7;1,0;64;1152,0
+202401161217;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;42,0;42,0;42,0;0,0;8;12;10,3;2,1;31;1302,0
+202401161217;5;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;40,0;40,0;40,0;0,0;8;8;8,0;0,0;24;960,0
+202401161217;6;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;7,0;7,0;7,0;0,0;10;11;10,3;0,6;31;217,0
+202401161217;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;25,0;25,0;25,0;0,0;12;13;12,3;0,6;37;925,0
+202401171657;1;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;100,0;100,0;100,0;0,0;12;12;12,0;0,0;36;3600,0
+202401171657;2;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;55,0;55,0;55,0;0,0;8;12;10,0;2,0;30;1650,0
+202401171657;3;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;45,0;45,0;45,0;0,0;10;11;10,3;0,6;31;1395,0
+202401171657;4;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;12;reps;3;20,0;20,0;20,0;0,0;10;10;10,0;0,0;120;2400,0
+202401171657;5;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;9,0;9,0;9,0;0,0;8;12;9,3;2,3;28;252,0
+202401171657;6;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;40,0;40,0;40,0;0,0;10;10;10,0;0,0;30;1200,0
+202401171657;7;Kneeling Crunches;Cable;Core;Ab Crunch;Abs;12;reps;3;55,0;60,0;58,3;2,9;10;12;10,7;1,2;32;1860,0
+202401171657;8;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;25,0;25,0;25,0;0,0;8;8;8,0;0,0;24;600,0
+202401181119;1;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;45,0;45,0;45,0;0,0;12;15;13,0;1,5;78;3510,0
+202401181119;2;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;45,0;45,0;45,0;0,0;8;8;8,0;0,0;48;2160,0
+202401181119;3;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;174,0;174,0;174,0;0,0;10;12;11,3;1,2;34;5916,0
+202401181119;4;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;130,0;130,0;130,0;0,0;12;15;13,0;1,7;39;5070,0
+202401181119;5;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;21,0;21,0;21,0;0,0;8;12;10,3;2,1;31;651,0
+202401191125;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;40,0;40,0;40,0;0,0;10;12;10,7;1,0;64;2560,0
+202401191125;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;28,0;28,0;28,0;0,0;10;10;10,0;0,0;60;1680,0
+202401191125;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;18,0;18,0;18,0;0,0;12;12;12,0;0,0;72;1296,0
+202401191125;4;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;40,0;40,0;40,0;0,0;10;10;10,0;0,0;30;1200,0
+202401191125;5;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;42,0;42,0;42,0;0,0;11;12;11,7;0,6;35;1470,0
+202401191125;6;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;7,0;7,0;7,0;0,0;12;15;13,0;1,7;39;273,0
+202401191125;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;30,0;30,0;30,0;0,0;8;12;9,3;2,3;28;840,0
+202401221412;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;174,0;174,0;174,0;0,0;8;12;10,0;2,0;30;5220,0
+202401221412;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;134,0;134,0;134,0;0,0;10;13;11,0;1,7;33;4422,0
+202401221412;3;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;50,0;50,0;50,0;0,0;8;11;9,0;1,5;54;2700,0
+202401221412;4;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;45,0;45,0;45,0;0,0;8;12;9,3;2,1;56;2520,0
+202401221412;5;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;21,0;21,0;21,0;0,0;11;12;11,7;0,6;35;735,0
+202401221412;6;Squats;Smith machine;Lower Body;Squat;Quads;12;reps;3;12,0;28,0;19,3;7,2;5;10;7,0;2,4;42;736,0
+202401231059;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;40,0;40,0;40,0;0,0;11;12;11,7;0,5;70;2800,0
+202401231059;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;28,0;28,0;28,0;0,0;9;10;9,7;0,5;58;1624,0
+202401231059;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;18,0;18,0;18,0;0,0;12;15;13,0;1,5;78;1404,0
+202401231059;4;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;40,0;40,0;40,0;0,0;8;12;10,0;2,0;30;1200,0
+202401231059;5;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;45,0;45,0;45,0;0,0;8;10;9,3;1,2;28;1260,0
+202401231059;6;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;8,0;8,0;8,0;0,0;8;11;9,0;1,7;27;216,0
+202401231059;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;30,0;30,0;30,0;0,0;10;12;10,7;1,2;32;960,0
+202401241248;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;60,0;60,0;60,0;0,0;9;10;9,7;0,6;29;1740,0
+202401241248;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;100,0;100,0;100,0;0,0;12;12;12,0;0,0;36;3600,0
+202401241248;3;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;45,0;45,0;45,0;0,0;10;12;11,3;1,2;34;1530,0
+202401241248;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;40,0;40,0;40,0;0,0;11;12;11,3;0,6;34;1360,0
+202401241248;5;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;12;reps;3;22,0;22,0;22,0;0,0;8;12;10,0;1,7;120;2640,0
+202401241248;6;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;9,0;9,0;9,0;0,0;12;12;12,0;0,0;36;324,0
+202401241248;7;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;25,0;25,0;25,0;0,0;8;10;9,3;1,2;28;700,0
+202401241248;8;Kneeling Crunches;Cable;Core;Ab Crunch;Abs;12;reps;3;60,0;60,0;60,0;0,0;8;12;9,3;2,3;28;1680,0
+202401251218;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;174,0;174,0;174,0;0,0;12;12;12,0;0,0;36;6264,0
+202401251218;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;134,0;134,0;134,0;0,0;12;15;13,0;1,7;39;5226,0
+202401251218;3;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;22,0;22,0;22,0;0,0;10;10;10,0;0,0;30;660,0
+202401251218;4;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;50,0;50,0;50,0;0,0;8;12;10,3;1,9;62;3100,0
+202401251218;5;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;0,0;45,0;30,0;23,2;0;8;5,3;4,1;32;1440,0
+202401261050;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;40,0;40,0;40,0;0,0;9;12;11,0;1,5;66;2640,0
+202401261050;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;28,0;28,0;28,0;0,0;10;12;10,7;1,0;64;1792,0
+202401261050;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;20,0;20,0;20,0;0,0;8;12;10,0;1,8;60;1200,0
+202401261050;4;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;40,0;40,0;40,0;0,0;11;12;11,7;0,6;35;1400,0
+202401261050;5;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;45,0;45,0;45,0;0,0;10;12;10,7;1,2;32;1440,0
+202401261050;6;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;8,0;8,0;8,0;0,0;10;11;10,3;0,6;31;248,0
+202401261050;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;30,0;30,0;30,0;0,0;12;12;12,0;0,0;36;1080,0
+202401301755;1;Romanian Deadlifts;Barbell;Lower Body;Deadlift;Glutes;10;reps;4;16,0;16,0;16,0;0,0;10;12;11,5;1,0;46;736,0
+202401301755;2;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;10;reps;3;22,5;36,0;30,0;6,9;12;15;14,0;1,7;42;1242,0
+202401301755;3;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;71,0;91,0;84,3;11,5;8;15;11,7;3,5;35;2885,0
+202401301755;4;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;50,0;50,0;50,0;0,0;8;12;10,3;1,9;62;3100,0
+202401301755;5;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;45,0;45,0;45,0;0,0;8;8;8,0;0,0;48;2160,0
+202401311218;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;40,0;40,0;40,0;0,0;12;13;12,3;0,5;74;2960,0
+202401311218;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;28,0;28,0;28,0;0,0;9;10;9,3;0,5;56;1568,0
+202401311218;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;20,0;20,0;20,0;0,0;6;10;8,0;1,8;48;960,0
+202401311218;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;45,0;45,0;45,0;0,0;11;12;11,7;0,6;35;1575,0
+202401311218;5;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;40,0;40,0;40,0;0,0;8;10;8,7;1,2;26;1040,0
+202402011655;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;60,0;60,0;60,0;0,0;10;10;10,0;0,0;30;1800,0
+202402011655;2;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;45,0;50,0;46,7;2,9;8;15;11,7;3,5;35;1615,0
+202402011655;3;Curls;Barbell;Upper Body;Biceps Curl;Biceps;12;reps;3;20,0;22,0;20,7;1,0;8;12;10,0;1,7;120;2464,0
+202402011655;4;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;10,0;10,0;10,0;0,0;8;9;8,3;0,6;25;250,0
+202402011655;5;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;40,0;40,0;40,0;0,0;12;15;13,0;1,7;39;1560,0
+202402011655;6;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;90,0;100,0;96,7;5,8;10;15;12,3;2,5;37;3550,0
+202402011655;7;Crunch Machine;Machine;Core;Ab Crunch;Abs;12;reps;3;0,0;5,0;3,3;2,9;10;15;12,3;2,5;37;110,0
+202402011655;8;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;25,0;25,0;25,0;0,0;10;12;11,3;1,2;34;850,0
+202402051244;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;174,0;174,0;174,0;0,0;10;12;11,3;1,2;34;5916,0
+202402051244;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;140,0;140,0;140,0;0,0;10;12;10,7;1,2;32;4480,0
+202402051244;3;Romanian Deadlifts;Barbell;Lower Body;Deadlift;Glutes;10;reps;3;16,0;18,0;16,7;1,2;12;15;13,0;1,7;39;648,0
+202402051244;4;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;10;reps;3;55,0;55,0;55,0;0,0;10;10;10,0;0,0;30;1650,0
+202402051244;5;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;22,0;22,0;22,0;0,0;8;12;10,0;2,0;30;660,0
+202402051244;6;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;50,0;50,0;50,0;0,0;10;12;11,3;1,0;68;3400,0
+202402051244;7;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;45,0;45,0;45,0;0,0;12;12;12,0;0,0;72;3240,0
+202402061043;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;42,0;42,0;42,0;0,0;8;10;9,3;1,0;56;2352,0
+202402061043;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;28,0;28,0;28,0;0,0;10;12;10,7;1,0;64;1792,0
+202402061043;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;20,0;20,0;20,0;0,0;10;10;10,0;0,0;60;1200,0
+202402061043;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;47,0;47,0;47,0;0,0;10;10;10,0;0,0;30;1410,0
+202402061043;5;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;40,0;40,0;40,0;0,0;12;12;12,0;0,0;36;1440,0
+202402061043;6;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;8,0;8,0;8,0;0,0;8;12;10,7;2,3;32;256,0
+202402061043;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;32,0;32,0;32,0;0,0;10;10;10,0;0,0;30;960,0
+202402071139;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;60,0;60,0;60,0;0,0;10;10;10,0;0,0;30;1800,0
+202402071139;2;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;47,0;47,0;47,0;0,0;9;10;9,7;0,6;29;1363,0
+202402071139;3;One-Arm Rows;Dumbbells;Upper Body;Row;Upper back;12;reps;3;18,0;18,0;18,0;0,0;12;15;13,0;1,7;39;702,0
+202402071139;4;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;12;reps;3;22,0;22,0;22,0;0,0;9;12;10,7;1,3;128;2816,0
+202402071139;5;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;42,0;42,0;42,0;0,0;8;10;9,3;1,2;28;1176,0
+202402071139;6;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;10,0;10,0;10,0;0,0;10;10;10,0;0,0;30;300,0
+202402071139;7;Crunch Machine;Machine;Core;Ab Crunch;Abs;10;reps;3;5,0;5,0;5,0;0,0;10;12;10,7;1,2;32;160,0
+202402071139;8;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;25,0;27,0;26,3;1,2;9;12;10,3;1,5;31;813,0
+202402081052;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;180,0;180,0;180,0;0,0;10;10;10,0;0,0;30;5400,0
+202402081052;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;140,0;140,0;140,0;0,0;12;15;13,0;1,7;39;5460,0
+202402081052;3;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;22,0;22,0;22,0;0,0;10;12;11,3;1,2;34;748,0
+202402081052;4;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;10;reps;3;55,0;55,0;55,0;0,0;10;12;10,7;1,2;32;1760,0
+202402081052;5;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;50,0;50,0;50,0;0,0;10;12;11,3;1,0;68;3400,0
+202402081052;6;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;47,0;47,0;47,0;0,0;8;10;9,3;1,0;56;2632,0
+202402081052;7;Romanian Deadlifts;Barbell;Lower Body;Deadlift;Glutes;10;reps;3;0,0;18,0;12,0;10,4;0;8;5,3;4,6;16;288,0
+202402091040;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;60,0;60,0;60,0;0,0;8;12;10,0;2,0;30;1800,0
+202402091040;2;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;47,0;47,0;47,0;0,0;10;12;11,3;1,2;34;1598,0
+202402091040;3;One-Arm Rows;Dumbbells;Upper Body;Row;Upper back;12;reps;3;20,0;20,0;20,0;0,0;10;10;10,0;0,0;30;600,0
+202402091040;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;42,0;42,0;42,0;0,0;10;12;10,7;1,2;32;1344,0
+202402091040;5;Crunch Machine;Machine;Core;Ab Crunch;Abs;12;reps;3;5,0;5,0;5,0;0,0;12;12;12,0;0,0;36;180,0
+202402091040;6;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;12;reps;3;22,0;22,0;22,0;0,0;8;12;10,7;2,0;128;2816,0
+202402091040;7;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;27,0;27,0;27,0;0,0;10;10;10,0;0,0;30;810,0
+202402091040;8;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;10,0;10,0;10,0;0,0;9;12;11,0;1,7;33;330,0
+202402151106;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;42,0;42,0;42,0;0,0;8;10;9,3;1,0;56;2352,0
+202402151106;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;28,0;28,0;28,0;0,0;10;11;10,3;0,5;62;1736,0
+202402151106;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;20,0;20,0;20,0;0,0;10;10;10,0;0,0;60;1200,0
+202402151106;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;47,0;47,0;47,0;0,0;9;12;10,3;1,5;31;1457,0
+202402151106;5;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;42,0;42,0;42,0;0,0;8;10;9,3;1,2;28;1176,0
+202402151106;6;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;8,0;8,0;8,0;0,0;12;12;12,0;0,0;36;288,0
+202402151106;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;32,0;32,0;32,0;0,0;10;12;11,3;1,2;34;1088,0
+202402161218;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;60,0;60,0;60,0;0,0;6;12;9,3;3,1;28;1680,0
+202402161218;2;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;12;reps;3;47,0;47,0;47,0;0,0;12;12;12,0;0,0;36;1692,0
+202402161218;3;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;100,0;100,0;100,0;0,0;12;15;13,0;1,7;39;3900,0
+202402161218;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;42,0;42,0;42,0;0,0;12;12;12,0;0,0;36;1512,0
+202402161218;5;Curls;EZ bar;Upper Body;Biceps Curl;Biceps;12;reps;3;22,0;22,0;22,0;0,0;8;12;10,7;2,0;128;2816,0
+202402161218;6;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;27,0;27,0;27,0;0,0;10;12;10,7;1,2;32;864,0
+202402161218;7;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;10,0;10,0;10,0;0,0;12;12;12,0;0,0;36;360,0
+202402161218;8;Russian Swings;Kettlebells;Upper Body;Row;Upper back;10;reps;3;10,0;10,0;10,0;0,0;10;15;12,3;2,5;37;370,0
+202402171041;1;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;50,0;50,0;50,0;0,0;10;12;10,7;1,0;64;3200,0
+202402171041;2;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;47,0;47,0;47,0;0,0;8;10;8,7;1,0;52;2444,0
+202402171041;3;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;146,0;146,0;146,0;0,0;12;12;12,0;0,0;36;5256,0
+202402171041;4;Back Extensions on Roman Chair;Bodyweight;Core;Back Extension;Lower back;10;reps;3;5,0;5,0;5,0;0,0;10;10;10,0;0,0;30;150,0
+202402171041;5;Hanging Leg Raises;Bodyweight;Core;Leg Raise;Abs;10;reps;3;0,0;0,0;0,0;0,0;10;12;11,3;1,2;34;0,0
+202402171041;6;Crunch Machine;Machine;Core;Ab Crunch;Abs;12;reps;3;7,0;7,0;7,0;0,0;10;15;11,7;2,9;35;245,0
+202402171041;7;Plank;Bodyweight;Core;Plank;Abs;75;secs;3;0,0;0,0;0,0;0,0;60;60;60,0;0,0;180;0,0
+202402191152;1;Bench Press;Dumbbells;Upper Body;Chest Press;Chest;12;reps;3;18,0;18,0;18,0;0,0;12;12;12,0;0,0;72;1296,0
+202402191152;2;Incline Bench Press;Dumbbells;Upper Body;Chest Press;Chest;12;reps;3;12,0;12,0;12,0;0,0;12;15;13,0;1,5;78;936,0
+202402191152;3;Seated Shoulder Press;Dumbbells;Upper Body;Shoulder Press;Front delts;12;reps;3;8,0;9,0;8,3;0,5;10;12;10,7;1,0;64;532,0
+202402191152;4;Flys;Dumbbells;Upper Body;Fly;Chest;12;reps;3;8,0;10,0;9,3;1,0;12;12;12,0;0,0;72;672,0
+202402191152;5;Overhead Triceps Extensions;Dumbbells;Upper Body;Triceps Extension;Triceps;12;reps;3;5,0;6,0;5,3;0,6;10;12;11,3;1,2;34;182,0
+202402191152;6;Lateral Raises;Cable;Upper Body;Lateral Raise;Side delts;12;reps;3;5,0;5,0;5,0;0,0;10;12;11,3;1,0;68;340,0
+202402191152;7;Skull Crushers;EZ bar;Upper Body;Triceps Extension;Triceps;12;reps;3;12,0;14,0;13,3;1,0;10;15;12,3;2,3;74;976,0
+202402191152;8;Burpees;Bodyweight;Full Body;Cardio;Heart;0;reps;3;0,0;0,0;0,0;0,0;10;10;10,0;0,0;30;0,0
+202402201023;1;Pull-Ups with Close Neutral Grip;Bodyweight;Upper Body;Pull-Up;Lats;12;reps;3;0,0;0,0;0,0;0,0;6;6;6,0;0,0;18;0,0
+202402201023;2;Chest-Supported Rows with Wide Grip;Machine;Upper Body;Row;Upper back;12;reps;3;90,0;96,0;94,0;3,5;12;15;13,0;1,7;39;3654,0
+202402201023;3;Rows with Reverse Grip;Cable;Upper Body;Row;Upper back;12;reps;3;40,0;42,0;41,3;1,2;12;15;13,0;1,7;39;1608,0
+202402201023;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;45,0;45,0;45,0;0,0;10;10;10,0;0,0;30;1350,0
+202402201023;5;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;10,0;10,0;10,0;0,0;12;15;13,3;1,5;40;400,0
+202402201023;6;Incline Reverse Flys;Dumbbells;Upper Body;Reverse Fly;Rear delts;12;reps;3;6,0;6,0;6,0;0,0;12;12;12,0;0,0;36;216,0
+202402201023;7;Preacher Curls;Machine;Upper Body;Biceps Curl;Biceps;12;reps;3;6,0;8,0;6,7;1,2;8;12;9,3;2,3;28;184,0
+202402201023;8;Russian Swings;Kettlebells;Upper Body;Row;Upper back;10;reps;4;10,0;10,0;10,0;0,0;10;15;13,8;2,5;55;550,0
+202402211202;1;Back Extensions on Roman Chair;Bodyweight;Core;Back Extension;Lower back;10;reps;3;5,0;5,0;5,0;0,0;12;12;12,0;0,0;36;180,0
+202402211202;2;Hanging Leg Raises;Bodyweight;Core;Leg Raise;Abs;10;reps;3;0,0;0,0;0,0;0,0;12;12;12,0;0,0;36;0,0
+202402211202;3;Crunch Machine;Machine;Core;Ab Crunch;Abs;12;reps;3;10,0;10,0;10,0;0,0;10;10;10,0;0,0;30;300,0
+202402211202;4;Leg Press;Machine;Lower Body;Leg Press;Quads;10;reps;3;180,0;180,0;180,0;0,0;9;12;11,0;1,7;33;5940,0
+202402211202;5;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;150,0;150,0;150,0;0,0;10;10;10,0;0,0;30;4500,0
+202402211202;6;Hip Abduction;Cable;Lower Body;Hip Abduction;Abductors;12;reps;3;0,0;20,0;11,7;9,3;12;12;12,0;0,0;72;840,0
+202402211202;7;Hip Adduction;Cable;Lower Body;Hip Abduction;Abductors;12;reps;3;0,0;20,0;13,3;10,3;0;12;8,0;6,2;48;960,0
+202402221103;1;Bench Press;Dumbbells;Upper Body;Chest Press;Chest;12;reps;3;20,0;20,0;20,0;0,0;7;10;9,0;1,5;54;1080,0
+202402221103;2;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;10;reps;3;9,0;9,0;9,0;0,0;8;8;8,0;0,0;24;216,0
+202402221103;3;Skull Crushers;EZ bar;Upper Body;Triceps Extension;Triceps;12;reps;3;14,0;14,0;14,0;0,0;12;12;12,0;0,0;72;1008,0
+202402221103;4;Burpees;Bodyweight;Full Body;Cardio;Heart;0;reps;4;0,0;0,0;0,0;0,0;10;10;10,0;0,0;40;0,0
+202402231027;1;Leg Press;Machine;Lower Body;Leg Press;Quads;10;reps;3;80,0;100,0;93,3;11,5;12;15;13,0;1,7;39;3600,0
+202402231027;2;Forward Lunges;Dumbbells;Lower Body;Lunge;Glutes;10;reps;3;6,0;6,0;6,0;0,0;7;10;9,0;1,7;27;162,0
+202402231027;3;Leg Press;Machine;Lower Body;Leg Press;Quads;10;reps;3;45,0;59,0;52,0;7,0;30;30;30,0;0,0;90;4680,0
+202402231027;4;Lying Leg Curls;Machine;Lower Body;Leg Curl;Hams;10;reps;3;25,0;32,0;29,7;4,0;20;20;20,0;0,0;60;1780,0
+202402231027;5;Standing Calf Raises;Bodyweight;Lower Body;Calf Raise / Press;Calves;10;reps;3;0,0;0,0;0,0;0,0;15;20;17,0;2,4;102;0,0
+202402231027;6;Kneeling Crunches;Cable;Core;Ab Crunch;Abs;10;reps;3;40,0;50,0;46,7;5,8;12;20;15,7;4,0;47;2200,0
+202402231027;7;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;10;reps;3;37,0;40,0;38,7;1,4;10;12;11,3;1,0;68;2624,0
+202402241215;1;Pull-Ups with Close Neutral Grip;Bodyweight;Upper Body;Pull-Up;Lats;12;reps;3;0,0;0,0;0,0;0,0;5;7;5,7;1,2;17;0,0
+202402241215;2;Bent-Over Rows;Barbell;Upper Body;Row;Upper back;10;reps;3;16,0;16,0;16,0;0,0;12;12;12,0;0,0;36;576,0
+202402241215;3;Curls;Barbell;Upper Body;Biceps Curl;Biceps;12;reps;3;16,0;18,0;16,7;1,0;10;10;10,0;0,0;120;2000,0
+202402281022;1;Bench Press;Dumbbells;Upper Body;Chest Press;Chest;12;reps;3;20,0;20,0;20,0;0,0;8;10;9,3;1,0;56;1120,0
+202402281022;2;Skull Crushers;EZ bar;Upper Body;Triceps Extension;Triceps;12;reps;3;14,0;14,0;14,0;0,0;12;15;13,0;1,5;78;1092,0
+202402281022;3;Seated Shoulder Press;Dumbbells;Upper Body;Shoulder Press;Front delts;10;reps;3;9,0;9,0;9,0;0,0;10;10;10,0;0,0;60;540,0
+202402291158;1;Pull-Ups with Close Neutral Grip;Bodyweight;Upper Body;Pull-Up;Lats;12;reps;3;0,0;0,0;0,0;0,0;6;7;6,3;0,6;19;0,0
+202402291158;2;Incline Reverse Flys;Dumbbells;Upper Body;Reverse Fly;Rear delts;12;reps;3;6,0;6,0;6,0;0,0;13;15;13,7;1,2;41;246,0
+202402291158;3;Concentration Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;10;reps;3;10,0;12,0;11,3;1,2;6;8;7,3;1,2;22;248,0
+202402291158;4;Russian Swings;Kettlebells;Upper Body;Row;Upper back;10;reps;5;10,0;10,0;10,0;0,0;5;20;15,8;6,1;79;790,0
+202403011205;1;Hip Adduction;Cable;Lower Body;Hip Abduction;Abductors;12;reps;3;20,0;20,0;20,0;0,0;12;12;12,0;0,0;72;1440,0
+202403011205;2;Hip Abduction;Cable;Lower Body;Hip Abduction;Abductors;12;reps;3;15,0;15,0;15,0;0,0;12;12;12,0;0,0;72;1080,0
+202403011205;3;Crunch Machine;Machine;Core;Ab Crunch;Abs;12;reps;3;10,0;10,0;10,0;0,0;10;12;10,7;1,2;32;320,0
+202403011205;4;Back Extensions on Roman Chair;Bodyweight;Core;Back Extension;Lower back;10;reps;3;7,0;7,0;7,0;0,0;8;10;8,7;1,2;26;182,0
+202403041213;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;42,0;42,0;42,0;0,0;10;12;10,7;1,0;64;2688,0
+202403041213;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;28,0;28,0;28,0;0,0;10;10;10,0;0,0;60;1680,0
+202403041213;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;20,0;20,0;20,0;0,0;10;12;10,7;1,0;64;1280,0
+202403041213;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;47,0;47,0;47,0;0,0;9;12;11,0;1,7;33;1551,0
+202403041213;5;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;42,0;42,0;42,0;0,0;10;10;10,0;0,0;30;1260,0
+202403041213;6;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;9,0;9,0;9,0;0,0;8;8;8,0;0,0;24;216,0
+202403041213;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;32,0;32,0;32,0;0,0;12;12;12,0;0,0;36;1152,0
+202403051218;1;Lat Pulldowns with Close Neutral Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;60,0;60,0;60,0;0,0;9;10;9,7;0,6;29;1740,0
+202403051218;2;Rows with Reverse Grip;Cable;Upper Body;Row;Upper back;12;reps;3;45,0;45,0;45,0;0,0;10;12;10,7;1,2;32;1440,0
+202403051218;3;Chest-Supported Rows with Wide Grip;Machine;Upper Body;Row;Upper back;12;reps;3;100,0;100,0;100,0;0,0;10;12;11,3;1,2;34;3400,0
+202403051218;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;45,0;45,0;45,0;0,0;8;10;9,0;1,0;27;1215,0
+202403051218;5;Curls;Barbell;Upper Body;Biceps Curl;Biceps;12;reps;3;20,0;22,0;21,3;1,0;8;12;10,0;1,7;120;2544,0
+202403051218;6;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;27,0;27,0;27,0;0,0;11;12;11,7;0,6;35;945,0
+202403051218;7;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;10,0;10,0;10,0;0,0;10;15;12,3;2,5;37;370,0
+202403061206;1;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;150,0;150,0;150,0;0,0;12;12;12,0;0,0;36;5400,0
+202403061206;2;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;22,0;22,0;22,0;0,0;12;12;12,0;0,0;36;792,0
+202403061206;3;Hip Adduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;50,0;50,0;50,0;0,0;8;12;10,7;2,1;64;3200,0
+202403061206;4;Crunch Machine;Machine;Core;Ab Crunch;Abs;12;reps;3;10,0;10,0;10,0;0,0;10;10;10,0;0,0;30;300,0
+202403061206;5;Plank;Bodyweight;Core;Plank;Abs;75;secs;3;0,0;0,0;0,0;0,0;45;75;58,3;15,3;175;0,0
+202403061206;6;Russian Swings;Kettlebells;Upper Body;Row;Upper back;10;reps;9;8,0;8,0;8,0;0,0;10;20;15,8;3,2;142;1136,0
+202403081130;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;42,0;42,0;42,0;0,0;5;10;7,0;2,4;42;1764,0
+202403081130;2;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;9,0;9,0;9,0;0,0;8;11;9,7;1,5;29;261,0
+202403081130;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;42,0;42,0;42,0;0,0;10;12;10,7;1,2;32;1344,0
+202403081130;4;Russian Swings;Kettlebells;Upper Body;Row;Upper back;10;reps;3;12,0;14,0;13,3;1,2;10;10;10,0;0,0;30;400,0
+202403131310;1;Assisted Chin-Ups;Machine;Upper Body;Pull-Up;Lats;12;reps;3;-14,0;-14,0;-14,0;0,0;5;10;7,3;2,5;22;-308,0
+202403131310;2;Bent-Over Rows;Barbell;Upper Body;Row;Upper back;12;reps;3;16,0;16,0;16,0;0,0;15;15;15,0;0,0;45;720,0
+202403131310;3;Curls;Barbell;Upper Body;Biceps Curl;Biceps;12;reps;3;16,0;16,0;16,0;0,0;12;12;12,0;0,0;144;2304,0
+202403132150;1;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;10;reps;4;50,0;70,0;63,8;9,5;12;12;12,0;0,0;48;3060,0
+202403132150;2;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;12;reps;4;42,5;57,5;51,9;7,2;9;12;11,0;1,4;44;2260,0
+202403132150;3;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;4;80,0;95,0;89,4;6,6;10;12;11,0;1,1;88;7820,0
+202403132150;4;Back Extensions on Roman Chair;Bodyweight;Core;Back Extension;Lower back;10;reps;3;10,0;10,0;10,0;0,0;10;10;10,0;0,0;30;300,0
+202403271524;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;42,0;42,0;42,0;0,0;10;12;11,3;1,0;68;2856,0
+202403271524;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;28,0;28,0;28,0;0,0;10;12;11,0;0,9;66;1848,0
+202403271524;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;20,0;20,0;20,0;0,0;9;12;10,3;1,4;62;1240,0
+202403271524;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;47,0;47,0;47,0;0,0;7;12;10,0;2,6;30;1410,0
+202403271524;5;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;42,0;42,0;42,0;0,0;5;12;8,3;3,5;25;1050,0
+202403271524;6;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;9,0;9,0;9,0;0,0;7;12;10,0;2,6;30;270,0
+202403271524;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;35,0;35,0;35,0;0,0;8;10;9,3;1,2;28;980,0
+202403271524;8;Russian Swings;Kettlebells;Upper Body;Row;Upper back;10;reps;3;16,0;16,0;16,0;0,0;12;15;13,0;1,7;39;624,0
+202403281217;1;Lat Pulldowns with Close Neutral Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;60,0;60,0;60,0;0,0;7;12;9,3;2,5;28;1680,0
+202403281217;2;Rows with Reverse Grip;Cable;Upper Body;Row;Upper back;12;reps;3;45,0;45,0;45,0;0,0;12;12;12,0;0,0;36;1620,0
+202403281217;3;Chest-Supported Rows with Wide Grip;Machine;Upper Body;Row;Upper back;12;reps;3;100,0;100,0;100,0;0,0;12;12;12,0;0,0;36;3600,0
+202403281217;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;45,0;45,0;45,0;0,0;7;10;8,7;1,5;26;1170,0
+202403281217;5;Curls;Barbell;Upper Body;Biceps Curl;Biceps;12;reps;3;20,0;20,0;20,0;0,0;9;12;10,7;1,3;128;2560,0
+202403281217;6;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;27,0;27,0;27,0;0,0;11;12;11,7;0,6;35;945,0
+202403281217;7;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;10,0;10,0;10,0;0,0;8;15;11,0;3,6;33;330,0
+202403301051;1;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;10;reps;3;60,0;65,0;63,3;2,9;11;12;11,7;0,6;35;2215,0
+202403301051;2;Seated Calf Raises;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;40,0;60,0;50,0;10,0;8;15;10,7;3,8;32;1530,0
+202403301051;3;Hip Adduction;Cable;Lower Body;Hip Abduction;Abductors;12;reps;3;20,0;20,0;20,0;0,0;12;15;13,0;1,5;78;1560,0
+202403301051;4;Hip Abduction;Cable;Lower Body;Hip Abduction;Abductors;12;reps;2;15,0;15,0;15,0;0,0;9;12;10,5;1,7;42;630,0
+202403301051;5;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;12;reps;3;50,0;60,0;55,0;5,0;12;15;13,0;1,7;39;2160,0
+202403301051;6;Crunch Machine;Machine;Core;Ab Crunch;Abs;12;reps;3;10,0;12,0;11,3;1,2;10;15;11,7;2,9;35;390,0
+202403301851;1;Burpees;Bodyweight;Full Body;Cardio;Heart;0;reps;19;0,0;0,0;0,0;0,0;1;10;5,3;2,8;100;0,0
+202404011218;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;46,0;46,0;46,0;0,0;8;8;8,0;0,0;48;2208,0
+202404011218;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;32,0;32,0;32,0;0,0;8;9;8,3;0,5;50;1600,0
+202404011218;3;Seated Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;24,0;24,0;24,0;0,0;7;8;7,7;0,5;46;1104,0
+202404011218;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;55,0;55,0;55,0;0,0;8;8;8,0;0,0;24;1320,0
+202404011218;5;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;47,0;47,0;47,0;0,0;7;8;7,7;0,6;23;1081,0
+202404011218;6;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;10,0;10,0;10,0;0,0;8;9;8,3;0,6;25;250,0
+202404011218;7;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;40,0;40,0;40,0;0,0;6;8;7,0;1,0;21;840,0
+202404021218;1;Lat Pulldowns with Close Neutral Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;65,0;65,0;65,0;0,0;6;8;7,3;1,2;22;1430,0
+202404021218;2;Rows with Reverse Grip;Cable;Upper Body;Row;Upper back;12;reps;3;50,0;50,0;50,0;0,0;8;10;8,7;1,2;26;1300,0
+202404021218;3;One-Arm Rows;Dumbbells;Upper Body;Row;Upper back;12;reps;3;22,0;24,0;22,7;1,2;7;9;8,0;1,0;24;542,0
+202404021218;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;50,0;50,0;50,0;0,0;6;8;7,0;1,0;21;1050,0
+202404021218;5;Curls;Barbell;Upper Body;Biceps Curl;Biceps;12;reps;3;24,0;24,0;24,0;0,0;5;8;6,7;1,3;80;1920,0
+202404021218;6;Incline Reverse Flys;Dumbbells;Upper Body;Reverse Fly;Rear delts;12;reps;3;7,0;7,0;7,0;0,0;11;12;11,7;0,6;35;245,0
+202404021218;7;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;12,0;12,0;12,0;0,0;6;8;7,3;1,2;22;264,0
+202404031216;1;Double Crunch Machine;Machine;Core;Ab Crunch;Abs;12;reps;3;15,0;20,0;16,7;2,9;8;8;8,0;0,0;24;400,0
+202404031216;2;Back Extensions on Roman Chair;Bodyweight;Core;Back Extension;Lower back;12;reps;3;15,0;15,0;15,0;0,0;6;8;7,3;1,2;22;330,0
+202404031216;3;Side Bends on Roman Chair;Bodyweight;Core;Side Abs;Abs;12;reps;2;5,0;5,0;5,0;0,0;8;8;8,0;0,0;16;80,0
+202404031216;4;Dragon Flag;Bodyweight;Core;Other;Abs;12;reps;3;0,0;0,0;0,0;0,0;10;11;10,3;0,6;31;0,0
+202404031216;5;Plank;Bodyweight;Core;Plank;Abs;0;secs;3;0,0;0,0;0,0;0,0;57;75;64,0;9,6;192;0,0
+202404031216;6;Skydiver - Iso;Bodyweight;Core;Back Extension;Lower back;0;secs;3;0,0;0,0;0,0;0,0;30;45;40,0;8,7;120;0,0
+202404051640;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;48,0;48,0;48,0;0,0;7;8;7,7;0,5;46;2208,0
+202404051640;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;32,0;34,0;32,7;1,0;6;7;6,7;0,5;40;1308,0
+202404051640;3;Shoulder Press;Machine;Upper Body;Shoulder Press;Front delts;12;reps;2;30,0;35,0;32,5;3,5;8;8;8,0;0,0;16;520,0
+202404051640;4;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;12;reps;3;55,0;55,0;55,0;0,0;7;8;7,7;0,6;23;1265,0
+202404051640;5;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;47,0;47,0;47,0;0,0;7;8;7,7;0,6;23;1081,0
+202404061734;1;Burpees;Bodyweight;Full Body;Cardio;Heart;0;reps;21;0,0;0,0;0,0;0,0;1;11;5,8;3,1;121;0,0
+202404081227;1;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;15;reps;3;26,0;26,0;26,0;0,0;15;15;15,0;0,0;90;2340,0
+202404081227;2;Flys;Cable;Upper Body;Fly;Chest;15;reps;3;15,0;15,0;15,0;0,0;13;18;15,0;2,4;90;1350,0
+202404081227;3;Chest Press;Machine;Upper Body;Chest Press;Chest;20;reps;9;26,0;30,0;26,4;1,3;4;13;7,2;3,3;65;1742,0
+202404081227;4;Skull Crushers;Cable;Upper Body;Triceps Extension;Triceps;20;reps;9;35,0;35,0;35,0;0,0;3;16;8,4;4,4;152;5320,0
+202404081227;5;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;7,0;7,0;7,0;0,0;8;12;10,7;2,3;32;224,0
+202404101534;1;Hip Abduction;Cable;Lower Body;Hip Abduction;Abductors;15;reps;3;13,0;13,0;13,0;0,0;15;15;15,0;0,0;90;1170,0
+202404101534;2;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;10;reps;9;55,0;55,0;55,0;0,0;4;16;7,7;3,6;69;3795,0
+202404101534;3;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;10;reps;9;50,0;50,0;50,0;0,0;3;16;8,3;4,2;75;3750,0
+202404101534;4;Seated Calf Raises;Machine;Lower Body;Calf Raise / Press;Calves;16;reps;3;40,0;43,0;41,0;1,7;11;16;13,7;2,5;41;1682,0
+202404101534;5;Hip Thrusts;Barbell;Lower Body;Hip Thrust;Glutes;12;reps;3;10,0;10,0;10,0;0,0;12;12;12,0;0,0;36;360,0
+202404111040;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;10;reps;9;50,0;50,0;50,0;0,0;4;16;7,6;3,8;68;3400,0
+202404111040;2;Incline Rows;Dumbbells;Upper Body;Row;Upper back;15;reps;3;16,0;20,0;17,3;2,3;10;14;11,7;2,1;35;600,0
+202404111040;3;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;15;reps;3;40,0;40,0;40,0;0,0;15;15;15,0;0,0;45;1800,0
+202404111040;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;10;reps;3;40,0;45,0;41,7;2,9;8;12;9,7;2,1;29;1220,0
+202404111040;5;Curls;Cable;Upper Body;Biceps Curl;Biceps;10;reps;9;30,0;30,0;30,0;0,0;3;16;7,3;3,7;264;7920,0
+202404161621;1;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;15;reps;3;28,0;28,0;28,0;0,0;13;15;14,3;1,0;86;2408,0
+202404161621;2;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;8,0;8,0;8,0;0,0;11;12;11,7;0,6;35;280,0
+202404161621;3;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;15;reps;3;45,0;45,0;45,0;0,0;15;15;15,0;0,0;45;2025,0
+202404161621;4;Chest Press;Machine;Upper Body;Chest Press;Chest;20;reps;9;26,0;26,0;26,0;0,0;3;15;6,0;3,7;54;1404,0
+202404161621;5;Skull Crushers;Cable;Upper Body;Triceps Extension;Triceps;20;reps;9;35,0;35,0;35,0;0,0;4;15;6,8;3,2;122;4270,0
+202404161621;6;Front Raises;Dumbbells;Upper Body;Front Raise;Front delts;12;reps;3;10,0;10,0;10,0;0,0;12;15;14,0;1,5;84;840,0
+202404221519;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;16;reps;9;50,0;50,0;50,0;0,0;4;16;7,6;3,7;68;3400,0
+202404221519;2;One-Arm Rows;Dumbbells;Upper Body;Row;Upper back;15;reps;3;16,0;18,0;16,7;1,2;8;15;12,0;3,6;36;606,0
+202404221519;3;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;15;reps;3;43,0;43,0;43,0;0,0;8;15;11,0;3,6;33;1419,0
+202404221519;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;16;reps;9;30,0;45,0;36,7;6,6;5;12;7,3;2,3;66;2455,0
+202404221519;5;Curls;Barbell;Upper Body;Biceps Curl;Biceps;10;reps;4;16,0;16,0;16,0;0,0;8;16;11,5;3,1;184;2944,0
+202404231234;1;Double Crunch Machine;Machine;Core;Ab Crunch;Abs;10;reps;3;10,0;10,0;10,0;0,0;15;15;15,0;0,0;45;450,0
+202404231234;2;Back Extensions on Roman Chair;Bodyweight;Core;Back Extension;Lower back;10;reps;3;10,0;10,0;10,0;0,0;8;12;10,0;2,0;30;300,0
+202404231234;3;Plank;Bodyweight;Core;Plank;Abs;0;secs;3;0,0;0,0;0,0;0,0;45;70;55,0;13,2;165;0,0
+202404231234;4;Side Plank;Bodyweight;Core;Side Abs;Abs;0;secs;3;0,0;0,0;0,0;0,0;25;30;28,3;2,9;85;0,0
+202404231234;5;Skydiver;Bodyweight;Core;Back Extension;Lower back;10;reps;3;0,0;0,0;0,0;0,0;1;20;13,7;11,0;41;0,0
+202404231234;6;Chair Crunches;Bodyweight;Core;Ab Crunch;Abs;10;reps;3;0,0;0,0;0,0;0,0;15;18;16,0;1,7;48;0,0
+202404241209;1;Flys;Cable;Upper Body;Fly;Chest;15;reps;3;17,0;17,0;17,0;0,0;13;15;14,0;0,9;84;1428,0
+202404241209;2;Chest Press;Machine;Upper Body;Chest Press;Chest;20;reps;9;26,0;26,0;26,0;0,0;5;15;7,8;3,3;70;1820,0
+202404241209;3;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;10;reps;9;20,0;35,0;26,7;6,6;6;11;7,3;1,7;66;1830,0
+202404241209;4;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;8,0;8,0;8,0;0,0;10;12;11,0;1,0;33;264,0
+202404271029;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;16;reps;9;50,0;50,0;50,0;0,0;6;16;8,6;3,2;77;3850,0
+202404271029;2;One-Arm Rows;Dumbbells;Upper Body;Row;Upper back;15;reps;3;16,0;16,0;16,0;0,0;13;15;14,0;1,0;42;672,0
+202404271029;3;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;15;reps;3;43,0;43,0;43,0;0,0;14;15;14,7;0,6;44;1892,0
+202404271029;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;16;reps;9;30,0;45,0;36,7;6,6;3;11;7,1;2,3;64;2385,0
+202404271029;5;Curls;Barbell;Upper Body;Biceps Curl;Biceps;10;reps;9;18,0;18,0;18,0;0,0;4;16;7,0;3,7;252;4536,0
+202404271029;6;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;8,0;10,0;8,7;1,2;6;10;7,7;2,1;23;196,0
+202405021652;1;Double Crunch Machine;Machine;Core;Ab Crunch;Abs;10;reps;3;12,0;12,0;12,0;0,0;11;15;13,7;2,3;41;492,0
+202405021652;2;Plank;Bodyweight;Core;Plank;Abs;0;secs;3;0,0;0,0;0,0;0,0;50;70;60,0;10,0;180;0,0
+202405021652;3;Skydiver;Bodyweight;Core;Back Extension;Lower back;10;reps;3;0,0;0,0;0,0;0,0;20;20;20,0;0,0;60;0,0
+202405021652;4;Chair Crunches;Bodyweight;Core;Ab Crunch;Abs;10;reps;3;0,0;0,0;0,0;0,0;10;20;15,0;5,0;45;0,0
+202405071518;1;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;15;reps;3;28,0;28,0;28,0;0,0;15;15;15,0;0,0;90;2520,0
+202405071518;2;Flys;Cable;Upper Body;Fly;Chest;15;reps;3;17,0;17,0;17,0;0,0;6;15;10,3;4,0;62;1054,0
+202405071518;3;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;8,0;8,0;8,0;0,0;10;12;11,3;1,2;34;272,0
+202405071518;4;Front Raises;Barbell;Upper Body;Front Raise;Front delts;12;reps;3;10,0;10,0;10,0;0,0;10;12;10,7;1,0;64;640,0
+202405071518;5;Chest Press;Machine;Upper Body;Chest Press;Chest;20;reps;9;26,0;26,0;26,0;0,0;5;15;8,3;3,1;75;1950,0
+202405071518;6;Skull Crushers;EZ bar;Upper Body;Triceps Extension;Triceps;20;reps;9;12,0;12,0;12,0;0,0;4;16;7,8;4,0;140;1680,0
+202405081159;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;16;reps;9;50,0;50,0;50,0;0,0;5;16;8,4;3,4;76;3800,0
+202405081159;2;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;15;reps;3;45,0;45,0;45,0;0,0;13;15;14,3;1,2;43;1935,0
+202405081159;3;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;10;reps;9;9,0;9,0;9,0;0,0;4;15;7,2;3,5;65;585,0
+202405141545;1;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;15;reps;3;30,0;30,0;30,0;0,0;15;15;15,0;0,0;90;2700,0
+202405141545;2;Flys;Cable;Upper Body;Fly;Chest;15;reps;3;17,0;17,0;17,0;0,0;8;15;11,0;3,2;66;1122,0
+202405141545;3;Chest Press;Machine;Upper Body;Chest Press;Chest;20;reps;3;26,0;26,0;26,0;0,0;3;15;8,0;6,2;24;624,0
+202405141545;4;Skull Crushers;EZ bar;Upper Body;Triceps Extension;Triceps;20;reps;9;12,0;12,0;12,0;0,0;5;16;8,7;3,3;156;1872,0
+202405141545;5;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;8,0;8,0;8,0;0,0;11;12;11,7;0,6;35;280,0
+202405151151;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;16;reps;9;50,0;50,0;50,0;0,0;3;16;8,2;3,7;74;3700,0
+202405151151;2;One-Arm Rows;Dumbbells;Upper Body;Row;Upper back;15;reps;3;16,0;16,0;16,0;0,0;15;15;15,0;0,0;45;720,0
+202405151151;3;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;9;9,0;9,0;9,0;0,0;5;15;8,1;3,0;73;657,0
+202405161707;1;Double Crunch Machine;Machine;Core;Ab Crunch;Abs;10;reps;3;13,0;13,0;13,0;0,0;15;15;15,0;0,0;45;585,0
+202405161707;2;Back Extensions on Roman Chair;Bodyweight;Core;Back Extension;Lower back;10;reps;3;10,0;10,0;10,0;0,0;12;12;12,0;0,0;36;360,0
+202405161707;3;Plank;Bodyweight;Core;Plank;Abs;0;secs;3;0,0;0,0;0,0;0,0;45;90;65,0;22,9;195;0,0
+202405161707;4;Side Plank;Bodyweight;Core;Side Abs;Abs;0;secs;3;0,0;0,0;0,0;0,0;30;30;30,0;0,0;90;0,0
+202405161707;5;Skydiver;Bodyweight;Core;Back Extension;Lower back;10;reps;2;0,0;0,0;0,0;0,0;10;20;15,0;7,1;30;0,0
+202405161707;6;Chair Crunches;Bodyweight;Core;Ab Crunch;Abs;10;reps;3;0,0;0,0;0,0;0,0;13;20;16,3;3,5;49;0,0
+202405161707;7;Russian Swings;Kettlebells;Upper Body;Row;Upper back;10;reps;3;12,0;12,0;12,0;0,0;12;12;12,0;0,0;36;432,0
+202405171729;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;170,0;180,0;173,3;5,8;13;15;14,3;1,2;43;7440,0
+202405171729;2;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;10;reps;9;55,0;55,0;55,0;0,0;5;13;7,7;2,5;69;3795,0
+202405171729;3;Seated Calf Raises;Machine;Lower Body;Calf Raise / Press;Calves;16;reps;3;45,0;45,0;45,0;0,0;15;15;15,0;0,0;45;2025,0
+202405171729;4;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;10;reps;9;50,0;52,0;50,7;1,0;7;16;9,9;2,7;89;4502,0
+202405171729;5;Hip Abduction;Cable;Lower Body;Hip Abduction;Abductors;15;reps;2;10,0;13,0;11,5;1,7;12;12;12,0;0,0;48;552,0
+202405171729;6;Hip Thrusts;Barbell;Lower Body;Hip Thrust;Glutes;12;reps;3;20,0;20,0;20,0;0,0;12;12;12,0;0,0;36;720,0
+202405201615;1;Pull-Ups with Wide Overhand Grip;Bodyweight;Upper Body;Pull-Up;Lats;10;reps;4;0,0;0,0;0,0;0,0;3;6;4,5;1,3;18;0,0
+202405201615;2;Scapular Pull-Ups;Bodyweight;Upper Body;Pull-Up;Lats;10;reps;4;0,0;0,0;0,0;0,0;5;7;6,5;1,0;26;0,0
+202405201615;3;Pull-Ups with Close Neutral Grip;Bodyweight;Upper Body;Pull-Up;Lats;10;reps;4;0,0;0,0;0,0;0,0;3;5;4,0;0,8;16;0,0
+202405201615;4;Inverted Rows on Smith Machine;Bodyweight;Upper Body;Row;Upper back;10;reps;4;0,0;0,0;0,0;0,0;4;8;5,5;1,7;22;0,0
+202405201615;5;Incline Australian Pull-Ups;Bodyweight;Upper Body;Row;Upper back;10;reps;2;0,0;0,0;0,0;0,0;5;5;5,0;0,0;10;0,0
+202405201615;6;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;8;reps;4;12,0;12,0;12,0;0,0;6;8;7,5;1,0;30;360,0
+202405211629;1;Explosive Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;10;reps;4;0,0;0,0;0,0;0,0;6;10;7,8;1,7;31;0,0
+202405211629;2;Knee Diamond Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;10;reps;4;0,0;0,0;0,0;0,0;5;7;5,8;1,0;23;0,0
+202405211629;3;Bench Dips;Bodyweight;Upper Body;Dip;Triceps;10;reps;4;0,0;0,0;0,0;0,0;7;10;8,5;1,3;34;0,0
+202405211629;4;Incline Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;10;reps;4;0,0;0,0;0,0;0,0;4;6;5,2;1,0;21;0,0
+202405211629;5;Elevated Pike hold;Bodyweight;Upper Body;Pike / Handstand;Front delts;0;secs;4;0,0;0,0;0,0;0,0;22;32;27,5;4,4;110;0,0
+202405211629;6;Seated Shoulder Press;Dumbbells;Upper Body;Shoulder Press;Front delts;10;reps;2;10,0;10,0;10,0;0,0;6;7;6,5;0,6;26;260,0
+202405221029;1;Double Crunch Machine;Machine;Core;Ab Crunch;Abs;10;reps;2;15,0;15,0;15,0;0,0;6;12;9,0;4,2;18;270,0
+202405221029;2;Back Extensions on Roman Chair;Bodyweight;Core;Back Extension;Lower back;10;reps;3;10,0;10,0;10,0;0,0;10;12;10,7;1,2;32;320,0
+202405221029;3;Hanging Leg Raises;Bodyweight;Core;Leg Raise;Abs;10;reps;4;0,0;0,0;0,0;0,0;10;12;11,5;1,0;46;0,0
+202405271206;1;Pull-Ups with Wide Overhand Grip;Bodyweight;Upper Body;Pull-Up;Lats;10;reps;4;0,0;0,0;0,0;0,0;4;7;5,0;1,4;20;0,0
+202405271206;2;Skin the cat;Bodyweight;Upper Body;Lat Pull;Lats;10;reps;4;0,0;0,0;0,0;0,0;4;5;4,2;0,5;17;0,0
+202405271206;3;Inverted Rows on Smith Machine;Bodyweight;Upper Body;Row;Upper back;10;reps;4;0,0;0,0;0,0;0,0;8;10;8,5;1,0;34;0,0
+202405271206;4;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;10;reps;4;12,0;12,0;12,0;0,0;5;9;7,8;1,9;31;372,0
+202406061705;1;Pistol Squats;TRX;Lower Body;Squat;Quads;10;reps;4;0,0;0,0;0,0;0,0;7;7;7,0;0,0;28;0,0
+202406061705;2;Bulgarian Split Squats;Dumbbells;Lower Body;Squat;Quads;10;reps;4;0,0;0,0;0,0;0,0;7;10;8,5;1,7;34;0,0
+202406061705;3;Single leg deadlift;Bodyweight;Lower Body;Other;Hams;10;reps;3;0,0;0,0;0,0;0,0;10;10;10,0;0,0;30;0,0
+202406061705;4;Side Split Squats;Dumbbells;Lower Body;Squat;Quads;10;reps;2;0,0;0,0;0,0;0,0;5;7;6,0;1,4;12;0,0
+202406061705;5;Standing Calf Raises;Bodyweight;Lower Body;Calf Raise / Press;Calves;10;reps;3;0,0;0,0;0,0;0,0;15;15;15,0;0,0;90;0,0
+202406061705;6;Single Leg Hip Thrust;Bodyweight;Lower Body;Hip Thrust;Glutes;10;reps;3;0,0;0,0;0,0;0,0;6;7;6,7;0,6;20;0,0
+202406151023;1;Pull-Ups with Wide Overhand Grip;Bodyweight;Upper Body;Pull-Up;Lats;10;reps;4;0,0;0,0;0,0;0,0;4;8;5,2;1,9;21;0,0
+202406151023;2;Skin the cat;Bodyweight;Upper Body;Lat Pull;Lats;10;reps;4;0,0;0,0;0,0;0,0;4;6;4,8;1,0;19;0,0
+202406151023;3;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;Upper Body;Row;Upper back;10;reps;4;0,0;0,0;0,0;0,0;6;10;7,5;1,7;30;0,0
+202406151023;4;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;10;reps;4;12,0;12,0;12,0;0,0;4;8;6,0;1,6;24;288,0
+202406151023;5;Hanging Knee Tuck - iso;Bodyweight;Core;Leg Raise;Abs;0;secs;4;0,0;0,0;0,0;0,0;12;30;20,5;7,5;82;0,0
+202406171651;1;Pike Push-Ups;Bodyweight;Upper Body;Pike / Handstand;Front delts;10;reps;4;0,0;0,0;0,0;0,0;7;10;9,2;1,5;37;0,0
+202406171651;2;Explosive Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;10;reps;3;0,0;0,0;0,0;0,0;4;10;7,0;3,0;21;0,0
+202406171651;3;Bench Dips;Bodyweight;Upper Body;Dip;Triceps;10;reps;2;0,0;0,0;0,0;0,0;10;12;11,0;1,4;22;0,0
+202406171651;4;Dips;Bodyweight;Upper Body;Dip;Triceps;10;reps;2;0,0;0,0;0,0;0,0;2;3;2,5;0,7;5;0,0
+202406171651;5;Incline Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;10;reps;4;0,0;0,0;0,0;0,0;3;5;3,8;1,0;15;0,0
+202406171651;6;Elevated Pike hold;Bodyweight;Upper Body;Pike / Handstand;Front delts;0;secs;2;0,0;0,0;0,0;0,0;12;14;13,0;1,4;26;0,0
+202406171651;7;Decline Crunches;Bodyweight;Core;Ab Crunch;Abs;10;reps;2;0,0;0,0;0,0;0,0;5;6;5,5;0,7;11;0,0
+202406171651;8;Chair Crunches;Bodyweight;Core;Ab Crunch;Abs;10;reps;4;0,0;0,0;0,0;0,0;15;20;16,5;2,4;66;0,0
+202406251606;1;Pistol Squats;TRX;Lower Body;Squat;Quads;10;reps;4;0,0;0,0;0,0;0,0;2;3;2,5;0,6;10;0,0
+202406251606;2;Bulgarian Split Squats;Dumbbells;Lower Body;Squat;Quads;10;reps;4;0,0;0,0;0,0;0,0;10;10;10,0;0,0;40;0,0
+202406251606;3;Single leg deadlift;Bodyweight;Lower Body;Other;Hams;10;reps;4;0,0;0,0;0,0;0,0;10;12;10,5;1,0;42;0,0
+202406251606;4;Single Leg Hip Thrust;Bodyweight;Lower Body;Hip Thrust;Glutes;10;reps;2;0,0;0,0;0,0;0,0;7;10;8,5;2,1;17;0,0
+202407011159;1;Pull-Ups with Wide Overhand Grip;Bodyweight;Upper Body;Pull-Up;Lats;10;reps;4;0,0;0,0;0,0;0,0;4;9;5,5;2,4;22;0,0
+202407011159;2;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;Upper Body;Row;Upper back;10;reps;4;0,0;0,0;0,0;0,0;8;10;9,0;1,2;36;0,0
+202407011159;3;Skin the cat;Bodyweight;Upper Body;Lat Pull;Lats;10;reps;4;0,0;0,0;0,0;0,0;4;5;4,8;0,5;19;0,0
+202407011159;4;Hanging Knee Tuck - iso;Bodyweight;Core;Leg Raise;Abs;0;secs;4;0,0;0,0;0,0;0,0;20;30;25,8;4,3;103;0,0
+202407041233;1;Pike Push-Ups;Bodyweight;Upper Body;Pike / Handstand;Front delts;10;reps;3;0,0;0,0;0,0;0,0;4;7;5,3;1,5;16;0,0
+202407041233;2;Incline Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;10;reps;4;0,0;0,0;0,0;0,0;5;9;6,5;1,9;26;0,0
+202407041233;3;Bench Dips;Bodyweight;Upper Body;Dip;Triceps;10;reps;4;0,0;0,0;0,0;0,0;9;12;11,0;1,4;44;0,0
+202407051741;1;Pistol Squats;TRX;Lower Body;Squat;Quads;10;reps;2;0,0;0,0;0,0;0,0;5;5;5,0;0,0;10;0,0
+202407051741;2;Single Leg Hip Thrust;Bodyweight;Lower Body;Hip Thrust;Glutes;10;reps;2;0,0;0,0;0,0;0,0;10;10;10,0;0,0;20;0,0
+202407051741;3;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;10;reps;3;70,0;75,0;71,7;2,9;8;9;8,7;0,6;26;1860,0
+202407051741;4;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;10;reps;3;25,0;25,0;25,0;0,0;8;8;8,0;0,0;24;600,0
+202407051741;5;Seated Calf Raises;Machine;Lower Body;Calf Raise / Press;Calves;10;reps;3;0,0;60,0;40,0;34,6;0;8;5,3;4,6;16;960,0
+202407081201;1;Pull-Ups with Wide Overhand Grip;Bodyweight;Upper Body;Pull-Up;Lats;8;reps;3;0,0;0,0;0,0;0,0;5;8;6,3;1,5;19;0,0
+202407081201;2;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;8;reps;3;47,0;50,0;49,0;1,7;11;12;11,7;0,6;35;1714,0
+202407081201;3;Pullovers;Cable;Upper Body;Lat Pull;Lats;8;reps;3;42,0;42,0;42,0;0,0;12;12;12,0;0,0;36;1512,0
+202407081201;4;Hanging Knee Tuck - iso;Bodyweight;Core;Leg Raise;Abs;30;secs;3;0,0;0,0;0,0;0,0;29;33;31,7;2,3;95;0,0
+202407081201;5;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;Upper Body;Row;Upper back;8;reps;3;0,0;0,0;0,0;0,0;6;10;8,0;2,0;24;0,0
+202407081201;6;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;8;reps;3;10,0;10,0;10,0;0,0;11;12;11,7;0,6;35;350,0
+202407091542;1;Leg Press;Machine;Lower Body;Leg Press;Quads;8;reps;3;180,0;180,0;180,0;0,0;12;12;12,0;0,0;36;6480,0
+202407091542;2;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;10;reps;3;22,0;22,0;22,0;0,0;12;12;12,0;0,0;36;792,0
+202407091542;3;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;8;reps;3;60,0;65,0;61,7;2,9;10;12;11,3;1,2;34;2100,0
+202407091542;4;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;8;reps;3;60,0;60,0;60,0;0,0;12;12;12,0;0,0;36;2160,0
+202407091542;5;Seated Calf Raises;Machine;Lower Body;Calf Raise / Press;Calves;8;reps;3;52,0;52,0;52,0;0,0;12;12;12,0;0,0;36;1872,0
+202407111612;1;Incline Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;8;reps;3;0,0;0,0;0,0;0,0;5;10;7,3;2,5;22;0,0
+202407111612;2;Bench Press;Barbell;Upper Body;Chest Press;Chest;8;reps;3;38,0;42,0;40,0;1,8;6;12;9,0;2,7;54;2184,0
+202407111612;3;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;8;reps;3;7,0;8,0;7,7;0,6;10;12;11,3;1,2;34;260,0
+202407111612;4;Pseudo Planche Lean - Iso;Bodyweight;Upper Body;Push-Up;Front delts;0;secs;3;0,0;0,0;0,0;0,0;28;34;30,7;3,1;92;0,0
+202407151226;1;Pull-Ups with Close Neutral Grip;Bodyweight;Upper Body;Pull-Up;Lats;8;reps;3;0,0;0,0;0,0;0,0;4;10;7,0;3,0;21;0,0
+202407151226;2;Inverted Rows on Smith Machine;Bodyweight;Upper Body;Row;Upper back;8;reps;3;0,0;0,0;0,0;0,0;10;10;10,0;0,0;30;0,0
+202407151226;3;Pullovers;Cable;Upper Body;Lat Pull;Lats;8;reps;3;45,0;45,0;45,0;0,0;10;10;10,0;0,0;30;1350,0
+202407151226;4;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;8;reps;3;50,0;50,0;50,0;0,0;10;10;10,0;0,0;30;1500,0
+202407151226;5;Curls;Barbell;Upper Body;Biceps Curl;Biceps;8;reps;3;22,0;22,0;22,0;0,0;6;10;8,0;1,7;96;2112,0
+202407151226;6;Hanging Knee Tuck - iso;Bodyweight;Core;Leg Raise;Abs;30;secs;3;0,0;0,0;0,0;0,0;16;24;19,3;4,2;58;0,0
+202407181230;1;Incline Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;8;reps;3;0,0;0,0;0,0;0,0;6;10;8,7;2,3;26;0,0
+202407181230;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;8;reps;3;34,0;34,0;34,0;0,0;10;10;10,0;0,0;60;2040,0
+202407181230;3;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;8;reps;3;8,0;8,0;8,0;0,0;10;10;10,0;0,0;30;240,0
+202407181230;4;Skull Crushers;EZ bar;Upper Body;Triceps Extension;Triceps;8;reps;3;16,0;16,0;16,0;0,0;12;12;12,0;0,0;72;1152,0
+202407181230;5;Shoulder Press;Machine;Upper Body;Shoulder Press;Front delts;8;reps;3;25,0;30,0;28,3;2,9;5;10;6,7;2,9;20;575,0
+202407181230;6;Pseudo Planche Lean - Iso;Bodyweight;Upper Body;Push-Up;Front delts;0;secs;3;0,0;0,0;0,0;0,0;0;25;16,7;14,4;50;0,0
+202407191928;1;Leg Press;Machine;Lower Body;Leg Press;Quads;8;reps;3;190,0;194,0;191,3;2,3;10;12;10,7;1,2;32;6128,0
+202407191928;2;Hip Abduction;Cable;Lower Body;Hip Abduction;Abductors;8;reps;3;15,0;15,0;15,0;0,0;10;12;10,7;1,0;64;960,0
+202407191928;3;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;10;reps;3;24,0;24,0;24,0;0,0;10;14;11,3;2,3;34;816,0
+202407191928;4;Seated Calf Raises;Machine;Lower Body;Calf Raise / Press;Calves;8;reps;3;56,0;56,0;56,0;0,0;10;12;10,7;1,2;32;1792,0
+202407191928;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;8;reps;3;65,0;70,0;66,7;2,9;10;10;10,0;0,0;30;2000,0
+202407191928;6;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;8;reps;3;65,0;65,0;65,0;0,0;10;10;10,0;0,0;30;1950,0
+202407221855;1;Pull-Ups with Close Neutral Grip;Bodyweight;Upper Body;Pull-Up;Lats;8;reps;3;0,0;0,0;0,0;0,0;5;10;7,7;2,5;23;0,0
+202407221855;2;Inverted Rows on Smith Machine;Bodyweight;Upper Body;Row;Upper back;8;reps;3;0,0;0,0;0,0;0,0;7;10;8,3;1,5;25;0,0
+202407221855;3;Pullovers;Cable;Upper Body;Lat Pull;Lats;8;reps;3;47,0;47,0;47,0;0,0;10;12;10,7;1,2;32;1504,0
+202407221855;4;Rows with Close Grip;Cable;Upper Body;Row;Upper back;8;reps;3;52,0;52,0;52,0;0,0;8;10;9,3;1,0;56;2912,0
+202407221855;5;Curls;Barbell;Upper Body;Biceps Curl;Biceps;8;reps;3;22,0;22,0;22,0;0,0;8;10;9,0;0,9;108;2376,0
+202407221855;6;Hanging Knee Tuck - iso;Bodyweight;Core;Leg Raise;Abs;30;secs;3;0,0;0,0;0,0;0,0;8;32;20,0;12,0;60;0,0
+202407251607;1;Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;8;reps;3;0,0;0,0;0,0;0,0;2;5;3,7;1,5;11;0,0
+202407251607;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;8;reps;3;36,0;36,0;36,0;0,0;10;10;10,0;0,0;60;2160,0
+202407251607;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;8;reps;3;47,0;47,0;47,0;0,0;8;8;8,0;0,0;24;1128,0
+202407251607;4;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;8;reps;3;9,0;9,0;9,0;0,0;8;10;9,0;1,0;27;243,0
+202407251607;5;Shoulder Press;Machine;Upper Body;Shoulder Press;Front delts;8;reps;3;25,0;25,0;25,0;0,0;10;10;10,0;0,0;30;750,0
+202407251607;6;Pseudo Planche Lean - Iso;Bodyweight;Upper Body;Push-Up;Front delts;0;secs;3;0,0;0,0;0,0;0,0;13;20;15,3;4,0;46;0,0
+202407261935;1;Hip Abduction;Cable;Lower Body;Hip Abduction;Abductors;8;reps;3;17,0;17,0;17,0;0,0;10;10;10,0;0,0;60;1020,0
+202407261935;2;Seated Calf Raises;Machine;Lower Body;Calf Raise / Press;Calves;8;reps;3;60,0;60,0;60,0;0,0;10;10;10,0;0,0;30;1800,0
+202407261935;3;Leg Press;Machine;Lower Body;Leg Press;Quads;8;reps;3;120,0;120,0;120,0;0,0;10;10;10,0;0,0;30;3600,0
+202407261935;4;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;10;reps;3;25,0;25,0;25,0;0,0;10;10;10,0;0,0;30;750,0
+202407261935;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;8;reps;3;70,0;75,0;71,7;2,9;10;10;10,0;0,0;30;2150,0
+202407261935;6;L-Sit Hold;Bodyweight;Core;Leg Raise;Abs;0;secs;3;0,0;0,0;0,0;0,0;4;8;5,7;2,1;17;0,0
+202407261935;7;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;8;reps;3;70,0;70,0;70,0;0,0;6;8;7,3;1,2;22;1540,0
+202407291540;1;Pull-Ups with Wide Overhand Grip;Bodyweight;Upper Body;Pull-Up;Lats;10;reps;3;0,0;0,0;0,0;0,0;2;6;3,7;2,1;11;0,0
+202407291540;2;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;Upper Body;Row;Upper back;10;reps;3;0,0;0,0;0,0;0,0;7;12;8,7;2,9;26;0,0
+202407291540;3;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;10;reps;2;50,0;50,0;50,0;0,0;5;12;8,5;4,9;17;850,0
+202407291540;4;Curls;Barbell;Upper Body;Biceps Curl;Biceps;10;reps;2;22,0;22,0;22,0;0,0;6;10;8,0;2,1;64;1408,0
+202407311649;1;Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;10;reps;3;0,0;0,0;0,0;0,0;3;6;4,3;1,5;13;0,0
+202408021518;1;Leg Press;Machine;Lower Body;Leg Press;Quads;10;reps;3;194,0;200,0;196,0;3,5;11;12;11,7;0,6;35;6856,0
+202408021518;2;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;10;reps;3;26,0;26,0;26,0;0,0;8;10;9,3;1,2;28;728,0
+202408021518;3;Seated Calf Raises;Machine;Lower Body;Calf Raise / Press;Calves;10;reps;3;62,0;62,0;62,0;0,0;8;10;9,3;1,2;28;1736,0
+202408021518;4;Hip Abduction;Cable;Lower Body;Hip Abduction;Abductors;10;reps;3;17,0;17,0;17,0;0,0;12;12;12,0;0,0;72;1224,0
+202408021518;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;10;reps;3;75,0;75,0;75,0;0,0;10;10;10,0;0,0;30;2250,0
+202408021518;6;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;10;reps;3;67,0;67,0;67,0;0,0;10;12;10,7;1,2;32;2144,0
+202408061717;1;Pull-Ups with Wide Overhand Grip;Bodyweight;Upper Body;Pull-Up;Lats;10;reps;3;0,0;0,0;0,0;0,0;4;10;6,3;3,2;19;0,0
+202408061717;2;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;Upper Body;Row;Upper back;10;reps;3;0,0;0,0;0,0;0,0;6;7;6,7;0,6;20;0,0
+202408061717;3;Rows with Wide Neutral Grip;Cable;Upper Body;Row;Upper back;10;reps;3;50,0;50,0;50,0;0,0;10;12;10,7;1,2;32;1600,0
+202408061717;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;10;reps;3;50,0;50,0;50,0;0,0;8;8;8,0;0,0;24;1200,0
+202408061717;5;Curls;Barbell;Upper Body;Biceps Curl;Biceps;10;reps;3;22,0;22,0;22,0;0,0;5;10;8,3;2,5;100;2200,0
+202408061717;6;L-Sit Hold;Bodyweight;Core;Leg Raise;Abs;30;secs;3;0,0;0,0;0,0;0,0;5;10;7,7;2,5;23;0,0
+202408071639;1;Incline Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;10;reps;3;0,0;0,0;0,0;0,0;6;8;6,7;1,2;20;0,0
+202408071639;2;Dips;Bodyweight;Upper Body;Dip;Triceps;10;reps;3;0,0;0,0;0,0;0,0;5;8;6,3;1,5;19;0,0
+202408071639;3;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;10;reps;3;9,0;9,0;9,0;0,0;10;12;10,7;1,2;32;288,0
+202408071639;4;Pike Push-Ups;Bodyweight;Upper Body;Pike / Handstand;Front delts;10;reps;2;0,0;0,0;0,0;0,0;2;4;3,0;1,4;6;0,0
+202408071639;5;Pseudo Planche Lean - Iso;Bodyweight;Upper Body;Push-Up;Front delts;0;secs;3;0,0;0,0;0,0;0,0;6;10;7,3;2,3;22;0,0
+202408091236;1;Leg Press;Machine;Lower Body;Leg Press;Quads;10;reps;3;200,0;200,0;200,0;0,0;10;12;11,3;1,2;34;6800,0
+202408091236;2;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;10;reps;3;26,0;26,0;26,0;0,0;10;10;10,0;0,0;30;780,0
+202408091236;3;Seated Calf Raises;Machine;Lower Body;Calf Raise / Press;Calves;10;reps;3;62,0;62,0;62,0;0,0;10;12;10,7;1,2;32;1984,0
+202408091236;4;Hip Abduction;Cable;Lower Body;Hip Abduction;Abductors;10;reps;3;18,0;18,0;18,0;0,0;10;10;10,0;0,0;60;1080,0
+202408141652;1;Pull-Ups with Wide Overhand Grip;Bodyweight;Upper Body;Pull-Up;Lats;10;reps;3;0,0;0,0;0,0;0,0;5;10;7,0;2,6;21;0,0
+202408141652;2;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;Upper Body;Row;Upper back;10;reps;3;0,0;0,0;0,0;0,0;4;5;4,7;0,6;14;0,0
+202408141652;3;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;10;reps;3;28,0;28,0;28,0;0,0;12;15;13,0;1,7;39;1092,0
+202408141652;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;10;reps;3;50,0;50,0;50,0;0,0;8;10;8,7;1,2;26;1300,0
+202408141652;5;Curls;Barbell;Upper Body;Biceps Curl;Biceps;10;reps;3;22,0;22,0;22,0;0,0;10;10;10,0;0,0;120;2640,0
+202408141652;6;L-Sit Hold;Bodyweight;Core;Leg Raise;Abs;30;secs;3;0,0;0,0;0,0;0,0;6;13;9,7;3,5;29;0,0
+202408151652;1;Incline Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;10;reps;3;0,0;0,0;0,0;0,0;7;10;8,3;1,5;25;0,0
+202408151652;2;Dips;Bodyweight;Upper Body;Dip;Triceps;10;reps;3;0,0;0,0;0,0;0,0;4;10;7,0;3,0;21;0,0
+202408151652;3;Decline Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;10;reps;3;0,0;0,0;0,0;0,0;6;10;7,7;2,1;23;0,0
+202408151652;4;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;10;reps;3;10,0;10,0;10,0;0,0;7;8;7,3;0,6;22;220,0
+202408161902;1;Leg Press;Machine;Lower Body;Leg Press;Quads;10;reps;3;200,0;200,0;200,0;0,0;12;15;13,0;1,7;39;7800,0
+202408161902;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;10;reps;3;166,0;166,0;166,0;0,0;10;12;11,3;1,2;34;5644,0
+202408161902;3;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;10;reps;3;27,0;27,0;27,0;0,0;7;8;7,7;0,6;23;621,0
+202408161902;4;Hip Abduction;Cable;Lower Body;Hip Abduction;Abductors;10;reps;3;20,0;20,0;20,0;0,0;8;8;8,0;0,0;48;960,0
+202408161902;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;10;reps;3;75,0;75,0;75,0;0,0;10;10;10,0;0,0;30;2250,0
+202408161902;6;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;10;reps;3;70,0;70,0;70,0;0,0;8;8;8,0;0,0;24;1680,0
+202408201621;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;60,0;60,0;60,0;0,0;8;12;10,7;2,3;32;1920,0
+202408201621;2;One-Arm Rows;Dumbbells;Upper Body;Row;Upper back;12;reps;3;20,0;20,0;20,0;0,0;12;12;12,0;0,0;36;720,0
+202408201621;3;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;30,0;30,0;30,0;0,0;10;10;10,0;0,0;30;900,0
+202408201621;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;47,0;47,0;47,0;0,0;11;12;11,7;0,6;35;1645,0
+202408201621;5;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;10,0;10,0;10,0;0,0;12;15;13,0;1,7;39;390,0
+202408221648;1;Chest Press;Machine;Upper Body;Chest Press;Chest;12;reps;3;26,0;26,0;26,0;0,0;12;15;13,0;1,7;39;1014,0
+202408221648;2;Incline Bench Press;Dumbbells;Upper Body;Chest Press;Chest;12;reps;3;14,0;14,0;14,0;0,0;9;12;11,0;1,5;66;924,0
+202408221648;3;Dips;Bodyweight;Upper Body;Dip;Triceps;12;reps;3;0,0;0,0;0,0;0,0;5;10;7,7;2,5;23;0,0
+202408221648;4;Lean Away Lateral Raises;Cable;Upper Body;Lateral Raise;Side delts;12;reps;3;5,0;7,0;5,7;1,2;8;15;11,3;3,5;34;186,0
+202408221648;5;Butterfly with Wide Grip;Machine;Upper Body;Fly;Chest;10;reps;3;47,0;47,0;47,0;0,0;12;12;12,0;0,0;36;1692,0
+202408221648;6;Pike Push-Ups;Bodyweight;Upper Body;Pike / Handstand;Front delts;12;reps;2;0,0;0,0;0,0;0,0;2;4;3,0;1,4;6;0,0
+202408221648;7;Pseudo Planche Lean - Iso;Bodyweight;Upper Body;Push-Up;Front delts;0;secs;4;0,0;0,0;0,0;0,0;6;17;11,8;4,5;47;0,0
+202408231913;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;206,0;210,0;207,3;2,3;12;15;13,0;1,7;39;8094,0
+202408231913;2;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;12;reps;3;65,0;65,0;65,0;0,0;12;12;12,0;0,0;36;2340,0
+202408231913;3;Hip Abduction;Cable;Lower Body;Hip Abduction;Abductors;12;reps;3;18,0;18,0;18,0;0,0;9;12;11,0;1,5;66;1188,0
+202408231913;4;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;12;reps;3;70,0;70,0;70,0;0,0;12;15;13,0;1,7;39;2730,0
+202408231913;5;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;25,0;25,0;25,0;0,0;8;12;10,0;2,0;30;750,0
+202409031652;1;Pull-Ups with Close Neutral Grip;Bodyweight;Upper Body;Pull-Up;Lats;10;reps;3;0,0;0,0;0,0;0,0;5;10;7,0;2,6;21;0,0
+202409031652;2;Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;10;reps;3;0,0;0,0;0,0;0,0;10;20;14,0;5,3;42;0,0
+202409031652;3;Goblet Squats;Dumbbells;Lower Body;Squat;Quads;10;reps;3;0,0;0,0;0,0;0,0;15;30;21,0;7,9;63;0,0
+202409031652;4;L Raises;Bodyweight;Core;Leg Raise;Abs;10;reps;3;0,0;0,0;0,0;0,0;6;10;8,0;2,0;24;0,0
+202409091627;1;Pull-Ups with Wide Overhand Grip;Bodyweight;Upper Body;Pull-Up;Lats;10;reps;4;0,0;0,0;0,0;0,0;4;9;6,0;2,2;24;0,0
+202409091627;2;Dips;Bodyweight;Upper Body;Dip;Triceps;10;reps;3;0,0;0,0;0,0;0,0;4;10;7,0;3,0;21;0,0
+202409121515;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;110,0;132,5;122,5;11,5;10;12;11,3;1,2;34;4145,0
+202409121515;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;10;reps;3;80,0;102,5;92,5;11,5;11;12;11,7;0,6;35;3227,5
+202409121515;3;Lying Leg Curls;Machine;Lower Body;Leg Curl;Hams;12;reps;3;35,0;40,0;38,3;2,9;12;12;12,0;0,0;36;1380,0
+202409121515;4;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;12;reps;3;55,0;60,0;56,7;2,9;12;15;13,0;1,7;39;2220,0
+202409121515;5;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;12;reps;3;29,0;36,0;31,3;4,0;11;12;11,7;0,6;35;1092,0
+202409161558;1;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;40,0;50,0;43,3;5,8;12;15;13,0;1,7;39;1710,0
+202409161558;2;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;50,0;55,0;51,7;2,9;10;12;11,3;1,2;34;1750,0
+202409161558;3;Incline Reverse Flys;Dumbbells;Upper Body;Reverse Fly;Rear delts;12;reps;3;8,0;8,0;8,0;0,0;12;12;12,0;0,0;36;288,0
+202409161558;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;45,0;45,0;45,0;0,0;12;12;12,0;0,0;36;1620,0
+202409161558;5;Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;10,0;10,0;10,0;0,0;12;13;12,3;0,5;148;1480,0
+202409181600;1;Chest Press;Machine;Upper Body;Chest Press;Chest;12;reps;3;20,0;25,0;22,5;2,5;15;15;15,0;0,0;45;1012,5
+202409181600;2;Incline Bench Press;Dumbbells;Upper Body;Chest Press;Chest;10;reps;3;16,0;16,0;16,0;0,0;8;12;10,0;1,8;60;960,0
+202409181600;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;14,0;16,0;15,3;1,2;12;15;13,0;1,7;39;594,0
+202409181600;4;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;9,0;10,0;9,7;0,6;8;15;10,3;4,0;31;295,0
+202409181600;5;Seated Shoulder Press;Dumbbells;Upper Body;Shoulder Press;Front delts;12;reps;3;9,0;9,0;9,0;0,0;6;8;7,3;1,0;44;396,0
+202409181600;6;Pseudo Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;12;reps;3;0,0;0,0;0,0;0,0;5;7;6,3;1,2;19;0,0
+202409201802;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;180,0;190,0;186,7;5,8;12;14;12,7;1,2;38;7100,0
+202409201802;2;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;12;reps;3;50,0;55,0;53,3;2,9;12;15;13,0;1,7;39;2085,0
+202409201802;3;Seated Calf Raises;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;50,0;56,0;53,0;3,0;11;12;11,7;0,6;35;1852,0
+202409201802;4;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;12;reps;4;50,0;70,0;61,2;8,5;10;12;11,5;1,0;46;2800,0
+202409201802;5;Lying Leg Curls;Machine;Lower Body;Leg Curl;Hams;12;reps;3;40,0;40,0;40,0;0,0;8;12;10,7;2,3;32;1280,0
+202409231705;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;50,0;50,0;50,0;0,0;12;12;12,0;0,0;36;1800,0
+202409231705;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;50,0;50,0;50,0;0,0;10;12;10,7;1,2;32;1600,0
+202409231705;3;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;20,0;25,0;21,7;2,9;8;13;11,0;2,6;33;700,0
+202409231705;4;Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;10,0;10,0;10,0;0,0;12;15;13,0;1,5;156;1560,0
+202409231705;5;L Raises;Bodyweight;Core;Leg Raise;Abs;10;reps;3;0,0;0,0;0,0;0,0;9;12;10,7;1,5;32;0,0
+202409241724;1;Bench Press;Dumbbells;Upper Body;Chest Press;Chest;12;reps;3;18,0;18,0;18,0;0,0;12;12;12,0;0,0;72;1296,0
+202409241724;2;Incline Bench Press;Dumbbells;Upper Body;Chest Press;Chest;10;reps;3;12,0;12,0;12,0;0,0;11;15;13,7;2,1;82;984,0
+202409241724;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;16,0;16,0;16,0;0,0;11;12;11,7;0,6;35;560,0
+202409241724;4;Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;9,0;9,0;9,0;0,0;11;12;11,7;0,5;70;630,0
+202409241724;5;Pseudo Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;12;reps;1;0,0;0,0;0,0;;7;7;7,0;;7;0,0
+202409261619;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;200,0;200,0;200,0;0,0;12;15;13,0;1,7;39;7800,0
+202409261619;2;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;12;reps;3;60,0;60,0;60,0;0,0;12;12;12,0;0,0;36;2160,0
+202409261619;3;L Raises;Bodyweight;Core;Leg Raise;Abs;10;reps;3;0,0;0,0;0,0;0,0;12;12;12,0;0,0;36;0,0
+202409261619;4;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;56,0;60,0;57,3;2,1;10;12;11,3;1,0;68;3888,0
+202409261619;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;12;reps;3;65,0;65,0;65,0;0,0;12;12;12,0;0,0;36;2340,0
+202410071747;1;Pull-Ups with Wide Overhand Grip;Bodyweight;Upper Body;Pull-Up;Lats;12;reps;4;0,0;0,0;0,0;0,0;3;8;4,8;2,2;19;0,0
+202410071747;2;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;Upper Body;Row;Upper back;12;reps;4;0,0;0,0;0,0;0,0;6;8;6,8;1,0;27;0,0
+202410071747;3;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;4;10,0;10,0;10,0;0,0;12;12;12,0;0,0;48;480,0
+202410071747;4;Plank;Bodyweight;Core;Plank;Abs;0;secs;4;0,0;0,0;0,0;0,0;60;60;60,0;0,0;240;0,0
+202410071747;5;Rows with Close Grip;TRX;Upper Body;Row;Upper back;10;reps;2;0,0;0,0;0,0;0,0;7;12;9,5;2,9;38;0,0
+202410081525;1;Incline Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;12;reps;4;0,0;0,0;0,0;0,0;12;12;12,0;0,0;48;0,0
+202410081525;2;Dips;Bodyweight;Upper Body;Dip;Triceps;12;reps;4;0,0;0,0;0,0;0,0;2;10;5,0;3,5;20;0,0
+202410081525;3;L Raises;Bodyweight;Core;Leg Raise;Abs;12;reps;4;0,0;0,0;0,0;0,0;6;10;7,5;1,7;30;0,0
+202410081525;4;Lean Away Lateral Raises;Cable;Upper Body;Lateral Raise;Side delts;12;reps;4;5,0;6,0;5,2;0,5;11;12;11,8;0,5;47;246,0
+202410091604;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;4;200,0;210,0;202,5;5,0;10;12;11,5;1,0;46;9300,0
+202410091604;2;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;4;23,0;23,0;23,0;0,0;12;12;12,0;0,0;48;1104,0
+202410091604;3;Seated Calf Raises;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;4;55,0;55,0;55,0;0,0;10;12;11,2;1,0;45;2475,0
+202410101639;1;Lat Pulldowns with Wide Neutral Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;55,0;55,0;55,0;0,0;12;12;12,0;0,0;36;1980,0
+202410101639;2;One-Arm Rows;Dumbbells;Upper Body;Row;Upper back;12;reps;3;20,0;20,0;20,0;0,0;12;12;12,0;0,0;36;720,0
+202410101639;3;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;28,0;28,0;28,0;0,0;12;14;12,7;1,2;38;1064,0
+202410101639;4;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;45,0;45,0;45,0;0,0;12;13;12,3;0,6;37;1665,0
+202410101639;5;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;10,0;10,0;10,0;0,0;12;15;13,0;1,7;39;390,0
+202410101639;6;Plank;Bodyweight;Core;Plank;Abs;0;secs;3;0,0;0,0;0,0;0,0;70;70;70,0;0,0;210;0,0
+202410111615;1;Chest Press;Machine;Upper Body;Chest Press;Chest;12;reps;3;30,0;30,0;30,0;0,0;12;15;13,0;1,7;39;1170,0
+202410111615;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;30,0;32,0;30,7;1,0;10;12;11,3;1,0;68;2088,0
+202410111615;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;40,0;40,0;40,0;0,0;11;12;11,7;0,6;35;1400,0
+202410111615;4;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;8,0;8,0;8,0;0,0;12;14;12,7;1,2;38;304,0
+202410111615;5;Shoulder Press;Machine;Upper Body;Shoulder Press;Front delts;12;reps;3;20,0;20,0;20,0;0,0;12;15;13,0;1,7;39;780,0
+202410111615;6;L Raises;Bodyweight;Core;Leg Raise;Abs;12;reps;3;0,0;0,0;0,0;0,0;9;12;11,0;1,7;33;0,0
+202410121000;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;210,0;210,0;210,0;0,0;12;15;13,0;1,7;39;8190,0
+202410121000;2;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;23,0;23,0;23,0;0,0;12;15;13,0;1,7;39;897,0
+202410121000;3;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;100,0;100,0;100,0;0,0;12;15;13,0;1,7;39;3900,0
+202410121000;4;Hip Abduction;Cable;Lower Body;Hip Abduction;Abductors;12;reps;3;17,0;18,0;17,3;0,5;12;12;12,0;0,0;72;1248,0
+202410121000;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;12;reps;3;72,0;72,0;72,0;0,0;12;15;13,0;1,7;39;2808,0
+202410121000;6;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;12;reps;3;60,0;60,0;60,0;0,0;12;15;13,0;1,7;39;2340,0
+202410141642;1;Lat Pulldowns with Wide Neutral Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;55,0;55,0;55,0;0,0;12;15;13,0;1,7;39;2145,0
+202410141642;2;One-Arm Rows;Dumbbells;Upper Body;Row;Upper back;12;reps;3;20,0;20,0;20,0;0,0;12;12;12,0;0,0;36;720,0
+202410141642;3;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;28,0;28,0;28,0;0,0;12;15;13,0;1,7;39;1092,0
+202410141642;4;Rows with Reverse Grip;Cable;Upper Body;Row;Upper back;12;reps;3;40,0;40,0;40,0;0,0;12;15;13,0;1,7;39;1560,0
+202410141642;5;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;45,0;45,0;45,0;0,0;12;14;12,7;1,2;38;1710,0
+202410141642;6;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;12,0;12,0;12,0;0,0;8;12;9,3;2,3;28;336,0
+202410141642;7;Plank;Bodyweight;Core;Plank;Abs;0;secs;3;0,0;0,0;0,0;0,0;50;80;61,7;16,1;185;0,0
+202410151525;1;Chest Press;Machine;Upper Body;Chest Press;Chest;12;reps;3;32,0;32,0;32,0;0,0;12;15;13,0;1,7;39;1248,0
+202410151525;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;30,0;30,0;30,0;0,0;12;12;12,0;0,0;72;2160,0
+202410151525;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;40,0;40,0;40,0;0,0;12;12;12,0;0,0;36;1440,0
+202410151525;4;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;8,0;8,0;8,0;0,0;12;15;13,0;1,7;39;312,0
+202410151525;5;Front Raises;Dumbbells;Upper Body;Front Raise;Front delts;12;reps;2;12,0;12,0;12,0;0,0;8;8;8,0;0,0;32;384,0
+202410151525;6;Standing Shoulder Press;Barbell;Upper Body;Shoulder Press;Front delts;12;reps;3;10,0;12,0;11,3;1,2;18;20;19,3;1,2;58;656,0
+202410151525;7;L Raises;Bodyweight;Core;Leg Raise;Abs;12;reps;3;0,0;0,0;0,0;0,0;12;12;12,0;0,0;36;0,0
+202410161553;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;216,0;216,0;216,0;0,0;12;15;13,0;1,7;39;8424,0
+202410161553;2;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;24,0;24,0;24,0;0,0;12;12;12,0;0,0;36;864,0
+202410161553;3;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;170,0;170,0;170,0;0,0;12;12;12,0;0,0;36;6120,0
+202410161553;4;Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;30,0;30,0;30,0;0,0;12;15;13,0;1,5;78;2340,0
+202410161553;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;12;reps;3;73,0;73,0;73,0;0,0;12;12;12,0;0,0;36;2628,0
+202410161553;6;Hip Thrusts;Barbell;Lower Body;Hip Thrust;Glutes;12;reps;3;16,0;16,0;16,0;0,0;12;12;12,0;0,0;36;576,0
+202410161553;7;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;12;reps;3;62,0;62,0;62,0;0,0;12;12;12,0;0,0;36;2232,0
+202410211612;1;Lat Pulldowns with Wide Neutral Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;57,0;57,0;57,0;0,0;8;12;10,7;2,3;32;1824,0
+202410211612;2;One-Arm Rows;Dumbbells;Upper Body;Row;Upper back;12;reps;2;20,0;20,0;20,0;0,0;12;12;12,0;0,0;24;480,0
+202410211612;3;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;2;12,0;12,0;12,0;0,0;10;10;10,0;0,0;20;240,0
+202410241617;1;Chest Press;Machine;Upper Body;Chest Press;Chest;12;reps;3;34,0;34,0;34,0;0,0;12;15;13,0;1,7;39;1326,0
+202410241617;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;30,0;30,0;30,0;0,0;12;12;12,0;0,0;72;2160,0
+202410241617;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;40,0;40,0;40,0;0,0;10;12;11,3;1,2;34;1360,0
+202410241617;4;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;9,0;9,0;9,0;0,0;10;11;10,3;0,6;31;279,0
+202410241617;5;L Raises;Bodyweight;Core;Leg Raise;Abs;12;reps;3;0,0;0,0;0,0;0,0;12;12;12,0;0,0;36;0,0
+202410241617;6;Pseudo Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;10;reps;3;0,0;0,0;0,0;0,0;7;10;9,0;1,7;27;0,0
+202410251349;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;220,0;220,0;220,0;0,0;10;12;10,7;1,2;32;7040,0
+202410251349;2;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;24,0;24,0;24,0;0,0;12;15;13,0;1,7;39;936,0
+202410251349;3;Bilateral Calf Press - Horizontal Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;10;reps;3;105,0;105,0;105,0;0,0;12;12;12,0;0,0;36;3780,0
+202410251349;4;Diagonal Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;10;reps;3;30,0;30,0;30,0;0,0;10;12;11,3;1,2;34;1020,0
+202410251349;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;12;reps;3;73,0;73,0;73,0;0,0;12;12;12,0;0,0;36;2628,0
+202410251349;6;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;12;reps;3;63,0;63,0;63,0;0,0;10;12;11,3;1,2;34;2142,0
+202410281642;1;Lat Pulldowns with Wide Neutral Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;57,0;57,0;57,0;0,0;11;12;11,7;0,6;35;1995,0
+202410281642;2;Incline Rows;Dumbbells;Upper Body;Row;Upper back;12;reps;3;16,0;16,0;16,0;0,0;12;13;12,3;0,6;37;592,0
+202410281642;3;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;30,0;30,0;30,0;0,0;10;10;10,0;0,0;30;900,0
+202410281642;4;Rows with Reverse Grip;Cable;Upper Body;Row;Upper back;12;reps;3;40,0;40,0;40,0;0,0;12;15;14,0;1,7;42;1680,0
+202410281642;5;Pullovers;Cable;Upper Body;Lat Pull;Lats;12;reps;3;45,0;45,0;45,0;0,0;12;14;12,7;1,2;38;1710,0
+202410281642;6;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;12,0;12,0;12,0;0,0;9;10;9,7;0,6;29;348,0
+202410281642;7;Plank;Bodyweight;Core;Plank;Abs;0;secs;3;0,0;0,0;0,0;0,0;40;70;56,7;15,3;170;0,0
+202410291639;1;Chest Press;Machine;Upper Body;Chest Press;Chest;12;reps;3;36,0;36,0;36,0;0,0;12;12;12,0;0,0;36;1296,0
+202410291639;2;Incline Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;30,0;30,0;30,0;0,0;8;12;10,3;1,9;62;1860,0
+202410291639;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;40,0;40,0;40,0;0,0;7;12;10,3;2,9;31;1240,0
+202410291639;4;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;3;9,0;9,0;9,0;0,0;10;12;11,3;1,2;34;306,0
+202410291639;5;Weighted L Raises;Bodyweight;Core;Leg Raise;Abs;10;reps;3;1,0;2,0;1,7;0,6;5;10;7,0;2,6;21;37,0
+202410301632;1;Leg Press;Machine;Lower Body;Leg Press;Quads;12;reps;3;210,0;210,0;210,0;0,0;13;15;14,3;1,2;43;9030,0
+202410301632;2;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;25,0;25,0;25,0;0,0;10;12;11,3;1,2;34;850,0
+202410301632;3;Bilateral Calf Press - Horizontal Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;110,0;110,0;110,0;0,0;11;12;11,7;0,6;35;3850,0
+202410301632;4;Diagonal Hip Abduction;Machine;Lower Body;Hip Abduction;Abductors;12;reps;3;36,0;36,0;36,0;0,0;10;10;10,0;0,0;30;1080,0
+202410301632;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;12;reps;3;73,0;73,0;73,0;0,0;8;15;11,0;3,6;33;2409,0
+202410301632;6;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;12;reps;3;63,0;63,0;63,0;0,0;11;12;11,7;0,6;35;2205,0
+202410301632;7;Back Extensions on Roman Chair;Bodyweight;Core;Back Extension;Lower back;12;reps;2;10,0;10,0;10,0;0,0;10;10;10,0;0,0;20;200,0
