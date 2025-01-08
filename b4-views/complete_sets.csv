@@ -99,6 +99,16 @@ workout_id;start_time;week;month;exercise_number;exercise_name;equipment;muscle_
 20240829924;2024-08-29 09:24:00;2024-08-26 09:24:00;2024-08-01;2;Calf Raises on Leg Press;Machine;Lower Body;Calf Raise / Press;Calves;12;reps;3;166,0;166,0;166,0;0,0;12;12;12,0;0,0;36;5976,0
 20240829924;2024-08-29 09:24:00;2024-08-26 09:24:00;2024-08-01;3;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;12;reps;3;25,0;25,0;25,0;0,0;10;12;10,7;1,2;32;800,0
 20240829924;2024-08-29 09:24:00;2024-08-26 09:24:00;2024-08-01;4;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;12;reps;3;72,0;72,0;72,0;0,0;12;15;13,0;1,7;39;2808,0
+20241204721;2024-12-04 07:21:00;2024-12-02 07:21:00;2024-12-01;1;Incline Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;12;reps;3;0,0;0,0;0,0;0,0;10;10;10,0;0,0;30;0,0
+20241204721;2024-12-04 07:21:00;2024-12-02 07:21:00;2024-12-01;2;Dips;Bodyweight;Upper Body;Dip;Triceps;12;reps;3;0,0;0,0;0,0;0,0;6;6;6,0;0,0;18;0,0
+20241204721;2024-12-04 07:21:00;2024-12-02 07:21:00;2024-12-01;3;Pike Push-Ups;Bodyweight;Upper Body;Pike / Handstand;Front delts;12;reps;3;0,0;0,0;0,0;0,0;6;6;6,0;0,0;18;0,0
+20241204721;2024-12-04 07:21:00;2024-12-02 07:21:00;2024-12-01;4;Flys;TRX;Upper Body;Fly;Chest;10;reps;3;0,0;0,0;0,0;0,0;5;5;5,0;0,0;30;0,0
+20241204721;2024-12-04 07:21:00;2024-12-02 07:21:00;2024-12-01;5;Weighted L Raises;Bodyweight;Core;Leg Raise;Abs;12;reps;3;1,0;1,0;1,0;0,0;10;10;10,0;0,0;30;30,0
+20241224936;2024-12-24 09:36:00;2024-12-23 09:36:00;2024-12-01;1;Incline Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;8;reps;4;0,0;0,0;0,0;0,0;3;4;3,5;0,6;14;0,0
+20241224936;2024-12-24 09:36:00;2024-12-23 09:36:00;2024-12-01;2;Dips;Bodyweight;Upper Body;Dip;Triceps;8;reps;4;0,0;0,0;0,0;0,0;2;3;2,5;0,6;10;0,0
+20241224936;2024-12-24 09:36:00;2024-12-23 09:36:00;2024-12-01;3;Pike Push-Ups;Bodyweight;Upper Body;Pike / Handstand;Front delts;8;reps;4;0,0;0,0;0,0;0,0;3;3;3,0;0,0;12;0,0
+20250104931;2025-01-04 09:31:00;2024-12-30 09:31:00;2025-01-01;1;Pull-Ups with Close Neutral Grip;Bodyweight;Upper Body;Pull-Up;Lats;10;reps;2;0,0;0,0;0,0;0,0;6;6;6,0;0,0;12;0,0
+20250104931;2025-01-04 09:31:00;2024-12-30 09:31:00;2025-01-01;3;Goblet Squats;Dumbbells;Lower Body;Squat;Quads;10;reps;2;20,0;20,0;20,0;0,0;15;16;15,5;0,7;31;310,0
 202310031424;2023-10-03 14:24:00;2023-10-02 14:24:00;2023-10-01;1;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;55,0;55,0;55,0;0,0;8;15;10,7;3,8;32;1760,0
 202310031424;2023-10-03 14:24:00;2023-10-02 14:24:00;2023-10-01;2;Chest-Supported Low Rows with Neutral Grip;Machine;Upper Body;Row;Upper back;12;reps;3;76,0;84,0;80,0;4,0;12;15;14,0;1,7;42;3348,0
 202310031424;2023-10-03 14:24:00;2023-10-02 14:24:00;2023-10-01;3;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;35,0;35,0;35,0;0,0;8;12;10,7;2,3;32;1120,0
@@ -970,3 +980,81 @@ workout_id;start_time;week;month;exercise_number;exercise_name;equipment;muscle_
 202410301632;2024-10-30 16:32:00;2024-10-28 16:32:00;2024-10-01;5;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;12;reps;3;73,0;73,0;73,0;0,0;8;15;11,0;3,6;33;2409,0
 202410301632;2024-10-30 16:32:00;2024-10-28 16:32:00;2024-10-01;6;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;12;reps;3;63,0;63,0;63,0;0,0;11;12;11,7;0,6;35;2205,0
 202410301632;2024-10-30 16:32:00;2024-10-28 16:32:00;2024-10-01;7;Back Extensions on Roman Chair;Bodyweight;Core;Back Extension;Lower back;12;reps;2;10,0;10,0;10,0;0,0;10;10;10,0;0,0;20;200,0
+202410311648;2024-10-31 16:48:00;2024-10-28 16:48:00;2024-10-01;1;Lat Pulldowns with Wide Neutral Grip;Cable;Upper Body;Pulldown;Lats;12;reps;3;57,0;57,0;57,0;0,0;12;12;12,0;0,0;36;2052,0
+202410311648;2024-10-31 16:48:00;2024-10-28 16:48:00;2024-10-01;2;Incline Rows;Dumbbells;Upper Body;Row;Upper back;12;reps;3;28,0;28,0;28,0;0,0;15;15;15,0;0,0;45;630,0
+202410311648;2024-10-31 16:48:00;2024-10-28 16:48:00;2024-10-01;3;Reverse Butterfly with Wide Grip;Machine;Upper Body;Reverse Fly;Rear delts;12;reps;3;25,0;27,0;26,3;1,2;12;15;14,0;1,7;42;1104,0
+202410311648;2024-10-31 16:48:00;2024-10-28 16:48:00;2024-10-01;4;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;20,0;20,0;20,0;0,0;13;15;14,3;1,2;43;430,0
+202411011618;2024-11-01 16:18:00;2024-10-28 16:18:00;2024-11-01;1;Bench Press;Barbell;Upper Body;Chest Press;Chest;12;reps;3;34,0;34,0;34,0;0,0;15;15;15,0;0,0;90;3060,0
+202411011618;2024-11-01 16:18:00;2024-10-28 16:18:00;2024-11-01;2;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;12;reps;3;25,0;30,0;28,3;2,9;10;15;12,3;2,5;37;1050,0
+202411011618;2024-11-01 16:18:00;2024-10-28 16:18:00;2024-11-01;3;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;12;reps;2;16,0;16,0;16,0;0,0;15;15;15,0;0,0;30;240,0
+202411011618;2024-11-01 16:18:00;2024-10-28 16:18:00;2024-11-01;4;Weighted L Raises;Bodyweight;Core;Leg Raise;Abs;10;reps;3;1,0;1,0;1,0;0,0;8;12;9,7;2,1;29;29,0
+202411041720;2024-11-04 17:20:00;2024-11-04 17:20:00;2024-11-01;1;Rows with Close Grip;TRX;Upper Body;Row;Upper back;10;reps;6;0,0;0,0;0,0;0,0;6;12;9,7;2,5;116;0,0
+202411051705;2024-11-05 17:05:00;2024-11-04 17:05:00;2024-11-01;1;Chest Press;TRX;Upper Body;Chest Press;Chest;10;reps;6;0,0;0,0;0,0;0,0;12;12;12,0;0,0;72;0,0
+202411111634;2024-11-11 16:34:00;2024-11-11 16:34:00;2024-11-01;1;Lat Pulldowns with Wide Neutral Grip;Cable;Upper Body;Pulldown;Lats;15;reps;3;50,0;50,0;50,0;0,0;15;15;15,0;0,0;45;2250,0
+202411111634;2024-11-11 16:34:00;2024-11-11 16:34:00;2024-11-01;2;One-Arm Rows;Dumbbells;Upper Body;Row;Upper back;15;reps;3;28,0;28,0;28,0;0,0;15;15;15,0;0,0;45;630,0
+202411111634;2024-11-11 16:34:00;2024-11-11 16:34:00;2024-11-01;3;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;15;reps;3;18,0;18,0;18,0;0,0;15;15;15,0;0,0;45;405,0
+202411121655;2024-11-12 16:55:00;2024-11-11 16:55:00;2024-11-01;1;Bench Press;Dumbbells;Upper Body;Chest Press;Chest;15;reps;3;32,0;32,0;32,0;0,0;15;15;15,0;0,0;90;1440,0
+202411121655;2024-11-12 16:55:00;2024-11-11 16:55:00;2024-11-01;2;Triceps Pushdowns with Rope;Cable;Upper Body;Triceps Extension;Triceps;15;reps;3;20,0;25,0;21,7;2,9;12;15;14,0;1,7;42;900,0
+202411121655;2024-11-12 16:55:00;2024-11-11 16:55:00;2024-11-01;3;Seated Shoulder Press;Dumbbells;Upper Body;Shoulder Press;Front delts;15;reps;3;12,0;12,0;12,0;0,0;15;15;15,0;0,0;90;540,0
+202411131632;2024-11-13 16:32:00;2024-11-11 16:32:00;2024-11-01;1;Leg Press;Machine;Lower Body;Leg Press;Quads;15;reps;3;200,0;200,0;200,0;0,0;8;15;12,7;4,0;38;7600,0
+202411131632;2024-11-13 16:32:00;2024-11-11 16:32:00;2024-11-01;2;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;15;reps;1;22,0;22,0;22,0;;15;15;15,0;;15;330,0
+202411181722;2024-11-18 17:22:00;2024-11-18 17:22:00;2024-11-01;1;Pull-Ups with Close Neutral Grip;Bodyweight;Upper Body;Pull-Up;Lats;10;reps;3;0,0;0,0;0,0;0,0;6;10;7,3;2,3;22;0,0
+202411181722;2024-11-18 17:22:00;2024-11-18 17:22:00;2024-11-01;2;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;Upper Body;Row;Upper back;10;reps;3;0,0;0,0;0,0;0,0;11;12;11,7;0,6;35;0,0
+202411181722;2024-11-18 17:22:00;2024-11-18 17:22:00;2024-11-01;3;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;10;reps;3;24,0;24,0;24,0;0,0;5;10;7,3;2,5;22;264,0
+202411181722;2024-11-18 17:22:00;2024-11-18 17:22:00;2024-11-01;4;Concentration Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;10;reps;1;18,0;18,0;18,0;;6;6;6,0;;6;54,0
+202411191651;2024-11-19 16:51:00;2024-11-18 16:51:00;2024-11-01;1;Incline Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;10;reps;3;0,0;0,0;0,0;0,0;12;12;12,0;0,0;36;0,0
+202411191651;2024-11-19 16:51:00;2024-11-18 16:51:00;2024-11-01;2;Dips;Bodyweight;Upper Body;Dip;Triceps;10;reps;3;0,0;0,0;0,0;0,0;3;9;6,0;3,0;18;0,0
+202411191651;2024-11-19 16:51:00;2024-11-18 16:51:00;2024-11-01;3;Pike Push-Ups;Bodyweight;Upper Body;Pike / Handstand;Front delts;10;reps;3;0,0;0,0;0,0;0,0;6;7;6,3;0,6;19;0,0
+202411191651;2024-11-19 16:51:00;2024-11-18 16:51:00;2024-11-01;4;Weighted L Raises;Bodyweight;Core;Leg Raise;Abs;10;reps;3;1,0;1,0;1,0;0,0;8;12;10,7;2,3;32;32,0
+202411201624;2024-11-20 16:24:00;2024-11-18 16:24:00;2024-11-01;1;Pistol Squats;TRX;Lower Body;Squat;Quads;12;reps;3;0,0;0,0;0,0;0,0;4;12;8,3;4,0;25;0,0
+202411201624;2024-11-20 16:24:00;2024-11-18 16:24:00;2024-11-01;3;Standing Calf Raises;Bodyweight;Lower Body;Calf Raise / Press;Calves;12;reps;3;0,0;0,0;0,0;0,0;15;20;17,3;2,3;104;0,0
+202411251515;2024-11-25 15:15:00;2024-11-25 15:15:00;2024-11-01;1;Pull-Ups with Close Neutral Grip;Bodyweight;Upper Body;Pull-Up;Lats;12;reps;3;0,0;0,0;0,0;0,0;5;5;5,0;0,0;15;0,0
+202411251515;2024-11-25 15:15:00;2024-11-25 15:15:00;2024-11-01;2;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;Upper Body;Row;Upper back;12;reps;3;0,0;0,0;0,0;0,0;8;8;8,0;0,0;24;0,0
+202411251515;2024-11-25 15:15:00;2024-11-25 15:15:00;2024-11-01;3;Concentration Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;18,0;18,0;18,0;0,0;7;7;7,0;0,0;21;189,0
+202411251515;2024-11-25 15:15:00;2024-11-25 15:15:00;2024-11-01;5;Plank;Bodyweight;Core;Plank;Abs;0;secs;3;0,0;0,0;0,0;0,0;45;45;45,0;0,0;135;0,0
+202411261406;2024-11-26 14:06:00;2024-11-25 14:06:00;2024-11-01;1;Incline Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;12;reps;3;0,0;0,0;0,0;0,0;6;8;7,0;1,0;21;0,0
+202411261406;2024-11-26 14:06:00;2024-11-25 14:06:00;2024-11-01;2;Dips;Bodyweight;Upper Body;Dip;Triceps;12;reps;3;0,0;0,0;0,0;0,0;4;4;4,0;0,0;12;0,0
+202411261406;2024-11-26 14:06:00;2024-11-25 14:06:00;2024-11-01;3;Pike Push-Ups;Bodyweight;Upper Body;Pike / Handstand;Front delts;12;reps;3;0,0;0,0;0,0;0,0;4;5;4,7;0,6;14;0,0
+202411261406;2024-11-26 14:06:00;2024-11-25 14:06:00;2024-11-01;4;Weighted L Raises;Bodyweight;Core;Leg Raise;Abs;12;reps;3;1,0;1,0;1,0;0,0;4;8;6,3;2,1;19;19,0
+202411271455;2024-11-27 14:55:00;2024-11-25 14:55:00;2024-11-01;1;Pistol Squats;TRX;Lower Body;Squat;Quads;12;reps;3;0,0;0,0;0,0;0,0;6;6;6,0;0,0;18;0,0
+202411271455;2024-11-27 14:55:00;2024-11-25 14:55:00;2024-11-01;3;Standing Calf Raises;Bodyweight;Lower Body;Calf Raise / Press;Calves;12;reps;3;0,0;0,0;0,0;0,0;12;15;13,0;1,5;78;0,0
+202411281441;2024-11-28 14:41:00;2024-11-25 14:41:00;2024-11-01;2;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;Upper Body;Row;Upper back;12;reps;3;0,0;0,0;0,0;0,0;8;10;9,3;1,2;28;0,0
+202411281441;2024-11-28 14:41:00;2024-11-25 14:41:00;2024-11-01;3;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;20,0;20,0;20,0;0,0;10;10;10,0;0,0;30;300,0
+202411281441;2024-11-28 14:41:00;2024-11-25 14:41:00;2024-11-01;4;One-Arm Rows;TRX;Upper Body;Row;Upper back;10;reps;3;0,0;0,0;0,0;0,0;4;5;4,7;0,6;14;0,0
+202411281441;2024-11-28 14:41:00;2024-11-25 14:41:00;2024-11-01;6;Skin the cat;Bodyweight;Upper Body;Lat Pull;Lats;10;reps;3;0,0;0,0;0,0;0,0;3;4;3,3;0,6;10;0,0
+202411291140;2024-11-29 11:40:00;2024-11-25 11:40:00;2024-11-01;1;Incline Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;12;reps;3;0,0;0,0;0,0;0,0;9;9;9,0;0,0;27;0,0
+202411291140;2024-11-29 11:40:00;2024-11-25 11:40:00;2024-11-01;2;Dips;Bodyweight;Upper Body;Dip;Triceps;12;reps;3;0,0;0,0;0,0;0,0;5;5;5,0;0,0;15;0,0
+202411291140;2024-11-29 11:40:00;2024-11-25 11:40:00;2024-11-01;3;Pike Push-Ups;Bodyweight;Upper Body;Pike / Handstand;Front delts;12;reps;3;0,0;0,0;0,0;0,0;5;5;5,0;0,0;15;0,0
+202411291140;2024-11-29 11:40:00;2024-11-25 11:40:00;2024-11-01;4;Weighted L Raises;Bodyweight;Core;Leg Raise;Abs;12;reps;3;1,0;1,0;1,0;0,0;8;8;8,0;0,0;24;24,0
+202412021027;2024-12-02 10:27:00;2024-12-02 10:27:00;2024-12-01;2;Pistol Squats;TRX;Lower Body;Squat;Quads;12;reps;3;0,0;0,0;0,0;0,0;7;7;7,0;0,0;21;0,0
+202412021027;2024-12-02 10:27:00;2024-12-02 10:27:00;2024-12-01;3;Standing Calf Raises;Bodyweight;Lower Body;Calf Raise / Press;Calves;12;reps;3;0,0;0,0;0,0;0,0;15;15;15,0;0,0;90;0,0
+202412031617;2024-12-03 16:17:00;2024-12-02 16:17:00;2024-12-01;2;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;Upper Body;Row;Upper back;12;reps;3;0,0;0,0;0,0;0,0;9;12;10,3;1,5;31;0,0
+202412031617;2024-12-03 16:17:00;2024-12-02 16:17:00;2024-12-01;3;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;20,0;20,0;20,0;0,0;12;12;12,0;0,0;36;360,0
+202412031617;2024-12-03 16:17:00;2024-12-02 16:17:00;2024-12-01;4;Skin the cat;Bodyweight;Upper Body;Lat Pull;Lats;10;reps;3;0,0;0,0;0,0;0,0;4;4;4,0;0,0;12;0,0
+202412031617;2024-12-03 16:17:00;2024-12-02 16:17:00;2024-12-01;5;One-Arm Rows;TRX;Upper Body;Row;Upper back;10;reps;3;0,0;0,0;0,0;0,0;7;8;7,3;0,6;22;0,0
+202412051416;2024-12-05 14:16:00;2024-12-02 14:16:00;2024-12-01;1;Pistol Squats;TRX;Lower Body;Squat;Quads;12;reps;3;0,0;0,0;0,0;0,0;8;8;8,0;0,0;24;0,0
+202412051416;2024-12-05 14:16:00;2024-12-02 14:16:00;2024-12-01;3;Standing Calf Raises;Bodyweight;Lower Body;Calf Raise / Press;Calves;12;reps;3;5,0;5,0;5,0;0,0;12;12;12,0;0,0;72;360,0
+202412161105;2024-12-16 11:05:00;2024-12-16 11:05:00;2024-12-01;2;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;Upper Body;Row;Upper back;12;reps;3;0,0;0,0;0,0;0,0;8;10;9,3;1,2;28;0,0
+202412161105;2024-12-16 11:05:00;2024-12-16 11:05:00;2024-12-01;3;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;12;reps;3;24,0;24,0;24,0;0,0;8;8;8,0;0,0;24;288,0
+202412171411;2024-12-17 14:11:00;2024-12-16 14:11:00;2024-12-01;1;Incline Archer Push-Ups;Bodyweight;Upper Body;Push-Up;Chest;12;reps;3;0,0;0,0;0,0;0,0;12;15;13,0;1,7;39;0,0
+202412171411;2024-12-17 14:11:00;2024-12-16 14:11:00;2024-12-01;2;Dips;Bodyweight;Upper Body;Dip;Triceps;12;reps;3;0,0;0,0;0,0;0,0;4;6;5,0;1,0;15;0,0
+202412171411;2024-12-17 14:11:00;2024-12-16 14:11:00;2024-12-01;4;Pike Push-Ups;Bodyweight;Upper Body;Pike / Handstand;Front delts;12;reps;3;0,0;0,0;0,0;0,0;6;6;6,0;0,0;18;0,0
+202412181722;2024-12-18 17:22:00;2024-12-16 17:22:00;2024-12-01;1;Pistol Squats;TRX;Lower Body;Squat;Quads;12;reps;3;0,0;0,0;0,0;0,0;8;10;8,7;1,2;26;0,0
+202412181722;2024-12-18 17:22:00;2024-12-16 17:22:00;2024-12-01;3;Standing Calf Raises;Bodyweight;Lower Body;Calf Raise / Press;Calves;12;reps;3;10,0;10,0;10,0;0,0;12;12;12,0;0,0;72;720,0
+202412231317;2024-12-23 13:17:00;2024-12-23 13:17:00;2024-12-01;2;Inverted Rows on Smith Machine with Reverse Grip;Bodyweight;Upper Body;Row;Upper back;8;reps;4;0,0;0,0;0,0;0,0;3;3;3,0;0,0;12;0,0
+202412231317;2024-12-23 13:17:00;2024-12-23 13:17:00;2024-12-01;3;Seated Curls;Dumbbells;Upper Body;Biceps Curl;Biceps;8;reps;4;24,0;24,0;24,0;0,0;4;4;4,0;0,0;16;192,0
+202412261418;2024-12-26 14:18:00;2024-12-23 14:18:00;2024-12-01;1;Pistol Squats;TRX;Lower Body;Squat;Quads;8;reps;3;0,0;0,0;0,0;0,0;2;3;2,7;0,6;8;0,0
+202412261418;2024-12-26 14:18:00;2024-12-23 14:18:00;2024-12-01;2;Seated Leg Curls;Machine;Lower Body;Leg Curl;Hams;10;reps;3;30,0;30,0;30,0;0,0;10;15;12,3;2,5;37;1110,0
+202412261418;2024-12-26 14:18:00;2024-12-23 14:18:00;2024-12-01;3;Standing Calf Raises;Bodyweight;Lower Body;Calf Raise / Press;Calves;8;reps;2;0,0;0,0;0,0;0,0;8;8;8,0;0,0;32;0,0
+202501061420;2025-01-06 14:20:00;2025-01-06 14:20:00;2025-01-01;1;Bench Press;Dumbbells;Upper Body;Chest Press;Chest;15;reps;3;32,0;32,0;32,0;0,0;13;15;14,3;1,0;86;1376,0
+202501061420;2025-01-06 14:20:00;2025-01-06 14:20:00;2025-01-01;2;One-Arm Rows;Dumbbells;Upper Body;Row;Upper back;15;reps;3;28,0;28,0;28,0;0,0;15;15;15,0;0,0;45;630,0
+202501061420;2025-01-06 14:20:00;2025-01-06 14:20:00;2025-01-01;3;Seated Shoulder Press;Dumbbells;Upper Body;Shoulder Press;Front delts;15;reps;3;12,0;12,0;12,0;0,0;15;16;15,3;0,5;92;552,0
+202501061420;2025-01-06 14:20:00;2025-01-06 14:20:00;2025-01-01;4;Butterfly with Close Grip;Machine;Upper Body;Fly;Chest;15;reps;2;30,0;30,0;30,0;0,0;15;15;15,0;0,0;30;900,0
+202501061420;2025-01-06 14:20:00;2025-01-06 14:20:00;2025-01-01;5;Lat Pulldowns with Wide Overhand Grip;Cable;Upper Body;Pulldown;Lats;15;reps;2;40,0;40,0;40,0;0,0;15;15;15,0;0,0;30;1200,0
+202501061420;2025-01-06 14:20:00;2025-01-06 14:20:00;2025-01-01;6;Seated Lateral Raises;Dumbbells;Upper Body;Lateral Raise;Side delts;15;reps;2;16,0;16,0;16,0;0,0;15;15;15,0;0,0;30;240,0
+202501061420;2025-01-06 14:20:00;2025-01-06 14:20:00;2025-01-01;7;Triceps Pushdowns;Cable;Upper Body;Triceps Extension;Triceps;15;reps;3;30,0;30,0;30,0;0,0;15;15;15,0;0,0;45;1350,0
+202501061420;2025-01-06 14:20:00;2025-01-06 14:20:00;2025-01-01;8;Curls;Cable;Upper Body;Biceps Curl;Biceps;15;reps;3;25,0;25,0;25,0;0,0;12;15;14,0;1,5;168;4200,0
+202501071229;2025-01-07 12:29:00;2025-01-06 12:29:00;2025-01-01;2;Romanian Deadlifts;Barbell;Lower Body;Deadlift;Glutes;10;reps;3;10,0;10,0;10,0;0,0;15;15;15,0;0,0;45;450,0
+202501071229;2025-01-07 12:29:00;2025-01-06 12:29:00;2025-01-01;3;Standing Calf Raises;Bodyweight;Lower Body;Calf Raise / Press;Calves;15;reps;3;5,0;5,0;5,0;0,0;15;15;15,0;0,0;90;450,0
+202501071229;2025-01-07 12:29:00;2025-01-06 12:29:00;2025-01-01;4;Leg Extensions;Machine;Lower Body;Leg Extension;Quads;15;reps;3;55,0;60,0;58,3;2,9;15;15;15,0;0,0;45;2625,0
+202501071229;2025-01-07 12:29:00;2025-01-06 12:29:00;2025-01-01;5;Leg Curls on Leg Extension Machine;Machine;Lower Body;Leg Curl;Hams;15;reps;3;20,0;20,0;20,0;0,0;15;15;15,0;0,0;45;900,0
