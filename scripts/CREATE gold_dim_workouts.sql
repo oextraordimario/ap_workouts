@@ -1,5 +1,5 @@
--- DROP TABLE workouts.gold_dim_workouts
-CREATE TABLE workouts.gold_dim_workouts (
+-- DROP TABLE ap_workouts.gold_dim_workouts
+CREATE TABLE ap_workouts.gold_dim_workouts (
 	id TEXT,
 	day_name TEXT,
 	day_number TEXT,

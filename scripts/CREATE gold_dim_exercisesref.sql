@@ -1,5 +1,5 @@
--- DROP TABLE workouts.gold_dim_exercisesref
-CREATE TABLE workouts.gold_dim_exercisesref (
+-- DROP TABLE ap_workouts.gold_dim_exercisesref
+CREATE TABLE ap_workouts.gold_dim_exercisesref (
 	id TEXT,
 	custom_exercise BOOL,
 	exercise_name TEXT,

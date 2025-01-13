@@ -1,5 +1,5 @@
--- DROP TABLE workouts.gold_fact_sets
-CREATE TABLE workouts.gold_fact_sets (
+-- DROP TABLE ap_workouts.gold_fact_sets
+CREATE TABLE ap_workouts.gold_fact_sets (
 	id TEXT,
 	exercise_id TEXT,
 	workout_id TEXT,
