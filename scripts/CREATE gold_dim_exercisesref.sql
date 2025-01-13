@@ -1,5 +1,6 @@
 -- DROP TABLE workouts.gold_dim_exercisesref
 CREATE TABLE workouts.gold_dim_exercisesref (
+	id TEXT,
 	custom_exercise BOOL,
 	exercise_name TEXT,
 	equipment TEXT,
@@ -11,5 +12,5 @@ CREATE TABLE workouts.gold_dim_exercisesref (
 	metrics TEXT,
 	bodyweight TEXT,
 	notes TEXT,
-	PRIMARY KEY (exercise_name, equipment)
+	PRIMARY KEY (id)
 )

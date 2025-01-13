@@ -1,6 +1,7 @@
 -- DROP TABLE workouts.gold_fact_sets
 CREATE TABLE workouts.gold_fact_sets (
 	id TEXT,
+	exercise_id TEXT,
 	workout_id TEXT,
 	exercise_number TEXT,
 	exercise_name TEXT,
