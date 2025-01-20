@@ -1,5 +1,5 @@
--- DROP VIEW ap_workouts.view_obt_allsets
-CREATE OR REPLACE VIEW ap_workouts.view_obt_allsets AS
+-- DROP VIEW ap_workouts.view_obt_everyset CASCADE
+CREATE OR REPLACE VIEW ap_workouts.view_obt_everyset AS
 SELECT
 	"sets".id
 	, "sets".workout_id

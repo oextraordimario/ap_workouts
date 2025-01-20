@@ -1,4 +1,4 @@
--- DROP VIEW ap_workouts.view_agg_completesets
+-- DROP VIEW ap_workouts.view_agg_completesets CASCADE
 CREATE OR REPLACE VIEW ap_workouts.view_agg_completesets AS
 SELECT
 	workout_id
@@ -12,7 +12,7 @@ SELECT
 	, exercise_group
 	, goal
 	, measure
-	, MAX(set_number) AS "sets_total"
+	, MAX(set_number::int) AS "sets_total"
 	-- WEIGHT
 	, MIN(weight) AS "weight_min"
 	, MAX(weight) AS "weight_max"
@@ -34,6 +34,7 @@ SELECT
 	, MAX(volume) AS "volume_max"
 	, ROUND(AVG(volume), 1) AS "volume_avg"
 	, ROUND(STDDEV(volume), 1) AS "volume_stdev"
-FROM ap_workouts.view_obt_allsets
+	, SUM(volume) AS "volume_total"
+FROM ap_workouts.view_obt_everyset
 GROUP BY 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
 ORDER BY 1 ASC, 2 ASC
