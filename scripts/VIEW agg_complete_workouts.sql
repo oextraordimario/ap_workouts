@@ -27,8 +27,8 @@ SELECT
 	, workout_end_time
 	, workout_duration_min
 	--, measure
-	, MAX(total_exercises) AS "total_exercises"
-	, MAX(total_sets) AS "total_sets"
+	, MAX(total_exercises)::INT AS "total_exercises"
+	, MAX(total_sets)::INT AS "total_sets"
 	, SUM(total_reps) AS "total_reps"
 	, SUM(total_secs) AS "total_secs"
 	, SUM(total_volume) AS "total_volume"

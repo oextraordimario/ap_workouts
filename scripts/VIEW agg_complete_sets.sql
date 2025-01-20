@@ -12,7 +12,7 @@ SELECT
 	, exercise_group
 	, goal
 	, measure
-	, MAX(set_number::int) AS "sets_total"
+	, MAX(set_number)::INT AS "sets_total"
 	-- WEIGHT
 	, MIN(weight) AS "weight_min"
 	, MAX(weight) AS "weight_max"
