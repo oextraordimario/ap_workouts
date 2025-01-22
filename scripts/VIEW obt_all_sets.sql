@@ -6,6 +6,7 @@ SELECT
 	, workouts.start_time AS "workout_start_time"
 	, workouts.end_time AS "workout_end_time"
 	, workouts.duration AS "workout_duration_min"
+	, exercises.id AS "exercise_id"
 	, "sets".exercise_name
 	, "sets".equipment
 	, exercises.muscle_group
@@ -32,7 +33,6 @@ ORDER BY 1 ASC
 	--, workouts.plan_function
 	--, "sets".exercise_id
 	--, "sets".workout_id
-	--, exercises.id
 	--, exercises.custom_exercise
 	--, exercises.exercise_name
 	--, exercises.equipment

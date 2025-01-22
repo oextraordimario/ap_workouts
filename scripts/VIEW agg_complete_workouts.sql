@@ -36,4 +36,4 @@ FROM cte1
 GROUP BY 1, 2, 3, 4
 ORDER BY 1 ASC
 
-SELECT SUM(quantity_total) FROM ap_workouts.view_agg_completesets WHERE workout_id = '202310031424'
+--SELECT SUM(quantity_total) FROM ap_workouts.view_agg_completesets WHERE workout_id = '202310031424'

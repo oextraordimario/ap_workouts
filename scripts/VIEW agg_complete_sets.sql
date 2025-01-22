@@ -6,6 +6,7 @@ SELECT
 	, workout_start_time
 	, workout_end_time
 	, workout_duration_min
+	, exercise_id
 	, exercise_name
 	, equipment
 	, muscle_group
@@ -36,5 +37,5 @@ SELECT
 	, ROUND(STDDEV(volume), 1) AS "volume_stdev"
 	, SUM(volume) AS "volume_total"
 FROM ap_workouts.view_obt_everyset
-GROUP BY 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+GROUP BY 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
 ORDER BY 1 ASC, 2 ASC
